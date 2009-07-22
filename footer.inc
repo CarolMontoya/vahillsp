@@ -1,4 +1,6 @@
 		</div>
+		</div>
+		</div>
 		<div id="ft">
     <div class="center">
       <address>
@@ -16,7 +18,6 @@
            href=
            "mailto:webmaster@vahillspool.org">webmaster@vahillspool.org</a>
       </p>
-    </div>
     </div>
     <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");

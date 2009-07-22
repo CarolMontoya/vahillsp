@@ -15,7 +15,7 @@ version: 2.7.0
 body {
     background-color: #DCF7FF;
     font-family:arial,helvetica,sans-serif;
-    font-size:8pt;
+    font-size:100%;
     color:#333333;
 }
 
@@ -159,29 +159,26 @@ input[type="submit"] {
         padding-left:38px;
         font-family:arial,helvetica,sans-serif;
         color:blue;
-        font-size:14pt;
+        font-size:108%;
         margin:10px;
     }
     ul.collage-links a {
         text-decoration:none;
     }
-    p.footer {color: #36B0FF; font-size: 8pt; font-weight: bold; text-align: center}
+    p.footer {color: #36B0FF; font-size: 77%; font-weight: bold; text-align: center}
     a.no-underline{text-decoration:none;}
     div.left{text-align: left}
     div.posrel{position:relative;}
-    div.collage-blurb{position:absolute;top:370px;right:10px;width:300px;font-size:9pt;z-index:1}
+    div.collage-blurb{position:absolute;top:370px;right:10px;width:300px;font-size:85%;z-index:1}
     div.collage-header{position:absolute;top:25px;right:5px;width:165px;z-index:1}
-    div.image-title {position:absolute;top:5px;left:5px;font-weight:bold;font-size:14pt;color:#333333}
+    div.image-title {position:absolute;top:5px;left:5px;font-weight:bold;font-size:108%;color:#333333}
     div.center {text-align: center}
     iframe {frameborder: 0}
-    a.webmaster {font-size:8pt}
-    p {font-size:10pt;}
-    td {font-size:10pt;}
+    a.webmaster {font-size:77%}
 	table.schedule {border-width:1px;border-style:outset;}
 	table.schedule  td {text-align:center;border-width:1px;border-style:inset;}
 	table.schedule td.header {vertical-align:top;text-align:center;}
 	table.schedule td.rowheader {text-align:left;font-weight:bold;}
 	table.schedule td.rowlead {text-align:left;}
 	table.meet td {text-align:center;}
-	table.meet th {font-size:12px;}
-	
+	table.meet th {font-size:100%;}

@@ -1,3 +1,4 @@
+<div class="center">
       <p>
         <a href="location.html"
            target="_top"><img src="images/location.gif"
@@ -54,3 +55,4 @@
              border="0"
              alt="Home"></a>
       </p>
+</div>
