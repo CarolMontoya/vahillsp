@@ -1,20 +1,3 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-  <head>
-    <meta name="generator"
-          content=
-          "HTML Tidy for Windows (vers 12 April 2005), see www.w3.org">
-          
-    <meta http-equiv="Content-Type"
-          content="text/html; charset=utf-8">
-    <link rel="stylesheet"
-          href="vahillspool.css"
-          type="text/css"
-          media="screen">
-    <title></title>
-  </head>
-  <body>
-    <div class="center">
       <p>
         <a href="location.html"
            target="_top"><img src="images/location.gif"
@@ -71,6 +54,3 @@
              border="0"
              alt="Home"></a>
       </p>
-    </div>
-  </body>
-</html>
