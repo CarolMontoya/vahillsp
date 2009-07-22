@@ -19,8 +19,8 @@
 				  </a>
 			</div>
 			<div id="bd">
+				<div class="yui-b">
+        	<?php include_once "navigation.inc"; ?>
+        </div>
 				<div id="yui-main">
-					<div class="yui-b">
-          	<?php include_once "navigation.inc"; ?>
-          </div>
           <div class="yui-b">
