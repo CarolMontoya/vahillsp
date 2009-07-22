@@ -1,5 +1,6 @@
 <?php 
-	global $siteTitle = "Home";
+	global $siteTitle;
+	$siteTitle = "Home";
 	include_once "header.inc"; 
 ?>
 Content
