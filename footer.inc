@@ -2,7 +2,7 @@
 		</div>
 		</div>
 		<div id="ft">
-    <div class="center">
+    <div class="center rounded">
       <address>
         <p class="footer">
           Virginia Hills Swim Club ■ <a class="c8"
@@ -13,11 +13,9 @@
           Guard Shack (during pool hours): (703) 960-9717
         </p>
       </address>
-      <p>
         <a class="webmaster"
            href=
            "mailto:webmaster@vahillspool.org">webmaster@vahillspool.org</a>
-      </p>
     </div>
     <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");

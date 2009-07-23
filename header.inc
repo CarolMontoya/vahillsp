@@ -9,14 +9,17 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link rel="stylesheet" href="css/vahillspool.css" type="text/css" media=
     "screen">
+    <script type="text/JavaScript" src="js/curvycorners.js"></script>
   </head>
   <body>
-  	<div id="doc4" class="yui-t2">
+  	<div id="doc" class="yui-t2">
   		<div id="hd">
+  			<div class="rounded")
 		  		<a href="index.php">
           <img src="images/header.gif" width="800" height="178" border="0"
           alt="Virginia Hills Pool Home">
 				  </a>
+				</div>
 			</div>
 			<div id="bd">
 				<div class="yui-b">

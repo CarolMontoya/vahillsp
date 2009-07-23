@@ -12,131 +12,146 @@ version: 2.7.0
  * @requires reset, fonts
 */
 
-body {
+/* 
+Extra reset for address element that has styling in IE8.
+YUI reset has one for address, but sets it to inherit, which
+it appears not to do in IE8?
+*/
+address {
+  font-style: normal;
+  font-weight: normal;
+}
+
+/* styling the HTML element to avoid ugly white lines top and bottom in FF 3.5 */
+html {
     background-color: #DCF7FF;
+    background-image: url(../images/site/backgwaves.jpg);
     font-family:arial,helvetica,sans-serif;
+    color:#333333;  
+}
+
+body {
     font-size:100%;
-    color:#333333;
 }
 
 h1 {
-	/* 18px via YUI Fonts CSS foundation. */
-	font-size: 138.5%;
-	background-image:url(images/smallwaveblue.gif);
-	background-repeat:no-repeat;
-	height:37px;
-	padding-left:50px;
-	padding-top:17px;
+  /* 18px via YUI Fonts CSS foundation. */
+  font-size: 138.5%;
+  background-image:url(../images/smallwaveblue.gif);
+  background-repeat:no-repeat;
+  height:37px;
+  padding-left:50px;
+  padding-top:17px;
 }
 
 h2 {
-	/* 16px via YUI Fonts CSS foundation. */
-	font-size: 123.1%;
-	background-image:url(images/smallwaveblue.gif);
-	background-repeat:no-repeat;
-	height:37px;
-	padding-left:50px;
-	padding-top:17px;
+  /* 16px via YUI Fonts CSS foundation. */
+  font-size: 123.1%;
+  background-image:url(../images/smallwaveblue.gif);
+  background-repeat:no-repeat;
+  height:37px;
+  padding-left:50px;
+  padding-top:17px;
 }
 
 h3 {
-	/* 14px via YUI Fonts CSS foundation. */
-	font-size: 108%;
-	color:blue;
-	text-align:center;
+  /* 14px via YUI Fonts CSS foundation. */
+  font-size: 108%;
+  color:blue;
+  text-align:center;
 }
 
 h1,h2,h3 {
-	/* Top & bottom margin based on font size. */
-	margin: 1em 0;
+  /* Top & bottom margin based on font size. */
+  margin: 1em 0;
 }
 
 h1,h2,h3,h4,h5,h6,strong,dt {
-	/* Bringing boldness back to headers and the strong element. */
-	font-weight: bold;
+  /* Bringing boldness back to headers and the strong element. */
+  font-weight: bold;
 }
 optgroup {
-	font-weight:normal;
+  font-weight:normal;
 }
 
 abbr,acronym {
-	/* Indicating to users that more info is available. */
-	border-bottom: 1px dotted #000;
-	cursor: help;
+  /* Indicating to users that more info is available. */
+  border-bottom: 1px dotted #000;
+  cursor: help;
 }
 
 em {
-	/* Bringing italics back to the em element. */
-	font-style: italic;
+  /* Bringing italics back to the em element. */
+  font-style: italic;
 }
 
 del {
-	/* Striking deleted phrases. */
-	text-decoration: line-through;
+  /* Striking deleted phrases. */
+  text-decoration: line-through;
 }
 
 blockquote,ul,ol,dl {
-	/* Giving blockquotes and lists room to breath. */
-	margin: 1em;
+  /* Giving blockquotes and lists room to breath. */
+  margin: 1em;
 }
 
 ol,ul,dl {
-	/* Bringing lists on to the page with breathing room. */
-	margin-left: 2em;
+  /* Bringing lists on to the page with breathing room. */
+  margin-left: 2em;
 }
 
 ol li {
-	/* Giving OL's LIs generated numbers. */
-	list-style: decimal outside;
+  /* Giving OL's LIs generated numbers. */
+  list-style: decimal outside;
 }
 
 ul li {
-	/* Giving UL's LIs generated disc markers. */
-	list-style: disc outside;
-	margin-top:50%;
-	margin-bottom:50%;
+  /* Giving UL's LIs generated disc markers. */
+  list-style: disc outside;
+  margin-top:50%;
+  margin-bottom:50%;
 }
 
 dl dd {
-	/* Giving UL's LIs generated numbers. */
-	margin-left: 1em;
+  /* Giving UL's LIs generated numbers. */
+  margin-left: 1em;
 }
 
 th,td {
-	/* Borders and padding to make the table readable. */
-	border: 1px solid #000;
-	padding: .5em;
+  /* Borders and padding to make the table readable. */
+  border: 1px solid #000;
+  padding: .5em;
 }
 
 th {
-	/* Distinguishing table headers from data cells. */
-	font-weight: bold;
-	text-align: center;
+  /* Distinguishing table headers from data cells. */
+  font-weight: bold;
+  text-align: center;
 }
 
 caption {
-	/* Coordinated margin to match cell's padding. */
-	margin-bottom: .5em;
-	/* Centered so it doesn't blend in to other content. */
-	text-align: center;
+  /* Coordinated margin to match cell's padding. */
+  margin-bottom: .5em;
+  /* Centered so it doesn't blend in to other content. */
+  text-align: center;
 }
 
 sup {
-	/* to preserve line-height and selector appearance */
-	vertical-align: super;
+  /* to preserve line-height and selector appearance */
+  vertical-align: super;
 }
 
 sub {
-	/* to preserve line-height and selector appearance */
-	vertical-align: sub;
+  /* to preserve line-height and selector appearance */
+  vertical-align: sub;
 }
 
 p,
 fieldset,
 table,
 pre {
-	/* So things don't run into each other. */
-	margin-bottom: 1em;
+  /* So things don't run into each other. */
+  margin-bottom: 1em;
 }
 /* Opera requires 1px of passing to render with contemporary native chrome */
 button,
@@ -144,41 +159,167 @@ input[type="checkbox"],
 input[type="radio"],
 input[type="reset"],
 input[type="submit"] {
-	padding:1px;
+  padding:1px;
 }
-    ul.collage-links {
-        list-style-type:none;
-        padding:0px;
-        margin:0px;
-		z-index:1;
-    }
-    ul.collage-links li{
-        background-image:url(images/drop.jpg);
-        background-repeat:no-repeat;
-        background-position:0px 0px;
-        padding-left:38px;
-        font-family:arial,helvetica,sans-serif;
-        color:blue;
-        font-size:108%;
-        margin:10px;
-    }
-    ul.collage-links a {
-        text-decoration:none;
-    }
-    p.footer {color: #36B0FF; font-size: 77%; font-weight: bold; text-align: center}
-    a.no-underline{text-decoration:none;}
-    div.left{text-align: left}
-    div.posrel{position:relative;}
-    div.collage-blurb{position:absolute;top:370px;right:10px;width:300px;font-size:85%;z-index:1}
-    div.collage-header{position:absolute;top:25px;right:5px;width:165px;z-index:1}
-    div.image-title {position:absolute;top:5px;left:5px;font-weight:bold;font-size:108%;color:#333333}
-    div.center {text-align: center}
-    iframe {frameborder: 0}
-    a.webmaster {font-size:77%}
-	table.schedule {border-width:1px;border-style:outset;}
-	table.schedule  td {text-align:center;border-width:1px;border-style:inset;}
-	table.schedule td.header {vertical-align:top;text-align:center;}
-	table.schedule td.rowheader {text-align:left;font-weight:bold;}
-	table.schedule td.rowlead {text-align:left;}
-	table.meet td {text-align:center;}
-	table.meet th {font-size:100%;}
+
+ul.collage-links {
+  padding:0px;
+  margin:0px;
+}
+
+ul.collage-links li{
+  list-style-type:none;
+  background-image:url(../images/site/drop.png);
+  background-repeat:no-repeat;
+  background-position:0px 0px;
+  padding-left:1.5em;
+  font-family:arial,helvetica,sans-serif;
+  color:blue;
+  font-size:108%;
+  font-weight:bold;
+  margin:1em;
+}
+
+ul.collage-links a {
+  text-decoration:none;
+}
+
+p.footer {
+  color: #36B0FF; 
+  font-size: 77%; 
+  font-weight: bold; 
+  text-align: center
+}
+
+a.no-underline {
+  text-decoration:none;
+}
+
+div.left {
+  text-align:left;
+}
+
+div.posrel {
+  position:relative;
+  width:38em
+}
+
+div.collage-blurb {
+  position:absolute;
+  top:370px;
+  right:10px;
+  width:300px;
+  font-size:75%
+}
+
+div.collage-header {
+  position:absolute;
+  top:25px;
+  right:5px;
+  width:165px
+}
+
+div.image-title {
+  position:absolute;
+  top:5px;
+  left:5px;
+  font-weight:bold;
+  font-size:108%;
+  color:#333333
+}
+
+div.center {
+  text-align: center;
+}
+
+a.webmaster {
+  font-size:60%
+}
+
+table.schedule {
+  border-width:1px;
+  border-style:outset;
+}
+
+table.schedule td {
+  text-align:center;
+  border-width:1px;
+  border-style:inset;
+}
+
+table.schedule td.header {
+  vertical-align:top;
+  text-align:center;
+}
+
+table.schedule td.rowheader {
+  text-align:left;
+  font-weight:bold;
+}
+
+table.schedule td.rowlead {
+  text-align:left;
+}
+
+table.meet td {
+  text-align:center;
+}
+
+table.meet th {
+  font-size:100%;
+}
+
+.rounded { 
+  background-color:lightblue;
+  padding:1em;
+  margin:0.5em;
+  /* Do rounding (native in Firefox and Safari) */
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+}
+
+.bubbles {
+  background-image:url('../images/site/bubbles.png');
+  background-repeat:no-repeat;
+  background-position:10% 95%;
+}
+
+#nav {
+  margin:0;
+}
+
+#nav li {
+  list-style-type:none;
+  margin:0;
+  border:0;
+}
+
+#nav li a {
+  background-image:url('../images/site/nav-buttons.png');
+  width:185px;
+  height:73px;
+  text-decoration:none;
+  font-weight:bold;
+  vertical-align:middle;
+  color:#FFF;
+  display:block;  /* this is the key to making the a tag expand and fill the whole li */
+  background-position:0px -146px;
+  text-align:center;
+  padding-top:1.3em;
+  overflow:hidden;
+}
+
+/* do only in FF and Safari - doesn't work 100%, makes some ugly lines in the boxes & last box overflows */
+#nav li a:not([border]) {
+  margin-bottom:-1.3em;
+  overflow:hidden;
+}
+
+#nav li a.current {
+  background-position:0px -72px;
+}
+
+#nav li a:hover {
+  background-position:0px 0px;
+}
+
