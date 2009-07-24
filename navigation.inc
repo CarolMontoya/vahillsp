@@ -1,7 +1,8 @@
 <!-- 
   Not really the cleanest thing to do, putting the JavaScript right here,
-  but it's logically the place for it since it deal with the menu structure,
-  so it's staying here for now.
+  but it's logically the place for it since it deals with the menu structure,
+  so it's staying here for now. ToDo: figure out whether this should go in its
+  own script file.
 -->
 <script type="text/javascript">
   $(document).ready(function(){

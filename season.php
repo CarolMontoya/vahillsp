@@ -1,6 +1,6 @@
 <?php 
 	global $siteTitle;
-	$siteTitle = "Tidal Wave Swim Team 101";
+	$siteTitle = "Tidal Wave Swim Team Season 2009";
 	include_once "header.inc"; 
 ?>
 <div class="rounded">

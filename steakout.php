@@ -1,6 +1,6 @@
 <?php 
 	global $siteTitle;
-	$siteTitle = "Home";
+	$siteTitle = "Steakout 2008";
 	include_once "header.inc"; 
 ?>
 <div class="rounded">

@@ -1,0 +1,46 @@
+[Project ID]
+Signature=UE Proj: v.1
+[Project Information]
+Use Relative Directory=1
+Relative to Project File=1
+Include Sub Directories=1
+Project Tagfile=
+Project Wordfile=
+Filter=_*
+Create Tagfile=0
+[Files]
+0=404.shtml
+1=adult-socials.php
+2=board.php
+3=directions.php
+4=footer.inc
+5=grand-opening.php
+6=header.inc
+7=index.php
+8=location.php
+9=membership2009.php
+10=membership.php
+11=membership-sale.php
+12=navigation.inc
+13=news.php
+14=page-template.php
+15=plans.php
+16=pressrelease.php
+17=project.php
+18=rentals.php
+19=robots.txt
+20=Rules.pdf
+21=schedule.php
+22=scholarship.php
+23=season.php
+24=sitemap.xml
+25=steakout.php
+26=swim-team-101.php
+27=swim-team.php
+28=cgi-bin\generator.cgi
+29=css\vahillspool.css
+30=js\jquery.js
+31=js\curvycorners.js
+32=Templates\main.dwt
+33=404.php
+34=..\..\wamp\bin\apache\Apache2.2.11\conf\httpd.conf

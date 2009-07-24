@@ -1,6 +1,6 @@
 <?php 
 	global $siteTitle;
-	$siteTitle = "Home";
+	$siteTitle = "Schedule";
 	include_once "header.inc"; 
 ?>
 <div class="rounded">
