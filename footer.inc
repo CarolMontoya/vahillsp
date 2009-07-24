@@ -2,9 +2,9 @@
 		</div>
 		</div>
 		<div id="ft">
-    <div class="center rounded">
+    <div class="center rounded bubbles-small">
       <address>
-        <p class="footer">
+        <p class="footer rounded">
           Virginia Hills Swim Club ■ <a class="c8"
              href=
              "mailto:info@vahillspool.org">info@vahillspool.org</a><br>

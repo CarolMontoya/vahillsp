@@ -1,45 +1,9 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-  <head>
-    <meta name="generator"
-          content=
-          "HTML Tidy for Windows (vers 12 April 2005), see www.w3.org">
-          
-    <title>
-      Swim Team - Virginia Hills Pool, Alexandria, VA
-    </title>
-    <meta http-equiv="Content-Type"
-          content="text/html; charset=utf-8">
-    <link rel="stylesheet"
-          href="vahillspool.css"
-          type="text/css"
-          media="screen">
-  </head>
-  <body>
-    <table border="0">
-      <tr>
-        <td colspan="2">
-          <a href="index.html"><img src="images/header.gif"
-               width="800"
-               height="178"
-               border="0"
-               alt="Virginia Hills Pool Home"></a>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2">
-          &nbsp;<!-- empty spacer cell -->
-        </td>
-      </tr>
-      <tr valign="top">
-        <td width="175">
-          <iframe src="navigation.html"
-              frameborder="0"
-              width="100%"
-              height="350"
-              scrolling="no"></iframe>
-        </td>
-        <td width="625">
+<?php 
+	global $siteTitle;
+	$siteTitle = "Tidal Wave Swim Team";
+	include_once "header.inc"; 
+?>
+<div class="rounded">
           <h2>
             Virginia Hills <em>Tidal Wave</em>
           </h2>
@@ -57,11 +21,11 @@
               Go Tidal Wave!
             </h4>
             <ul>
-              <li>2009 swim season <a href="season.html"><strong>
+              <li>2009 swim season <a href="season.php"><strong>
                 practice and meet schedule online</strong></a>
               </li>
               <li>
-                <a href="SwimTeam101.html"><strong>Swim Team
+                <a href="swim-team-101.php"><strong>Swim Team
                 101</strong></a>: learn the basics!
               </li>
               <!--                  <li><font color="#333333" size="2" face="Arial, Helvetica, sans-serif"><strong><a href="docs/Summer09RegForm.pdf">Registration Form</a></strong></font> <img src="images/pdf.gif" width="15" height="16"></li>-->
@@ -113,19 +77,5 @@
             <a href=
             "mailto:swimteam@vahillspool.org">swimteam@vahillspool.org</a>
           </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          &nbsp;
-        </td>
-        <td>
-          <iframe src="footer.html"
-              frameborder="0"
-              width="100%"
-              scrolling="no"></iframe>
-        </td>
-      </tr>
-    </table>
-  </body>
-</html>
+        </div>
+<?php include_once "footer.inc"; ?>

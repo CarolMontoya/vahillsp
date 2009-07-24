@@ -1,4 +1,5 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" 
+"http://www.w3.org/TR/html4/strict.dtd"> 
 <html>
   <head>
     <meta name="generator" content=
@@ -10,6 +11,7 @@
     <link rel="stylesheet" href="css/vahillspool.css" type="text/css" media=
     "screen">
     <script type="text/JavaScript" src="js/curvycorners.js"></script>
+    <script type="text/JavaScript" src="js/jquery.js"></script>
   </head>
   <body>
   	<div id="doc" class="yui-t2">
