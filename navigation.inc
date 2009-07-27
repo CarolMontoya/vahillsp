@@ -7,10 +7,17 @@
 <script type="text/javascript">
   $(document).ready(function(){
     var links = $("ul#nav li a");
+    var currLoc = String(this.location);
     for (i = 0; i < links.length; i++) {
-      if (links[i].toString().indexOf(this.location,0) != -1) {
-        var $currentLink = links.eq(i)
+      if (currLoc.substr(currLoc.length - 1, 1) == "/") {
+        var $currentLink = links.eq(i);
         $currentLink.addClass("current");
+        break;
+      }
+      if (links[i].toString().indexOf(currLoc,0) != -1) {
+        var $currentLink = links.eq(i);
+        $currentLink.addClass("current");
+        break;
       }
     }
   });
