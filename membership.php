@@ -4,6 +4,8 @@
   include_once "header.inc"; 
 ?>
 <div class="rounded">
+  <div class="yui-g">
+    <div class="yui-u first">
           <h2>
             Membership
           </h2>
@@ -28,12 +30,25 @@
             or call (703) 317-5900, and a representative of the
             Membership Committee will answer your questions.
           </p>
-          <table>
+        </div>
+        <div class="yui-u">
+          <h2>
+            <a href="Rules.pdf">Rules</a>
+            <img src=
+              "images/pdf.gif"
+               width="15"
+               height="16"
+               alt="">
+          </h2>
+          <img src="images/bigsmile.jpg" width="276" height="191">
+        </div>
+      </div>
+          <table class="events">
             <tr>
               <td>
                 <a href=
                 "https://www.paypal.com/us/verified/pal=treasurer@stoneybrooke.org"
-                    target="_blank"><img src=
+                    ><img src=
                     "http://www.paypal.com/en_US/i/icon/verification_seal.gif"
                      border="0"
                      alt="Official PayPal Seal"></a>
@@ -68,11 +83,11 @@
           <h4>
             Summary
           </h4>
-          <table width="100%">
+          <table class="dues">
             <tr>
-              <td colspan="2">
-                <strong>Share Membership (2009)</strong>
-              </td>
+              <th colspan="2">
+                Share Membership (2009)
+              </th>
             </tr>
             <tr>
               <td>
@@ -99,10 +114,9 @@
               </td>
             </tr>
             <tr>
-              <td colspan="2">
-                <br>
-                <strong>Associate Membership (2009)</strong>
-              </td>
+              <th colspan="2">
+                Associate Membership (2009)
+              </th>
             </tr>
             <tr>
               <td>
@@ -227,7 +241,7 @@
           <ul>
             <li>
               <a href="http://www.bbhca.org/"
-                  target="_blank">Brookland/Bush Hill</a>
+                  >Brookland/Bush Hill</a>
             </li>
             <li>Burgundy Farms
             </li>
@@ -237,29 +251,29 @@
             </li>
             <li>
               <a href="http://huntingtononline.org/"
-                  target="_blank">Huntington</a>
+                  >Huntington</a>
             </li>
             <li>
               <a href="http://www.woodstonehoa.org/"
-                  target="_blank"></a><a href=
+                  ></a><a href=
                   "http://www.lakedevereux.com/"
-                  target="_blank">Lake D'evereux</a>
+                  >Lake D'evereux</a>
             </li>
             <li>
               <a href="http://www.myrosehill.com"
-                  target="_blank"></a><a href=
+                  ></a><a href=
                   "http://racewayfarms.org/"
-                  target="_blank">Raceway Farms</a>
+                  >Raceway Farms</a>
             </li>
           </ul>
           <ul>
             <li>
               <a href="http://www.myrosehill.com"
-                  target="_blank">Rose Hill</a>
+                  >Rose Hill</a>
             </li>
             <li>
               <a href="http://www.stoneybrooke.org"
-                  target="_blank">Stoneybrooke</a>
+                  >Stoneybrooke</a>
             </li>
             <li>Tartan Village
             </li>
@@ -267,16 +281,16 @@
             </li>
             <li>
               <a href="http://virginiahills.org/"
-                  target="_blank">Virginia Hills</a>
+                  >Virginia Hills</a>
             </li>
             <li>
               <a href=
               "http://www.gwwca.org/memorial_garden.shtml"
-                  target="_blank">Wilton Woods</a>
+                  >Wilton Woods</a>
             </li>
             <li>
               <a href="http://www.woodstonehoa.org/"
-                  target="_blank">Woodstone</a>
+                  >Woodstone</a>
             </li>
           </ul>
 </div>

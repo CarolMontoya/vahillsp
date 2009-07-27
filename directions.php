@@ -18,9 +18,8 @@
           </p>
           <p>
             <a href=
-            "http://www.google.com/maps?q=6500%2BRobinson%2BDrive,%2BAlexandria,%2BVA%2B22310&amp;spn=0.029622,0.058464&amp;hl=en"
-               target="_blank">Click here</a> for a printable map
-               and directions.
+            "http://www.google.com/maps?q=6500%2BRobinson%2BDrive,%2BAlexandria,%2BVA%2B22310&amp;spn=0.029622,0.058464&amp;hl=en">
+               Click here</a> for a printable map and directions.
           </p>
           <p>
             <img src="images/map.gif"

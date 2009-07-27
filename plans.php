@@ -3,6 +3,15 @@
   $siteTitle = "Pool Renovation 2008-09";
   include_once "header.inc"; 
 ?>
+<!-- Make this one page wider to accomodate large construction plans -->
+<style> 
+#doc {
+  margin:auto;text-align:left; /* leave unchanged */
+  width:81.5385em;/* 1060px non-IE */
+  *width:79.5002em;/* 1060px IE */
+  min-width:600px;/* optional but recommended */
+}
+</style>
 <div class="rounded">
           <h2>
             Pool Renovation 2008-09

@@ -235,7 +235,7 @@
             teams are in the higher numbered Divisions. The other
             teams in our division, and meet locations, are on the
             NVSL's Web site, <a href="http://www.nvsl.org"
-               target="_blank">http://www.nvsl.org</a>.
+               >http://www.nvsl.org</a>.
                Directions to pools are provided prior to the
                meet.
           </p>

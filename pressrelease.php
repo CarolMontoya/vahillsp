@@ -60,9 +60,9 @@
             Club adopted a long-term plan to improve its
             facilities and increase its membership. To kick off
             the second phase of its long term plan, Virginia
-            Hills Club retained an experienced local company â€“
+            Hills Club retained an experienced local company &ndash;
             <a href="http://www.NVblu.com"
-               target="_blank">NVblu, Inc.</a> â€“ to perform the
+               >NVblu, Inc.</a> &ndash; to perform the
                pool renovation. NVblu brought to the project over
                25 years of experience in commercial and
                residential swimming pool renovation,

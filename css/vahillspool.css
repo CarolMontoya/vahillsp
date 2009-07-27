@@ -38,7 +38,7 @@ html {
 }
 
 body {
-    font-size:100%;
+    font-size:93%;
 }
 
 h1 {
@@ -169,6 +169,66 @@ input[type="submit"] {
   padding:1px;
 }
 
+/****************
+ ** Navigation **
+ ****************/
+div.nav {
+  width:185px;
+}
+
+#nav {
+  margin:0;
+}
+
+#nav li {
+  list-style-type:none;
+  margin:0;
+  border:0;
+}
+
+#nav li a {
+  background-image:url('../images/site/nav-buttons.png');
+  width:185px;
+  height:73px;
+  text-decoration:none;
+  font-weight:bold;
+  vertical-align:middle;
+  color:#FFF;
+  display:block;  /* this is the key to making the a tag expand and fill the whole li */
+  background-position:0px -146px;
+  text-align:center;
+  /*padding-top:1.3em;*/
+  overflow:hidden;
+  cursor:hand;  /* Need this for IE to show a hand cursor over the entire li */
+}
+
+/* do only in FF and Safari - doesn't work 100%, makes some ugly lines in the boxes & last box overflows 
+#nav li a:not([border]) {
+  margin-bottom:-1.3em;
+  overflow:hidden;
+}
+*/
+#nav li a.current {
+  background-position:0px -72px;
+}
+
+#nav li a:hover {
+  background-position:0px 0px;
+}
+
+#nav li a div {
+  width:185px;
+  height: 70px;
+  display: table-cell;
+  vertical-align: middle; 
+  text-align:center;
+  *margin-top:11%; /* ugly, UGLY hack for IE! No idea if this will scale, work across versions, etc. */
+}
+
+/********************
+ ** General Styles **
+ ********************/
+
 ul.collage-links {
   padding:0px;
   margin:0px;
@@ -213,23 +273,23 @@ div.posrel {
 
 div.collage-blurb {
   position:absolute;
-  top:370px;
-  right:10px;
-  width:300px;
+  top:33.5em;
+  right:0em;
+  width:24em;
   font-size:75%
 }
 
 div.collage-header {
   position:absolute;
-  top:25px;
-  right:5px;
-  width:165px
+  top:1em;
+  right:-1em;
+  width:10em;
 }
 
 div.image-title {
   position:absolute;
-  top:5px;
-  left:5px;
+  top:0.4em;
+  left:0.3em;
   font-weight:bold;
   font-size:108%;
   color:#333333
@@ -293,59 +353,43 @@ table.meet th {
 
 .bubbles-small {
   background-image:url('../images/site/bubbles-small.png');
-  background-position:0 100%;
-  *background-position:0 120%;  /* IE, for whatever reason, once again needs this to be lower... *sigh* */
 }
 
-div.nav {
-  width:185px;
+table.events {
+  border-style:none;
+  border-width:0;
 }
 
-#nav {
-  margin:0;
+table.events th {
+  white-space:nowrap;
+  text-align:right;
+  border-style:none;
+  border-width:0;
+  vertical-align:top;
 }
 
-#nav li {
-  list-style-type:none;
-  margin:0;
-  border:0;
+table.events td {
+  border-style:none;
+  border-width:0;
+  vertical-align:top;
 }
 
-#nav li a {
-  background-image:url('../images/site/nav-buttons.png');
-  width:185px;
-  height:73px;
-  text-decoration:none;
-  font-weight:bold;
-  vertical-align:middle;
-  color:#FFF;
-  display:block;  /* this is the key to making the a tag expand and fill the whole li */
-  background-position:0px -146px;
-  text-align:center;
-  /*padding-top:1.3em;*/
-  overflow:hidden;
-  cursor:hand;  /* Need this for IE to show a hand cursor over the entire li */
+table.dues {
+  width:100%;
+  border-style:none;
+  border-width:0;
 }
 
-/* do only in FF and Safari - doesn't work 100%, makes some ugly lines in the boxes & last box overflows 
-#nav li a:not([border]) {
-  margin-bottom:-1.3em;
-  overflow:hidden;
-}
-*/
-#nav li a.current {
-  background-position:0px -72px;
+table.dues th {
+  border-style:none;
+  border-width:0;
+  text-align:left;
+  padding-left:0;
 }
 
-#nav li a:hover {
-  background-position:0px 0px;
+table.dues td {
+  border-style:none;
+  border-width:0;
+  padding-left:0;
 }
-
-#nav li a div {
-  width:185px;
-  height: 70px;
-  display: table-cell;
-  vertical-align: middle; 
-  text-align:center;
-  *margin-top:11%; /* ugly, UGLY hack for IE! No idea if this will scale, work across versions, etc. */
-}
+  

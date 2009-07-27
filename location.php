@@ -15,8 +15,8 @@
             within the community, crossing The Parkway, a major
             road through the Virginia Hills community running
             between Telegraph Road and South Kings Highway.
-          </p><iframe width="625"
-              height="450"
+          </p><iframe width="590px"
+              height="450px"
               frameborder="0"
               scrolling="no"
               marginheight="0"

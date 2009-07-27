@@ -39,7 +39,7 @@
             later than Tuesday, June 23. Please review the
             documents linked below for complete details and visit
             <a href="http://www.nvsl.org"
-               target="_blank">www.nvsl.org</a>.
+               >www.nvsl.org</a>.
           </p>
           <ul>
             <li>

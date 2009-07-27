@@ -3,12 +3,20 @@
   $siteTitle = "Pool Renovation Project 2009";
   include_once "header.inc"; 
 ?>
+<!-- Make this one page wider to accomodate construction pics side-by-side -->
+<style> 
+#doc {
+  margin:auto;text-align:left; /* leave unchanged */
+  width:73.0769em;/* 950px non-IE */
+  *width:71.2502em;/* 950px IE */
+  min-width:600px;/* optional but recommended */
+}
+</style>
 <div class="rounded">
           <h2>
             Construction 2009
           </h2>
-          <table width="100%"
-                 border="0">
+          <table class="events">
             <tr>
               <td colspan="2">
                 The Virginia Hills Club is going through a
@@ -17,7 +25,7 @@
                 in May, 2009. With this project, the club is in
                 compliance with the <a href=
                 "http://www.cpsc.gov/BUSINFO/vgb/pssa.pdf"
-                    target="_blank">Virginia Graeme Baker Pool
+                    >Virginia Graeme Baker Pool
                     and Spa Safety Act</a>. Read our <a href=
                     "pressrelease.php">press release</a>.
               </td>
@@ -247,7 +255,7 @@
                 "images/Constructionphotos/2_21_2009_1.jpg"
                     alt=""
                     width="400"
-                    height="300"><em><br>
+                    height="300"><em>
                 February 21</em>
               </td>
               <td>
@@ -255,7 +263,7 @@
                 "images/Constructionphotos/2_21_2009_2.jpg"
                     alt=""
                     width="400"
-                    height="300"><em><br>
+                    height="300"><em>
                 February 21</em>
               </td>
             </tr>
@@ -266,7 +274,7 @@
                   "images/Constructionphotos/2_14_2009_1.jpg"
                      alt="February 14, 2009"
                      width="400"
-                     height="300"><em><br>
+                     height="300"><em>
                   February 14</em>
                 </p>
               </td>
@@ -276,7 +284,7 @@
                   "images/Constructionphotos/2_14_2009_2.jpg"
                      width="400"
                      height="300"
-                     alt=""><em><br>
+                     alt=""><em>
                   February 14</em>
                 </p>
               </td>
