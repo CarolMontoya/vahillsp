@@ -11,7 +11,7 @@
             Membership in the Virginia Hills Club, Inc. is
             competitive with other pool memberships in the area.
             This year, the club will open with <a href=
-            "Plans.html">two new pools</a>. The main pool will be
+            "plans.php">two new pools</a>. The main pool will be
             larger, with a diving well, slide, and large shallow
             area; the baby pool will have fun water features.
           </p>

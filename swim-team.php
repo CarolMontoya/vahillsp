@@ -73,7 +73,7 @@
             to have your child try it out... then feel free to
             join a practice and let your child "test the waters."
             For more information, read <a href=
-            "SwimTeam101.html">Swim Team 101</a>, or e-mail
+            "swim-team-101.php">Swim Team 101</a>, or e-mail
             <a href=
             "mailto:swimteam@vahillspool.org">swimteam@vahillspool.org</a>
           </p>

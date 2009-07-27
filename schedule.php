@@ -97,7 +97,7 @@
                 <p>
                   The pool is a perfect venue for special parties
                   and cookouts for adults, families and
-                  teenagers. <a href="rentals.html">Book your own
+                  teenagers. <a href="rentals.php">Book your own
                   party</a> at the pool!
                 </p>
 </div>

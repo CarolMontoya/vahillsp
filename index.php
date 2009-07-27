@@ -19,15 +19,15 @@
     <div class="collage-header">
       <ul class="collage-links">
         <li>
-          <a href="AdultSocials.html">Adult
+          <a href="adult-socials.php">Adult
           Social July 18, 7pm-12am</a>
         </li>
         <li>
-          <a href="swim_team.html">Swim Team
+          <a href="swim-team.php">Swim Team
           News</a>
         </li>
         <li>
-          <a href="schedule.html">Wednesday
+          <a href="schedule.php">Wednesday
           evening Raft Nights</a>
         </li>
       </ul>

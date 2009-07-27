@@ -10,7 +10,7 @@
           <p>
             The image below represents a proposal for a major
             renovation for the pool. <a href=
-            "project.html">Photos of construction updates</a> are
+            "project.php">Photos of construction updates</a> are
             posted regularly. Send comments to the <a href=
             "mailto:president@vahillspool.org"><strong>President</strong></a>.
           </p>

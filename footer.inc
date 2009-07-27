@@ -12,7 +12,19 @@
           Alexandria, VA 22310<br>
           Guard Shack (during pool hours): (703) 960-9717
         </p>
-      </address>
+        <!-- Geocode locations -->
+        <span style="display:none;">
+          <span class="geo">
+            <span class="latitude">38.76639</span>;
+            <span class="longitude">-77.114311</span>
+          </span>
+          <rdf:RDF xmlns:rdf=http://www.w3.org/1999/02/22-rdf-syntax-ns# xmlns:geo=”http://www.w3.org/2003/01/geo/wgs84_pos#”>
+            <geo:Point>
+              <geo:lat>38.76639</geo:lat>
+              <geo:long>-77.114311</geo:long>
+            </geo:Point> 
+          </rdf:RDF>
+        </span>
         <a class="webmaster"
            href=
            "mailto:webmaster@vahillspool.org">webmaster@vahillspool.org</a>

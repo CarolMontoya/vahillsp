@@ -12,14 +12,14 @@
             <tr>
               <td colspan="2">
                 The Virginia Hills Club is going through a
-                <a href="Plans.html">major renovation</a> this
+                <a href="plans.php">major renovation</a> this
                 spring and will have two new pools by opening day
                 in May, 2009. With this project, the club is in
                 compliance with the <a href=
                 "http://www.cpsc.gov/BUSINFO/vgb/pssa.pdf"
                     target="_blank">Virginia Graeme Baker Pool
                     and Spa Safety Act</a>. Read our <a href=
-                    "pressrelease.html">press release</a>.
+                    "pressrelease.php">press release</a>.
               </td>
             </tr>
             <tr>
@@ -64,7 +64,7 @@
             </tr>
             <tr>
               <td rowspan="2">
-                <a href="Plans.html"><img src=
+                <a href="plans.php"><img src=
                 "images/Constructionphotos/MainPoolConcept.jpg"
                      alt="Main Pool Concept"
                      width="400"

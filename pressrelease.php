@@ -77,7 +77,7 @@
           <p>
             Virginia Hills Club opens the 2009 season on
             Saturday, May 23rd at 12:00 pm. <a href=
-            "project.html">See more photos of the project</a>.
+            "project.php">See more photos of the project</a>.
           </p>
 </div>
 <?php include_once "footer.inc"; ?>
