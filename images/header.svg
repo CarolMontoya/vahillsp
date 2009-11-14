@@ -17,11 +17,22 @@
    version="1.0"
    sodipodi:docname="header.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="F:\VAHillsPool\testing\images\header.png"
+   inkscape:export-filename="F:\VAHillsPool\trunk\images\header.png"
    inkscape:export-xdpi="92.139519"
    inkscape:export-ydpi="92.139519">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient3848">
+      <stop
+         id="stop3850"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop3852"
+         offset="1"
+         style="stop-color:#0075ff;stop-opacity:1;" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3206">
       <stop
@@ -81,7 +92,7 @@
        gradientTransform="translate(-297.07071,140.80808)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3209"
+       xlink:href="#linearGradient3848"
        id="linearGradient3223"
        x1="409.89377"
        y1="171.01913"
