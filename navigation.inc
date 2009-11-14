@@ -31,5 +31,6 @@
     <li><a href="swim-team.php"><div>Swim Team</div></a></li>
     <li><a href="board.php"><div>Board</div></a></li>
     <li><a href="rentals.php"><div>Rentals &amp; Parties</div></a></li>
+    <li><a href="project.php"><div>2009 Construction</div></a></li>
   </ul>
 </div> 

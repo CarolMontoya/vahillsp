@@ -32,7 +32,7 @@
   <h2>
     Parties
   </h2>
-  <div class="yui-g"
+  <div class="yui-g">
     <div class="yui-u first">
       <img src="images/3boys.jpg"
           width="275"
