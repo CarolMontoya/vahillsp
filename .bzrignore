@@ -1,1 +1,3 @@
-mv.cmd
+*.bak
+*.pui
+*.prj
