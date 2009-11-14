@@ -22,7 +22,7 @@
       <div id="hd">
         <div class="rounded">
           <a href="index.php">
-          <img src="images/header.gif" width="800" height="178" border="0"
+          <img src="images/header.png" width="800" height="159" border="0"
           alt="Virginia Hills Pool Home">
           </a>
         </div>

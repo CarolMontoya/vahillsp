@@ -213,7 +213,7 @@ div.nav {
 }
 
 #nav li a:hover {
-  background-position:0px 0px;
+  background-position:0px 1px;
 }
 
 #nav li a div {

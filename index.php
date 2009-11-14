@@ -22,7 +22,7 @@
           Annual Meeting St Mark's Church November 13, 7pm
         </li>
         <li>
-          <a href="http://www.vahillspool.org/WinterSwim2009_10.pdf">
+          <a href="WinterSwim2009_10.pdf">
             Winter Swim Sign-Up</a>
         </li>
       </ul>
