@@ -8,51 +8,53 @@
 
 <url>
   <loc>http://www.vahillspool.org/</loc>
-  <lastmod>2009-07-13T02:36:25+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://www.vahillspool.org/index.php</loc>
-  <lastmod>2009-07-13T02:36:25+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/adult-socials.php</loc>
-  <lastmod>2009-07-13T03:54:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.vahillspool.org/swim-team.php</loc>
-  <lastmod>2009-07-13T03:55:54+00:00</lastmod>
+  <loc>http://www.vahillspool.org/location.php</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.vahillspool.org/schedule.php</loc>
-  <lastmod>2009-07-13T03:58:01+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.vahillspool.org/membership.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.vahillspool.org/swim-team.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.vahillspool.org/board.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.vahillspool.org/rentals.php</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.vahillspool.org/project.php</loc>
-  <lastmod>2009-07-13T05:17:56+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/season.php</loc>
-  <lastmod>2009-07-13T03:55:44+00:00</lastmod>
+  <loc>http://www.vahillspool.org/WinterSwim2009_10.pdf</loc>
   <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.vahillspool.org/swim-team-101.php</loc>
-  <lastmod>2009-07-13T13:44:35+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.vahillspool.org/2009Calendar.pdf</loc>
@@ -60,44 +62,28 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/rentals.php</loc>
-  <lastmod>2009-07-13T05:23:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
   <loc>http://www.vahillspool.org/plans.php</loc>
-  <lastmod>2009-07-13T13:50:01+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.vahillspool.org/pressrelease.php</loc>
-  <lastmod>2009-07-13T05:03:59+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.vahillspool.org/location.php</loc>
-  <lastmod>2009-07-13T03:53:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.vahillspool.org/membership.php</loc>
-  <lastmod>2009-07-13T04:40:37+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.vahillspool.org/board.php</loc>
-  <lastmod>2009-07-13T03:54:51+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.vahillspool.org/Rules.pdf</loc>
   <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.vahillspool.org/season.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.vahillspool.org/swim-team-101.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.vahillspool.org/pressrelease.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
 </url>
 </urlset>
