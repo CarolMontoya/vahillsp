@@ -19,7 +19,7 @@
     <div class="collage-header">
       <ul class="collage-links">
         <li>
-          Annual Meeting St Mark's Church November 13, 7pm
+          <a href="vote-new-design-2009-11.php">Vote on the new website design</a>
         </li>
         <li>
           <a href="WinterSwim2009_10.pdf">
