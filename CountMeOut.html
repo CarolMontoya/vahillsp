@@ -1,0 +1,46 @@
+<html>
+
+<head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+///////////////////////////////////////////////
+// Set Segment
+// 
+// v 1.0 2006-07-08
+// Created by Justin Cutroni [justin@epikone.com]
+//  
+// A small script that sets the Google Analytics
+// custom segment cookie with  a user entered value.
+//
+
+function setSegment() {
+  var pattern=/cs=([^&]*)/;
+  var match = pattern.exec(document.location);
+  if (match[1]) { 
+    urchinTracker();
+    __utmSetVar(match[1]); 
+    alert("Custom Segment set with value of '"+match[1]+"'");
+  }
+  return true;
+}
+
+function submitForm(f) {
+  f.action=document.location;
+  f.submit();
+}
+</script>
+
+<body onLoad="javascript:setSegment();">
+
+<h2>Count Me Out!</h2>
+
+<form action="" name="sm" method="get">
+<input type="text" name="cs" size="30" maxlength="30" />
+<input type="button" onClick="javascript:submitForm(this.form);" name="subbut" value="Create Cookie" />
+</form>
+
+</body>
+
+</html>
