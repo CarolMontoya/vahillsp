@@ -19,9 +19,9 @@
           <table class="events">
             <tr>
               <td colspan="2">
-                The Virginia Hills Club is going through a
-                <a href="plans.php">major renovation</a> this
-                spring and will have two new pools by opening day
+                The Virginia Hills Club underwent a
+                <a href="plans.php">major renovation</a> in the
+                Spring of 2009 and had two new pools by opening day
                 in May, 2009. With this project, the club is in
                 compliance with the <a href=
                 "http://www.cpsc.gov/BUSINFO/vgb/pssa.pdf"
