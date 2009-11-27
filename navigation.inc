@@ -6,7 +6,7 @@
 -->
 <script type="text/javascript">
   $(document).ready(function(){
-    var links = $("ul#nav li a");
+    var links = $("ul#nav-short li a");
     var currLoc = String(this.location);
     for (i = 0; i < links.length; i++) {
       if (currLoc.substr(currLoc.length - 1, 1) == "/") {
@@ -22,8 +22,9 @@
     }
   });
 </script>
-<div class="rounded bubbles nav">
-  <ul id="nav">
+
+<div class="rounded bubbles nav-short">
+  <ul id="nav-short">
     <li><a href="index.php"><div>Home</div></a></li>
     <li><a href="location.php"><div>Location</div></a></li>
     <li><a href="schedule.php"><div>Hours &amp; Events</div></a></li>

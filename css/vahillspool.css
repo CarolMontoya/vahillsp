@@ -182,19 +182,26 @@ div.nav {
   width:185px;
 }
 
-#nav {
+div.nav-short {
+  width:175px;
+}
+
+#nav,
+#nav-short {
   margin:0;
 }
 
-#nav li {
+#nav li,
+#nav-short li {
   list-style-type:none;
   margin:0;
   border:0;
 }
 
-#nav li a {
+#nav li a,
+#nav-short li a {
   background-image:url('../images/site/nav-buttons.png');
-  width:185px;
+  width:175px;
   height:73px;
   text-decoration:none;
   font-weight:bold;
@@ -208,27 +215,37 @@ div.nav {
   cursor:hand;  /* Need this for IE to show a hand cursor over the entire li */
 }
 
-/* do only in FF and Safari - doesn't work 100%, makes some ugly lines in the boxes & last box overflows 
-#nav li a:not([border]) {
-  margin-bottom:-1.3em;
-  overflow:hidden;
+#nav-short li a {
+  background-image:url('../images/site/nav-buttons-short.png');
+  height:36px;
+  background-position:0px -69px;
 }
-*/
+
 #nav li a.current {
   background-position:0px -72px;
 }
 
-#nav li a:hover {
+#nav-short li a.current {
+  background-position:0px -34px;
+}
+
+#nav li a:hover,
+#nav-short li a:hover {
   background-position:0px 1px;
 }
 
-#nav li a div {
+#nav li a div,
+#nav-short li a div {
   width:185px;
   height: 70px;
   display: table-cell;
   vertical-align: middle; 
   text-align:center;
   *margin-top:11%; /* ugly, UGLY hack for IE! No idea if this will scale, work across versions, etc. */
+}
+
+#nav-short li a div {
+  height: 35px;
 }
 
 /********************
