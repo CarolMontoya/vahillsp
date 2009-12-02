@@ -277,7 +277,11 @@
             </li>
             <li>Tartan Village
             </li>
-            <li>Vantage and Deer Run
+            <li>Vantage
+            </li>
+            <li>
+              <a href="http://deerruncrossing.org/"
+                  >Deer Run Crossing</a>
             </li>
             <li>
               <a href="http://virginiahills.org/"
