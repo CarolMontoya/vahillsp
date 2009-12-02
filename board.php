@@ -34,18 +34,18 @@
                 Board Members (2009)
               </h3>
               <p>
-                <em>President:</em> John Kemper<br>
-                <em>Vice-President</em>: Mike Jurkowski<br>
+                <em>President:</em> Mike Jurkowski<br>
+                <em>Vice-President</em>: David Kolo<br>
                 <em>Treasurer:</em> Bernie Tabarini<br>
                 <em>Secretary</em>: Jim Dobson<br>
-                <em>Member-at-large</em>: Mary Ellen Meehan<br>
-                <em>Member-at-large</em>: Ron Collins<br>
-                <em>Member-at-large</em>: Dorice Gartner<em><br>
-                Member-at-large</em>: Debra Noel <em><br>
-                Member-at-large</em>: David Kolo<br>
+                <em>Member-at-large</em>: Tiffany Barrow-Rodgers<br>
+                <em>Member-at-large</em>: Linda Fleischer<br>
                 <em>Member-at-large</em>: O. D. Easterday<br>
-                <em>Swim Team Ex-Officio</em>: Sarah Kolo<br>
-                <em>Past President</em>: Jack Coffey
+                <em>Member-at-large</em>: Sarah Kolo<br>
+                <em>Member-at-large</em>: Mary Ellen Meehan<br>
+                <em>Member-at-large</em>: Rob Niblock<br>
+                <em>Member-at-large</em>: Suzy Thompson<br>
+                <em>Past President</em>: John Kemper
               </p>
             </div>
             <div class="yui-u first">
@@ -64,7 +64,8 @@
             <em>Membership and Marketing</em>: Mike Jurkowski,
             Chair<br>
             <em>Finance</em>: Bernie Tabarini, Chair<br>
-            <em>Operations</em>: Ron Collins, Chair<br>
+            <em>Operations</em>: O. D. Easterday, Chair<br>
+            <em>Social</em>: Chair Vacant<br>
             <em>Swim Team</em>: Sarah Kolo, Chair<br>
           </p>
 </div>
