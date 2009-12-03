@@ -31,7 +31,7 @@
           <div class="yui-g">
             <div class="yui-u">
               <h3>
-                Board Members (2009)
+                Board Members (2010)
               </h3>
               <p>
                 <em>President:</em> Mike Jurkowski<br>
