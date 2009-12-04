@@ -147,7 +147,7 @@
                 Guest passes
               </td>
               <td>
-                <strong>$5.00</strong or 10 for <strong>$35.00</strong><br>
+                <strong>$5.00</strong> or 10 for <strong>$35.00</strong><br>
                 <strong>Note:</strong>15 Guest passes included with membership to start the season
               </td>
             </tr>
