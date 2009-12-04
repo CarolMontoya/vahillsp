@@ -86,7 +86,7 @@
           <table class="dues">
             <tr>
               <th colspan="2">
-                Share Membership (2009)
+                Share Membership (2010)
               </th>
             </tr>
             <tr>
@@ -115,7 +115,7 @@
             </tr>
             <tr>
               <th colspan="2">
-                Associate Membership (2009)
+                Associate Membership (2010)
               </th>
             </tr>
             <tr>
@@ -132,6 +132,23 @@
               </td>
               <td>
                 <strong>$525.00</strong> (Two Season Maximum)
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Nanny/Granny
+              </td>
+              <td>
+                <strong>$50</strong>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Guest passes
+              </td>
+              <td>
+                <strong>$5.00</strong or 10 for <strong>$35.00</strong><br>
+                <strong>Note:</strong>15 Guest passes included with membership to start the season
               </td>
             </tr>
           </table>
