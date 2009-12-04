@@ -168,7 +168,7 @@
             members, who are the shareholders in the Club. To
             become a member, either a family or single, pay a
             one-time fee to purchase a share. That fee is
-            <strong>$500</strong> for the 2009 season. New
+            <strong>$500</strong> for the 2010 season. New
             shareholders can pay this amount all at once, or make
             a down payment on the share and membership dues with
             the rest paid in increments through the Club's easy
@@ -187,8 +187,8 @@
           </h5>
           <p>
             Shareholders also pay dues before the start of every
-            season, which should be paid by May 1 every year. The
-            fee for family membership dues in 2009 is
+            season, which should be paid by May 9, 2010. The
+            fee for family membership dues in 2010 is
             <strong>$525</strong>. The fee for single membership
             dues in 2009 is <strong>$280</strong>. Payments may
             be spaced out in advance of that date. New members
@@ -216,7 +216,7 @@
             families, who only may be in our community for a few
             years. We have created a special type of Associate
             Membership, the Active Duty Military Membership,
-            which costs <strong>$525</strong> per season in 2009
+            which costs <strong>$525</strong> per season in 2010
             (no share purchase). This benefit can be used for two
             consecutive seasons. If a duty tour is extended or is
             expected to last for more than two swim seasons,
@@ -236,7 +236,7 @@
             Guest Passes
           </h5>
           <p>
-            Family and single memberships include 10 guest passes
+            Family and single memberships include 15 guest passes
             per season. Additional guest passes can be purchased
             for <strong>$5 each or $35 for 10 passes</strong>.
           </p>
