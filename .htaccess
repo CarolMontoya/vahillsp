@@ -1,3 +1,5 @@
+
+RewriteEngine on
 # Use PHP5 as default
 AddHandler application/x-httpd-php5 .php .htm .html .shtml
 # -FrontPage-
@@ -35,10 +37,6 @@ RewriteRule ^fiesta\-night\.html$ "http\:\/\/www\.vahillspool\.org\/fiesta\-nigh
 RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
 RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
 RewriteRule ^GrandOpening\.html$ "http\:\/\/www\.vahillspool\.org\/grand\-opening\.php" [R=301,L]
-
-RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
-RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
-RewriteRule ^index\.html$ "http\:\/\/www\.vahillspool\.org\/index\.php" [R=301,L]
 
 RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
 RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
@@ -95,4 +93,16 @@ RewriteRule ^SwimTeamSched\.html$ "http\:\/\/www\.vahillspool\.org\/swim\-team\-
 RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
 RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
 RewriteRule ^swim_team\.html$ "http\:\/\/www\.vahillspool\.org\/swim\-team\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^index\.html$ "http\:\/\/www\.vahillspool\.org\/index\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^membership08\.html$ "http\:\/\/www\.vahillspool\.org\/membership\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^membership2009\.html$ "http\:\/\/www\.vahillspool\.org\/membership\.php" [R=301,L]
 
