@@ -7,11 +7,14 @@
   <div class="yui-g">
     <div class="yui-u first">
       <h2>
-        Hours (2009)
+        Hours (2010)
       </h2>
       <h4>
         Hours of operation:
       </h4>
+      <p>
+        <b>Opening Day 2010 is Saturday, May 29.</b>
+      </p>
       <p>
         Noon to 8 p.m., Monday through Thursday,
         Saturday, &amp; Sunday<br>
@@ -23,7 +26,7 @@
       </h4>
       <p>
         While school is in session, the pool will
-        open at 4:00 p.m.
+        open at 4:00 p.m. on weekdays
       </p>
       <p>
         On Wednesdays in July and August, the pool is
@@ -45,11 +48,11 @@
         alt="">
     </div>
   </div>
-  <p>
+  <!--<p>
     * There are three swim meets which will interfere
     with Monday evening hours. On June 22, July 6,
     and July 13 the pool will close at 5 pm.
-  </p>
+  </p>-->
   <h2>
     Events
   </h2>

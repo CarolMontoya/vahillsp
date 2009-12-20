@@ -19,6 +19,12 @@
     <div class="collage-header">
       <ul class="collage-links">
         <li>
+          <a href="schedule.php">Operating hours for 2010</a>
+        </li>
+        <li>
+          <a href="2008RegForm.pdf">Swim Team registration form</a>
+        </li>
+        <li>
           <a href="vote-new-design-2009-11.php">Vote on the new website design</a>
         </li>
         <li>
