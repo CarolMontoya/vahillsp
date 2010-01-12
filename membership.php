@@ -306,7 +306,7 @@
             </li>
             <li>
               <a href=
-              "http://www.gwwca.org/memorial_garden.shtml"
+              "http://gwwca.org/v1/index.shtml"
                   >Wilton Woods</a>
             </li>
             <li>
