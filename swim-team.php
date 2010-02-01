@@ -21,9 +21,6 @@
               Go Tidal Wave!
             </h4>
             <ul>
-              <li>2009 swim season <a href="season.php"><strong>
-                practice and meet schedule online</strong></a>
-              </li>
               <li>
                 <a href="swim-team-101.php"><strong>Swim Team
                 101</strong></a>: learn the basics!
