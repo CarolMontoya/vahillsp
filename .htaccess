@@ -113,3 +113,7 @@ RewriteRule ^TWBlog$ "http\:\/\/blog\.vahillspool\.org\/" [R=301,L]
 RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
 RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
 RewriteRule ^TWBlog\/?$ "http\:\/\/blog\.vahillspool\.org\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^adultsocials\.html$ "http\:\/\/www\.vahillspool\.org\/adult\-socials\.php" [R=301,L]
+
