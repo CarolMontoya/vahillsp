@@ -9,17 +9,16 @@ include_once "header.inc";
   <p align="center"><img src="images/swteam1.jpg" width="365" height="274"></p>
   <h3>2010 Tidal Wave Schedule<br>
   Division 17</h3>
-  <p><strong>Download
-  <a href="2010Calendar.pdf">Pool Calendar</a> (pdf)</strong></p>
-    <table width="85%" border="0" align="center">
-      <tr>
-        <td colspan="3"><p><strong>Important
-        Dates:</strong></p>              <ul>
+  <p>Download <a href="2010Calendar.pdf">Pool Calendar</a> <img src="images/pdf.gif" width="15" height="16"></p>
+  <!--<table width="90%" border="0" align="center">
+    <tr>
+      <td colspan="3"><p><strong>Important Dates:</strong></p>
+        <ul>
           <li>TBD</li>
         </ul>
       </td>
     </tr>
-  </table>
+  </table>-->
   <h5>Practice Schedule</h5>
   <table width="90%" border="1" align="center">
     <tr>
@@ -36,6 +35,9 @@ include_once "header.inc";
       <td>5:30 - 6:15 pm</td>
       <td>6:15 - 7:00 pm</td>
       <td>7:00 - 8:00 pm</td>
+    </tr>
+    <tr>
+      <td colspan="4"<</td>
     </tr>
     <tr>
       <th>June 28 - July 30</th>
@@ -60,7 +62,7 @@ include_once "header.inc";
     <li>Remember that warm-ups start before meet times!</li>
   </ul>
   <p>A meets are competitive; B meets are developmental</p>
-  <table width="90%" border="1" align="center">
+  <table id="MeetSchedule" width="90%" border="1" align="center">
     <tr>
       <th>Date</th>
       <th>Type</th>
@@ -179,4 +181,19 @@ include_once "header.inc";
   <p>&nbsp;</p>
   <div align="center"><img src="images/teampicbanquet.jpg" width="514" height="290"></div>
 </div>
+<script type="text/javascript" language="javascript" src="js/jquery.js"></script>
+<script type="text/javascript" language="javascript" src="js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" language="javascript">
+$(document).ready(function() {
+	$('#MeetSchedule').dataTable( {
+    "bPaginate": false,
+    "bLengthChange": false,
+    "bFilter": true,
+    "bSort": true,
+    "bInfo": false,
+    "bAutoWidth": false 
+	} );
+} );
+</script>
+
 <?php include_once "footer.inc"; ?>
