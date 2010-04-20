@@ -63,118 +63,122 @@ include_once "header.inc";
   </ul>
   <p>A meets are competitive; B meets are developmental</p>
   <table id="MeetSchedule" width="90%" border="1" align="center" class="display">
-    <tr>
-      <th>Date</th>
-      <th>Type</th>
-      <th>Team</th>
-      <th>HOME/AWAY</th>
-      <th>Notes</th>
-    </tr>
-    <tr>
-      <td>June 19</td>
-      <td>Time trials</td>
-      <td>Highland Park</td>
-      <td>AWAY</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>June 21</td>
-      <td>B meet</td>
-      <td>Stratford Rec Assn</td>
-      <td>HOME</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>June 26</td>
-      <td>A meet</td>
-      <td>Pinewood</td>
-      <td>HOME</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>June 28</td>
-      <td>B meet</td>
-      <td>Little Hunting Park</td>
-      <td>AWAY</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>July 3</td>
-      <td>A meet</td>
-      <td>Bren Mar-Edsall Park</td>
-      <td>AWAY</td>
-      <td>at Bren Mar pool on Edsall Road</td>
-    </tr>
-    <tr>
-      <td>July 5</td>
-      <td>B meet</td>
-      <td>Highland Park</td>
-      <td>HOME</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>July 7</td>
-      <td>Division Relay Carnival</td>
-      <td>Broyhill Crest</td>
-      <td>AWAY</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>July 10</td>
-      <td>A meet</td>
-      <td>Rolling Valley</td>
-      <td>AWAY</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>July 12</td>
-      <td>B meet</td>
-      <td>Lorton Station</td>
-      <td>HOME</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>July 17</td>
-      <td>A meet</td>
-      <td>Herndon</td>
-      <td>HOME</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>July 18</td>
-      <td>Relay Championship Meet</td>
-      <td>Lincolnia Park</td>
-      <td>AWAY</td>
-      <td>only for qualifying relay teams</td>
-    </tr>
-    <tr>
-      <td>July 19</td>
-      <td>B meet</td>
-      <td>Hayfield</td>
-      <td>HOME</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>July 24</td>
-      <td>A meet</td>
-      <td>Broyhill Crest</td>
-      <td>HOME</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>July 26</td>
-      <td>IM Invitational</td>
-      <td>N/A</td>
-      <td>TBA</td>
-      <td>place TBA</td>
-    </tr>
-    <tr>
-      <td>July 31</td>
-      <td>Divisionals</td>
-      <td>N/A</td>
-      <td>AWAY</td>
-      <td>at Edsall Park pool (at the end of Montgomery Street)</td>
-    </tr>
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Type</th>
+        <th>Team</th>
+        <th>HOME/AWAY</th>
+        <th>Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>June 19</td>
+        <td>Time trials</td>
+        <td>Highland Park</td>
+        <td>AWAY</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>June 21</td>
+        <td>B meet</td>
+        <td>Stratford Rec Assn</td>
+        <td>HOME</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>June 26</td>
+        <td>A meet</td>
+        <td>Pinewood</td>
+        <td>HOME</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>June 28</td>
+        <td>B meet</td>
+        <td>Little Hunting Park</td>
+        <td>AWAY</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>July 3</td>
+        <td>A meet</td>
+        <td>Bren Mar-Edsall Park</td>
+        <td>AWAY</td>
+        <td>at Bren Mar pool on Edsall Road</td>
+      </tr>
+      <tr>
+        <td>July 5</td>
+        <td>B meet</td>
+        <td>Highland Park</td>
+        <td>HOME</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>July 7</td>
+        <td>Division Relay Carnival</td>
+        <td>Broyhill Crest</td>
+        <td>AWAY</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>July 10</td>
+        <td>A meet</td>
+        <td>Rolling Valley</td>
+        <td>AWAY</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>July 12</td>
+        <td>B meet</td>
+        <td>Lorton Station</td>
+        <td>HOME</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>July 17</td>
+        <td>A meet</td>
+        <td>Herndon</td>
+        <td>HOME</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>July 18</td>
+        <td>Relay Championship Meet</td>
+        <td>Lincolnia Park</td>
+        <td>AWAY</td>
+        <td>only for qualifying relay teams</td>
+      </tr>
+      <tr>
+        <td>July 19</td>
+        <td>B meet</td>
+        <td>Hayfield</td>
+        <td>HOME</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>July 24</td>
+        <td>A meet</td>
+        <td>Broyhill Crest</td>
+        <td>HOME</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>July 26</td>
+        <td>IM Invitational</td>
+        <td>N/A</td>
+        <td>TBA</td>
+        <td>place TBA</td>
+      </tr>
+      <tr>
+        <td>July 31</td>
+        <td>Divisionals</td>
+        <td>N/A</td>
+        <td>AWAY</td>
+        <td>at Edsall Park pool (at the end of Montgomery Street)</td>
+      </tr>
+    </tbody>
   </table>
   <p>Details will be posted each week for upcoming events. Saturday Meets typically run from 8:00 am (warm-ups) to 11:30 am. Monday &quot;B&quot; Meets typically run from 5:00 pm (warm-ups) to 8:30 pm.</p>
   <div align="center"><img src="images/TW2006TeamPic.jpg" width="475" height="276"></div>
