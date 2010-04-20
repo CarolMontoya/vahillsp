@@ -5,8 +5,7 @@ include_once "header.inc";
 ?>
 <div class="rounded">
 
-  <h2>Swim
-  Team Schedule</h2>
+  <h2>Swim Team Schedule</h2>
   <p align="center"><img src="images/swteam1.jpg" width="365" height="274"></p>
   <h3>2010 Tidal Wave Schedule<br>
   Division 17</h3>
@@ -22,7 +21,7 @@ include_once "header.inc";
     </tr>
   </table>
   <h5>Practice Schedule</h5>
-  <table width="77%" border="1" align="center">
+  <table width="90%" border="1" align="center">
     <tr>
       <td></td>
       <th>Ages 8 and under</th>
@@ -61,7 +60,7 @@ include_once "header.inc";
     <li>Remember that warm-ups start before meet times!</li>
   </ul>
   <p>A meets are competitive; B meets are developmental</p>
-  <table width="77%" border="1" align="center">
+  <table width="90%" border="1" align="center">
     <tr>
       <th>Date</th>
       <th>Type</th>
