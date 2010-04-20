@@ -3,6 +3,9 @@ global $siteTitle;
 $siteTitle = "Swim Team Schedule 2010";
 include_once "header.inc";
 ?>
+<style type="text/css" title="currentStyle">
+  @import "css/demo_table.css";
+</style>
 <div class="rounded">
 
   <h2>Swim Team Schedule</h2>
@@ -195,7 +198,8 @@ $(document).ready(function() {
     "bFilter": true,
     "bSort": true,
     "bInfo": false,
-    "bAutoWidth": false 
+    "bAutoWidth": false,
+    "aoColumns": 
 	} );
 } );
 </script>
