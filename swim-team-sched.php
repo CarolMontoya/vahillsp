@@ -92,7 +92,7 @@ include_once "header.inc";
       </tr>
       <tr>
         <td>June 25</td>
-        <td>N/A</td>
+        <td>FUN</td>
         <td>N/A</td>
         <td>N/A</td>
         <td>Spaghetti Dinner</td>
@@ -148,7 +148,7 @@ include_once "header.inc";
       </tr>
       <tr>
         <td>July 17</td>
-        <td>N/A</td>
+        <td>FUN</td>
         <td>N/A</td>
         <td>N/A</td>
         <td>Team Photo (6:00pm) and Camp out</td>
@@ -190,7 +190,7 @@ include_once "header.inc";
       </tr>
       <tr>
         <td>July 28</td>
-        <td>N/A</td>
+        <td>FUN</td>
         <td>N/A</td>
         <td>N/A</td>
         <td>King's Dominion Day</td>
@@ -204,7 +204,7 @@ include_once "header.inc";
       </tr>
       <tr>
         <td>July 31</td>
-        <td>N/A</td>
+        <td>FUN</td>
         <td>N/A</td>
         <td>N/A</td>
         <td>End of Season Banquet (6:00pm)</td>
