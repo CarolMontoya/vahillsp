@@ -25,11 +25,12 @@
                 <a href="swim-team-101.php"><strong>Swim Team
                 101</strong></a>: learn the basics!
               </li>
-              <!--                  <li><font color="#333333" size="2" face="Arial, Helvetica, sans-serif"><strong><a href="docs/Summer09RegForm.pdf">Registration Form</a></strong></font> <img src="images/pdf.gif" width="15" height="16"></li>-->
-              <!--                  <li><font color="#333333" size="2" face="Arial, Helvetica, sans-serif"><strong><a href="docs/2009AvailabilityForm.pdf">Swimmer Availability Form</a></strong></font> <img src="images/pdf.gif" alt="" width="15" height="16"></li>-->
-              <!--                  <li><strong>Saturday, July 11</strong>: 6pm Team Photo<br/>
-                                  7pm Camp Out <a href="camp-out-permission-slip.pdf">(download permission form)</a><img src="images/pdf.gif" alt="" width="15" height="16">
-                                  </li>-->
+              <li>2010 swim season <a href="season.php"><strong>
+                practice and meet schedule online</strong></a>
+              </li>
+              <li><strong><a href="docs/2010InformationLetter.pdf">Information Letter</a></strong> <img src="images/pdf.gif" width="15" height="16"></li>
+              <li><strong><a href="docs/2010RegForm.pdf">Registration Form</a></strong> <img src="images/pdf.gif" width="15" height="16"></li>
+              <li><strong><a href="docs/2010AvailabilityForm.pdf">Swimmer Availability Form</a></strong> <img src="images/pdf.gif" alt="" width="15" height="16"></li>
               <li>Contact <a href=
               "mailto:%20kolosarah@gmail.com">Sarah Kolo</a>,
               Team Representative, with questions

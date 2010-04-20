@@ -1,6 +1,6 @@
 <?php
 global $siteTitle;
-$siteTitle = "Swim Team Schedule 2009";
+$siteTitle = "Swim Team Schedule 2010";
 include_once "header.inc";
 ?>
 <div class="rounded">
@@ -8,199 +8,175 @@ include_once "header.inc";
   <h2>Swim
   Team Schedule</h2>
   <p align="center"><img src="images/swteam1.jpg" width="365" height="274"></p>
-  <h3>2009 Tidal Wave Schedule<br>
+  <h3>2010 Tidal Wave Schedule<br>
   Division 17</h3>
   <p><strong>Download
-  <a href="2009Calendar.pdf">Pool Calendar</a> (pdf)</strong></p>
+  <a href="2010Calendar.pdf">Pool Calendar</a> (pdf)</strong></p>
     <table width="85%" border="0" align="center">
       <tr>
         <td colspan="3"><p><strong>Important
-        Dates TBD:</strong></p>              <ul>
-          <li>Kick-Off
-          Meeting 7 pm; Swimsuit Sale 4-7 pm</li>
-          <li>Team Photo at morning practice</li>
+        Dates:</strong></p>              <ul>
+          <li>TBD</li>
         </ul>
       </td>
     </tr>
   </table>
-  <h5>Meet
-  Schedule</h5>
+  <h5>Practice Schedule</h5>
   <table width="77%" border="1" align="center">
     <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>*
-      Remember that warm-ups start before meet times!</td>
+      <td></td>
+      <th>Ages 8 and under</th>
+      <th>Ages 9-12</th>
+      <th>Ages 13-18</th>
     </tr>
     <tr>
-      <td>Saturday</td>
-      <td>June
-      13</td>
-      <td>Time
-      Trials  Highland Park at Virginia Hills 9 am (HOME)</td>
+      <th colspan="4">June 1 - June 25</th>
     </tr>
     <tr>
-      <td>Monday</td>
-      <td>June 15</td>
-      <td>&quot;B&quot; Meet
-      at Stratford Landing 6 pm (AWAY)</td>
+      <th>Monday thru Friday<br>Afternoon practice only</th>
+      <td>5:30 - 6:15 pm</td>
+      <td>6:15 - 7:00 pm</td>
+      <td>7:00 - 8:00 pm</td>
     </tr>
     <tr>
-      <td>Saturday</td>
-      <td>June 20</td>
-      <td>&quot;A&quot;
-      Meet Herndon at Virginia Hills 9 am  (HOME)</td>
+      <th>June 28 - July 30</th>
+      <td colspan="2">Ages 12 and under</td>
+      <td>Ages 13-18</td>
     </tr>
     <tr>
-      <td>Monday</td>
-      <td>June
-      22</td>
-      <td>&quot;B&quot;
-      Meet Little Hunting Park at Virginia Hills 6 pm  (HOME)</td>
+      <th>Monday thru Friday<br/>Morning practice</th>
+      <td colspan="2">9:00 - 10:00 am</td>
+      <td>7:45 - 9:00 am</td>
     </tr>
     <tr>
-      <td width="18%">Saturday</td>
-      <td width="18%">June
-      27</td>
-      <td width="82%">&quot;A&quot;
-      Meet at Somerset Old Creek 9 am (AWAY)</td>
-    </tr>
-    <tr>
-      <td>Monday</td>
-      <td>June
-      29</td>
-      <td>&quot;B&quot; Meet
-      at Highland Park 6 pm (AWAY)</td>
-    </tr>
-    <tr>
-      <td>Saturday</td>
-      <td>July 4</td>
-      <td>&quot;A&quot; Meet Bryn Mar-Edsall Park at Virginia Hills 9 am  (HOME)</td>
-    </tr>
-    <tr>
-      <td>Monday</td>
-      <td>July
-      6</td>
-      <td>&quot;B&quot; Meet
-      Lorton Station at Virginia Hills 6 pm           (HOME)</td>
-    </tr>
-    <tr>
-      <td>Wednesday</td>
-      <td>July
-      8</td>
-      <td>Division
-      Relay Carnival at Edsall Park 3 pm</td>
-    </tr>
-    <tr>
-      <td>Saturday</td>
-      <td>July
-      11</td>
-      <td>&quot;A&quot; Meet
-      at Pinewood 9 am (AWAY)</td>
-    </tr>
-    <tr>
-      <td>Monday</td>
-      <td>July
-      13</td>
-      <td>&quot;B&quot; Meet
-      at Hayfield  6 pm (AWAY)</td>
-    </tr>
-    <tr>
-      <td>Saturday</td>
-      <td>July
-      18</td>
-      <td>&quot;A&quot;
-        Meet at Broyhill Crest  9
-      am (AWAY)</td>
-    </tr>
-    <tr>
-      <td height="21">Monday</td>
-      <td>July
-      20</td>
-      <td>IM
-      Invitational 5 pm</td>
-    </tr>
-    <tr>
-      <td>Saturday</td>
-      <td>July
-      25</td>
-      <td>Divisionals
-        at Pinewood 8:30 am; <br>
-      Team Banquet at 6 pm</td>
-    </tr>
-    <tr>
-      <td colspan="3">Details
-        will be posted each week for upcoming events.&nbsp; Saturday &#8220;A&#8221; Meets
-        typically
-        run from 8:00 am (warm-ups) to 11:30 am.&nbsp; Monday &quot;B&quot; Meets typically
-        run
-        from
-        5:
-        00
-      pm (warm-ups) to 8:30 pm.</td>
+      <th>Tuesday and Thursday<br>Afternoon practice</th>
+      <td colspan="2">6:00 - 6:45 pm</td>
+      <td>7:00 - 8:00 pm</td>
     </tr>
   </table>
-  <h5><a name="PracticeSched"></a>Practice
-  Schedule</h5>
-  <table width="75%" border="1" align="center">
+  <h5>Meet Schedule</h5>
+  <p>Details will be posted each week for upcoming events.  Saturday “A” Meets typically run from 8:00 am (warm-ups) to 11:30 am.  Monday "B" Meets typically run from 
+5: 00 pm (warm-ups) to 8:30 pm.</p>
+  <ul>
+    <li>Remember that warm-ups start before meet times!</li>
+  </ul>
+  <p>A meets are competitive; B meets are developmental</p>
+  <table width="77%" border="1" align="center">
     <tr>
-      <td width="33%"><div align="left"></div></td>
-      <td width="25%" valign="top"><div align="center">Ages
-        8<br>
-        and under
-      </div></td>
-      <td width="22%" valign="top"><div align="center">Ages 9-12</div></td>
-      <td width="20%" valign="top"><div align="center">Ages
-      13-18</div></td>
+      <th>Date</th>
+      <th>Type</th>
+      <th>Team</th>
+      <th>HOME/AWAY</th>
+      <th>Notes</th>
     </tr>
     <tr>
-      <td><div align="left"><strong>Through
-        June 13<br>
-      (until school ends)</strong></div></td>
-      <td colspan="3">&nbsp;</td>
+      <td>June 19</td>
+      <td>Time trials</td>
+      <td>Highland Park</td>
+      <td>AWAY</td>
+      <td></td>
     </tr>
     <tr>
-      <td><div align="left"><br>
-        Monday thru Friday<br>
-      Afternoon practice only</div></td>
-      <td><div align="center">4:30
-        - 5:15 pm<br>
-      </div></td>
-      <td><div align="center">5:15
-      - 6:00 pm</div></td>
-      <td><div align="center">6:00
-      - 7:00 pm</div></td>
+      <td>June 21</td>
+      <td>B meet</td>
+      <td>Stratford Rec Assn</td>
+      <td>HOME</td>
+      <td></td>
     </tr>
     <tr>
-      <td colspan="4"><hr></td>
+      <td>June 26</td>
+      <td>A meet</td>
+      <td>Pinewood</td>
+      <td>HOME</td>
+      <td></td>
     </tr>
     <tr>
-      <td><div align="left"><strong>June
-      16 - July 25</strong></div></td>
-      <td colspan="3">&nbsp;</td>
+      <td>June 28</td>
+      <td>B meet</td>
+      <td>Little Hunting Park</td>
+      <td>AWAY</td>
+      <td></td>
     </tr>
     <tr>
-      <td><div align="left"><br>
-        Monday
-        through Friday <br>
-      Morning practice</div></td>
-      <td><div align="center">10:15
-      - 11:00 am</div></td>
-      <td><div align="center">9:15 - 10:00 am</div></td>
-      <td><div align="center">8:00
-      - 9:00 am</div></td>
+      <td>July 3</td>
+      <td>A meet</td>
+      <td>Bren Mar-Edsall Park</td>
+      <td>AWAY</td>
+      <td>at Bren Mar pool on Edsall Road</td>
     </tr>
     <tr>
-      <td><div align="left">Tuesday
-        and Thursday <br>
-      Afternoon practice</div></td>
-      <td colspan="2"><div align="center">5:00
-      - 5:45 pm</div></td>
-      <td><div align="center">6:00
-      - 7:00 pm</div></td>
+      <td>July 5</td>
+      <td>B meet</td>
+      <td>Highland Park</td>
+      <td>HOME</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>July 7</td>
+      <td>Division Relay Carnival</td>
+      <td>Broyhill Crest</td>
+      <td>AWAY</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>July 10</td>
+      <td>A meet</td>
+      <td>Rolling Valley</td>
+      <td>AWAY</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>July 12</td>
+      <td>B meet</td>
+      <td>Lorton Station</td>
+      <td>HOME</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>July 17</td>
+      <td>A meet</td>
+      <td>Herndon</td>
+      <td>HOME</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>July 18</td>
+      <td>Relay Championship Meet</td>
+      <td>Lincolnia Park</td>
+      <td>AWAY</td>
+      <td>only for qualifying relay teams</td>
+    </tr>
+    <tr>
+      <td>July 19</td>
+      <td>B meet</td>
+      <td>Hayfield</td>
+      <td>HOME</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>July 24</td>
+      <td>A meet</td>
+      <td>Broyhill Crest</td>
+      <td>HOME</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>July 26</td>
+      <td>IM Invitational</td>
+      <td>N/A</td>
+      <td>TBA</td>
+      <td>place TBA</td>
+    </tr>
+    <tr>
+      <td>July 31</td>
+      <td>Divisionals</td>
+      <td>N/A</td>
+      <td>AWAY</td>
+      <td>at Edsall Park pool (at the end of Montgomery Street)</td>
     </tr>
   </table>
-  <p align="center"><img src="images/TW2006TeamPic.jpg" width="475" height="276"></p>
+  <p>Details will be posted each week for upcoming events. Saturday Meets typically run from 8:00 am (warm-ups) to 11:30 am. Monday &quot;B&quot; Meets typically run from 5:00 pm (warm-ups) to 8:30 pm.</p>
+  <div align="center"><img src="images/TW2006TeamPic.jpg" width="475" height="276"></div>
   <p>&nbsp;</p>
   <div align="center"><img src="images/teampicbanquet.jpg" width="514" height="290"></div>
 </div>
