@@ -64,7 +64,7 @@ include_once "header.inc";
   <ul>
     <li>Remember that warm-ups start before meet times!</li>
   </ul>
-  <p>A meets are competitive; B meets are developmental</p>
+  <p>A meets are competitive; B meets are developmental.</p>
   <table id="MeetSchedule" width="90%" border="1" align="center" class="display">
     <thead>
       <tr>
@@ -89,6 +89,13 @@ include_once "header.inc";
         <td>Stratford Rec Assn</td>
         <td>HOME</td>
         <td></td>
+      </tr>
+      <tr>
+        <td>June 25</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>Spaghetti Dinner</td>
       </tr>
       <tr>
         <td>June 26</td>
@@ -141,6 +148,13 @@ include_once "header.inc";
       </tr>
       <tr>
         <td>July 17</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>Team Photo (6:00pm) and Camp out</td>
+      </tr>
+      <tr>
+        <td>July 17</td>
         <td>A meet</td>
         <td>Herndon</td>
         <td>HOME</td>
@@ -175,16 +189,28 @@ include_once "header.inc";
         <td>place TBA</td>
       </tr>
       <tr>
+        <td>July 28</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>King's Dominion Day</td>
+      </tr>
+      <tr>
         <td>July 31</td>
         <td>Divisionals</td>
         <td>N/A</td>
         <td>AWAY</td>
         <td>at Edsall Park pool (at the end of Montgomery Street)</td>
       </tr>
+      <tr>
+        <td>July 31</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>End of Season Banquet (6:00pm)</td>
+      </tr>
     </tbody>
   </table>
-  <p>Details will be posted each week for upcoming events. Saturday Meets typically run from 8:00 am (warm-ups) to 11:30 am. Monday &quot;B&quot; Meets typically run from 5:00 pm (warm-ups) to 8:30 pm.</p>
-  <div align="center"><img src="images/TW2006TeamPic.jpg" width="475" height="276"></div>
   <p>&nbsp;</p>
   <div align="center"><img src="images/teampicbanquet.jpg" width="514" height="290"></div>
 </div>
