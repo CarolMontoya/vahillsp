@@ -9,7 +9,7 @@ include_once "header.inc";
   <p align="center"><img src="images/swteam1.jpg" width="365" height="274"></p>
   <h3>2010 Tidal Wave Schedule<br>
   Division 17</h3>
-  <p>Download <a href="2010Calendar.pdf">Pool Calendar</a> <img src="images/pdf.gif" width="15" height="16"></p>
+  <p><strong>Download <a href="2010Calendar.pdf">Pool Calendar</a> <img src="images/pdf.gif" width="15" height="16"></strong></p>
   <!--<table width="90%" border="0" align="center">
     <tr>
       <td colspan="3"><p><strong>Important Dates:</strong></p>
@@ -37,7 +37,7 @@ include_once "header.inc";
       <td>7:00 - 8:00 pm</td>
     </tr>
     <tr>
-      <td colspan="4"<</td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <th>June 28 - July 30</th>
@@ -56,13 +56,13 @@ include_once "header.inc";
     </tr>
   </table>
   <h5>Meet Schedule</h5>
-  <p>Details will be posted each week for upcoming events.  Saturday “A” Meets typically run from 8:00 am (warm-ups) to 11:30 am.  Monday "B" Meets typically run from 
+  <p>Details will be posted each week for upcoming events.  Saturday "A" Meets typically run from 8:00 am (warm-ups) to 11:30 am.  Monday "B" Meets typically run from 
 5: 00 pm (warm-ups) to 8:30 pm.</p>
   <ul>
     <li>Remember that warm-ups start before meet times!</li>
   </ul>
   <p>A meets are competitive; B meets are developmental</p>
-  <table id="MeetSchedule" width="90%" border="1" align="center">
+  <table id="MeetSchedule" width="90%" border="1" align="center" class="display">
     <tr>
       <th>Date</th>
       <th>Type</th>
