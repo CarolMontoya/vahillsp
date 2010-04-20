@@ -199,7 +199,13 @@ $(document).ready(function() {
     "bSort": true,
     "bInfo": false,
     "bAutoWidth": false,
-    "aoColumns": 
+    "aoColumns": [
+      { "sType": 'date' },
+      null,
+      null,
+      null,
+      null
+    ]
 	} );
 } );
 </script>
