@@ -29,8 +29,7 @@
                 practice and meet schedule online</strong></a>
               </li>
               <li><strong><a href="docs/2010InformationLetter.pdf">Information Letter</a></strong> <img src="images/pdf.gif" width="15" height="16"></li>
-              <li><strong><a href="docs/2010RegForm.pdf">Registration Form</a></strong> <img src="images/pdf.gif" width="15" height="16"></li>
-              <li><strong><a href="docs/2010AvailabilityForm.pdf">Swimmer Availability Form</a></strong> <img src="images/pdf.gif" alt="" width="15" height="16"></li>
+              <li><strong><a href="docs/2010RegAvailForm.pdf">Registration/Availability Form</a></strong> <img src="images/pdf.gif" width="15" height="16"></li>
               <li>Contact <a href=
               "mailto:%20kolosarah@gmail.com">Sarah Kolo</a>,
               Team Representative, with questions
