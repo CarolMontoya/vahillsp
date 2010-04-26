@@ -22,11 +22,11 @@
           <a href="schedule.php">Operating hours for 2010</a>
         </li>
         <li>
-          <a href="vote-new-design-2009-11.php">Vote on the new website design</a>
+          <a href="swim-team.php">
+            Summer Swim Season: Learn More!</a>
         </li>
         <li>
-          <a href="WinterSwim2009_10.pdf">
-            Winter Swim Sign-Up</a>
+          <a href="vote-new-design-2009-11.php">Vote on the new website design</a>
         </li>
       </ul>
     </div>
