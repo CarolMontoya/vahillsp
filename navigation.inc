@@ -25,14 +25,14 @@
 
 <div class="rounded bubbles nav-short">
   <ul id="nav-short">
-    <li><a href="index.php"><div>Home</div></a></li>
-    <li><a href="location.php"><div>Location</div></a></li>
-    <li><a href="schedule.php"><div>Hours &amp; Events</div></a></li>
-    <li><a href="membership.php"><div>Membership &amp; Fees</div></a></li>
-    <li><a href="swim-team.php"><div>Swim Team</div></a></li>
-    <li><a href="board.php"><div>Board</div></a></li>
-    <li><a href="rentals.php"><div>Rentals &amp; Parties</div></a></li>
-    <li><a href="project.php"><div>2009 Construction</div></a></li>
+    <li><a href="/index.php"><div>Home</div></a></li>
+    <li><a href="/location.php"><div>Location</div></a></li>
+    <li><a href="/schedule.php"><div>Hours &amp; Events</div></a></li>
+    <li><a href="/membership.php"><div>Membership &amp; Fees</div></a></li>
+    <li><a href="/swim-team.php"><div>Swim Team</div></a></li>
+    <li><a href="/board.php"><div>Board</div></a></li>
+    <li><a href="/rentals.php"><div>Rentals &amp; Parties</div></a></li>
+    <li><a href="/project.php"><div>2009 Construction</div></a></li>
     <li><a href="http://blog.vahillspool.org/"><div>Tidal Wave Blog</div></a></li>
   </ul>
 </div> 
