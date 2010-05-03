@@ -4,3 +4,7 @@ Disallow: /cgi-bin
 Disallow: /.*
 Disallow: /_*
 Allow: /
+
+User-Agent: zschobot
+Disallow: /iwghw
+
