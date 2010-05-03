@@ -6,5 +6,5 @@ Disallow: /_*
 Allow: /
 
 User-Agent: zschobot
-Disallow: /iwghw
+Disallow: /
 
