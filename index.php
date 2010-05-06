@@ -4,8 +4,8 @@
 	include_once "header.inc"; 
 ?>
 <div class="rounded">
+  <h1>Now Accepting New Members for 2010 Season - No Waiting List!</h1>
   <div class="posrel">
-    <h1>Now Accepting New Members for 2010 Season - No Waiting List!</h1>
     <div>
       <img src="images/collage-main.jpg"
            width="608"
