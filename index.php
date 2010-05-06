@@ -5,8 +5,8 @@
 ?>
 <div class="rounded">
   <div class="posrel">
+    <h1>Now Accepting New Members for 2010 Season - No Waiting List!</h1>
     <div>
-      <h1>Now Accepting New Members for 2010 Season ÎíÎñ No Waiting List!</h1>
       <img src="images/collage-main.jpg"
            width="608"
            height="436"
