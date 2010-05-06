@@ -6,6 +6,7 @@
 <div class="rounded">
   <div class="posrel">
     <div>
+      <h1>Now Accepting New Members for 2010 Season ÎíÎñ No Waiting List!</h1>
       <img src="images/collage-main.jpg"
            width="608"
            height="436"
