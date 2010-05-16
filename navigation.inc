@@ -33,6 +33,7 @@
     <li><a href="/board.php"><div>Board</div></a></li>
     <li><a href="/rentals.php"><div>Rentals &amp; Parties</div></a></li>
     <li><a href="/project.php"><div>2009 Construction</div></a></li>
+    <li><a href="/2010Calendar.pdf" target="_new"><div>2010 Calendar</div></a></li>
     <li><a href="http://blog.vahillspool.org/"><div>Tidal Wave Blog</div></a></li>
   </ul>
 </div> 
