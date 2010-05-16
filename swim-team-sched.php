@@ -12,7 +12,7 @@ include_once "header.inc";
   <p align="center"><img src="images/swteam1.jpg" width="365" height="274"></p>
   <h3>2010 Tidal Wave Schedule<br>
   Division 17</h3>
-  <p><strong>Download <a href="2010Calendar.pdf">Pool Calendar</a> <img src="images/pdf.gif" width="15" height="16"></strong></p>
+  <p><strong>Download <a href="2010Calendar.pdf" target="_new">Pool Calendar</a> <img src="images/pdf.gif" width="15" height="16"></strong></p>
   <!--<table width="90%" border="0" align="center">
     <tr>
       <td colspan="3"><p><strong>Important Dates:</strong></p>
