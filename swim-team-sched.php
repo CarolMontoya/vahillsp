@@ -13,15 +13,20 @@ include_once "header.inc";
   <h3>2010 Tidal Wave Schedule<br>
   Division 17</h3>
   <p><strong>Download <a href="2010Calendar.pdf" target="_new">Pool Calendar</a> <img src="images/pdf.gif" width="15" height="16"></strong></p>
-  <!--<table width="90%" border="0" align="center">
+  <table width="90%" border="0" align="center">
     <tr>
       <td colspan="3"><p><strong>Important Dates:</strong></p>
         <ul>
-          <li>TBD</li>
+          <li><em>Sunday, May 23, 5:30 pm</em> Orientation Meeting<br>
+            Lee District ReCenter rear patio (enter ReCenter, go down to the pool,
+            and walk across the pool deck to the exterior doors)</li>
+          <li><em>Tuesday, June 1, 6:00 pm</em> Orientation Meeting<br>
+            Virginia Hills Pool</li>
+          <li><em>Friday, June 18, 5-7 pm</em> Team Suit Sale</li>
         </ul>
       </td>
     </tr>
-  </table>-->
+  </table>
   <h5>Practice Schedule</h5>
   <table width="90%" border="1" align="center">
     <tr>
@@ -76,6 +81,13 @@ include_once "header.inc";
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <td>June 18</td>
+        <td>Team Suit Sale</td>
+        <td>N/A</td>
+        <td>HOME</td>
+        <td>5:00 - 7:00pm</td>
+      </tr>
       <tr>
         <td>June 19</td>
         <td>Time trials</td>
