@@ -27,7 +27,7 @@
             Summer Swim Season: Learn More!</a>
         </li>
         <li>
-          <a href="vote-new-design-2009-11.php">Vote on the new website design</a>
+          <a href="schedule.php">Open House Sunday, June 6th, 2010</a>
         </li>
       </ul>
     </div>

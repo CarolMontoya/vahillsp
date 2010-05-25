@@ -61,7 +61,7 @@
     providing an atmosphere for relaxation, it also
     offers a broad range of activities for its
     members. A tentative list of special activities
-    planned for the 2009 season follows. Notices
+    planned for the 2010 season follows. Notices
     will be placed at the pool and e-mails sent to
     members during the season confirming these
     events:
@@ -69,10 +69,10 @@
   <table class="events">
     <tr>
       <th>
-        Saturday, July 18, 2009 &ndash;
+        Sunday, June 6th, 2010 &ndash;
       </th>
       <td>
-        Adult Social
+        12:00 - 4:00 Open House
       </td>
     </tr>
     <tr>
