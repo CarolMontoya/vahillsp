@@ -69,7 +69,7 @@
   <table class="events">
     <tr>
       <th>
-        Sunday, June 6th, 2010 &ndash;
+        <a name="open-house"></a>Sunday, June 6th, 2010 &ndash;
       </th>
       <td>
         12:00 - 4:00 Open House
