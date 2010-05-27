@@ -11,7 +11,7 @@
             Division 17, Northern Virginia Swimming League
           </h3>
           <p align="center">
-            <img src="images/TidalWave2007.jpg"
+            <img src="images/TidalWave2009.jpg"
                width="557"
                height="304"
                alt="Tidal Wave team 2007">
