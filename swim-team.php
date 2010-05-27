@@ -12,8 +12,8 @@
           </h3>
           <p align="center">
             <img src="images/TW2009TeamPic.jpg"
-               width="640"
-               height="472"
+               width="551"
+               height="406"
                alt="Tidal Wave team 2009">
           </p><br>
           <div>
