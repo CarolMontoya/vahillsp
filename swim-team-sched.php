@@ -17,9 +17,6 @@ include_once "header.inc";
     <tr>
       <td colspan="3"><p><strong>Important Dates:</strong></p>
         <ul>
-          <li><em>Sunday, May 23, 5:30 pm</em> Orientation Meeting<br>
-            Lee District ReCenter rear patio (enter ReCenter, go down to the pool,
-            and walk across the pool deck to the exterior doors)</li>
           <li><em>Tuesday, June 1, 6:00 pm</em> Orientation Meeting<br>
             Virginia Hills Pool</li>
           <li><em>Friday, June 18, 5-7 pm</em> Team Suit Sale</li>
@@ -138,13 +135,6 @@ include_once "header.inc";
         <td></td>
       </tr>
       <tr>
-        <td>July 7</td>
-        <td>Division Relay Carnival</td>
-        <td>Broyhill Crest</td>
-        <td>AWAY</td>
-        <td></td>
-      </tr>
-      <tr>
         <td>July 10</td>
         <td>A meet</td>
         <td>Rolling Valley</td>
@@ -156,6 +146,13 @@ include_once "header.inc";
         <td>B meet</td>
         <td>Lorton Station</td>
         <td>HOME</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>July 14</td>
+        <td>Division Relay Carnival</td>
+        <td>Broyhill Crest</td>
+        <td>AWAY</td>
         <td></td>
       </tr>
       <tr>

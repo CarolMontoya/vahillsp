@@ -37,6 +37,7 @@
             </ul>
             <h5>Important Dates</h5>
             <ul>
+              <li><strong>June 18, 5-7 pm:</strong> Team Suit Sale</li>
               <li><strong>June 25:</strong> Spaghetti Dinner</li>
               <li><strong>July 17:</strong> Team photo (6:00pm) and Camp out</li>
               <li><strong>July 28:</strong> King's Dominion Day</li>
