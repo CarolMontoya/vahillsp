@@ -121,3 +121,17 @@ RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
 RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
 RewriteRule ^season\.php$ "http\:\/\/www\.vahillspool\.org\/swim\-team\-sched\.php" [R=301,L]
 
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^swim\-team$ "http\:\/\/www\.vahillspool\.org\/swim\-team\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^docs\/swimteam$ "http\:\/\/www\.vahillspool\.org\/swim\-team\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^swim\%E2\%80\%90team\.php$ "http\:\/\/www\.vahillspool\.org\/swim\-team\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^swim\%E2\%80\%90team\%E2\%80\%90sched\.php$ "http\:\/\/www\.vahillspool\.org\/swim\-team\-sched\.php" [R=301,L]
+
