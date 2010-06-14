@@ -69,10 +69,18 @@
   <table class="events">
     <tr>
       <th>
-        <a name="open-house"></a>Sunday, June 6th, 2010 &ndash;
+        <a name="end-of-school"></a>Thursday, June 24th, 2010 &ndash;
       </th>
       <td>
-        12:00 - 4:00 Open House
+        End of school party
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <a name="independence-day"></a>Sunday, July 4th, 2010 &ndash;
+      </th>
+      <td>
+        Fourth of July party! Chip in - contact <a href="mailto:mitchellandsuzy@juno.com">Suzy Thompson</a>
       </td>
     </tr>
     <tr>

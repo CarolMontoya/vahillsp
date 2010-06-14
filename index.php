@@ -27,7 +27,7 @@
             Summer Swim Season: Learn More!</a>
         </li>
         <li>
-          <a href="schedule.php#open-house">Open House Sunday, June 6th, 2010</a>
+          <a href="schedule.php#end-of-school">End of school party, Thursday, June 24th, 2010</a>
         </li>
       </ul>
     </div>
