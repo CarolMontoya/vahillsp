@@ -31,7 +31,7 @@
         </li>
       </ul>
     </div>
-    <iframe frameborder="0" scrolling="auto" width="700" height="500" src="http://vahillsp.questionform.com/embed/Pool-Satisfaction">
+    <iframe frameborder="0" scrolling="auto" width="550" height="500" src="http://vahillsp.questionform.com/embed/Pool-Satisfaction">
 <a href="http://vahillsp.questionform.com/public/Pool-Satisfaction"> http://vahillsp.questionform.com/public/Pool-Satisfaction </a>
 </iframe>
     <div class="collage-blurb">
