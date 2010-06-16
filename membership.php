@@ -33,7 +33,7 @@
         </div>
         <div class="yui-u">
           <h2>
-            <a href="Rules.pdf">Rules</a>
+            <a href="docs/2010PoolRules.pdf">Rules</a>
             <img src=
               "images/pdf.gif"
                width="15"
