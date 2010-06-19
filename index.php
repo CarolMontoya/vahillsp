@@ -20,11 +20,10 @@
     <div class="collage-header">
       <ul class="collage-links">
         <li>
-          <a href="schedule.php">Operating hours for 2010</a>
+          <a href="aerobics.php">Sign up for Deep Water Aerobics now!</a>
         </li>
         <li>
-          <a href="swim-team.php">
-            Summer Swim Season: Learn More!</a>
+          <a href="schedule.php">Operating hours for 2010</a>
         </li>
         <li>
           <a href="schedule.php#end-of-school">End of school party, Thursday, June 24th, 2010</a>
