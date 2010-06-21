@@ -23,10 +23,10 @@
           <a href="aerobics.php">Sign up for Deep Water Aerobics now!</a>
         </li>
         <li>
-          <a href="schedule.php">Operating hours for 2010</a>
+          <a href="schedule.php#end-of-school">End of school party, Thursday, June 24th, 2010</a>
         </li>
         <li>
-          <a href="schedule.php#end-of-school">End of school party, Thursday, June 24th, 2010</a>
+          <a href="4th-july.php">4th of July Fun Fest!</a>
         </li>
       </ul>
     </div>
