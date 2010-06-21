@@ -5,6 +5,16 @@
 ?>
 <div class="rounded">
   <h1>Now Accepting New Members for 2010 Season - No Waiting List!</h1>
+  <?php
+		$date1 = "2010-06-22";
+		$date2 = time();
+
+		$dateArr = explode("-",$date1);
+		$date1Int = mktime(0,0,0,$dateArr[1],$dateArr[2],$dateArr[0]);
+		if ($date1Int-$date2 > 0) {
+			echo "<h2>Pool closes early at 5:00pm Monday June 21, 2010 for swim team</h2>";
+		}
+	?>
   <div class="posrel">
     <div>
       <img src="images/collage-main.jpg"
