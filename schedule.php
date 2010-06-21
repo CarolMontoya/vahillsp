@@ -80,7 +80,7 @@
         <a name="independence-day"></a>Sunday, July 4th, 2010 &ndash;
       </th>
       <td>
-        Fourth of July party! Chip in - contact <a href="mailto:mitchellandsuzy@juno.com">Suzy Thompson</a>
+        <a href="4th-july.php">Fourth of July party!</a> Chip in - contact <a href="mailto:mitchellandsuzy@juno.com">Suzy Thompson</a>
       </td>
     </tr>
     <tr>
