@@ -10,7 +10,7 @@
     </h2>
   </div>
   <div class="yui-g">
-    <div class="yui-u" style="width:80%;">
+    <div class="yui-u" style="width:70%;">
       <p>
         Congratulations to Paige Collins, breaking a 20-year Tidal Wave record
 for 15-18 girls' butterfly. Paige's time was 33.19 yesterday, and the
