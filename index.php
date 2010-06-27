@@ -30,7 +30,7 @@
     <div class="collage-header">
       <ul class="collage-links">
         <li>
-          <a href="aerobics.php">Sign up for Deep Water Aerobics now!</a>
+          <a href="record.php">Paige Collins Sets Tidal Wave Record!</a>
         </li>
         <li>
           <a href="schedule.php#end-of-school">End of school party, Thursday, June 24th, 2010</a>
