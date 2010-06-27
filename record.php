@@ -1,6 +1,6 @@
 <?php
   global $siteTitle;
-  $siteTitle = "Deep Water Aerobics 2010";
+  $siteTitle = "Paige Collins Sets Tidal Wave Record!";
   include_once "header.inc"; 
 ?>
 <div class="rounded">
@@ -10,7 +10,7 @@
     </h2>
   </div>
   <div class="yui-g">
-    <div class="yui-u first">
+    <div class="yui-u" style="width:80%;">
       <p>
         Congratulations to Paige Collins, breaking a 20-year Tidal Wave record
 for 15-18 girls' butterfly. Paige's time was 33.19 yesterday, and the
@@ -20,7 +20,7 @@ record, and further solidify her name in our record books. She is a
 strong contender for NVSL All Stars this year. Go Paige!
       </p>
     </div>
-    <div class="yui-u">
+    <div class="yui-u first">
       <img src="images/record.png" alt="Record swimmer">
     </div>
   </div>
