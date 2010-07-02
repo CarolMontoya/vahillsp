@@ -1,7 +1,7 @@
 
 RewriteEngine on
 # Use PHP5 as default
-#AddHandler application/x-httpd-php5 .php .htm .html .shtml
+AddHandler application/x-httpd-php5 .php .htm .html .shtml
 # -FrontPage-
 
 IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
