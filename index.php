@@ -6,20 +6,20 @@
 <div class="rounded">
   <h1>Now Accepting New Members for 2010 Season - No Waiting List!</h1>
   <?php
-    $dates = array("2010-06-21" => "5:00pm",
+    $dates = array("2010-06-21" => "5:00pm for swim team",
                    "2010-07-04" => "6:00pm",
-                   "2010-07-05" => "5:00pm",
-                   "2010-07-12" => "5:00pm",
-                   "2010-07-19" => "5:00pm"
+                   "2010-07-05" => "5:00pm for swim team",
+                   "2010-07-12" => "5:00pm for swim team",
+                   "2010-07-19" => "5:00pm for swim team"
                   );
-    $today = new DateTime();
+    $today = time();
 
     foreach ($dates as $date => $time) {
-      $date = new DateTime($date);
-      $datediff = $today->diff($date);
-      $datediff = $datediff->format("%r%d");
-      if ($datediff >= 0 && $datediff < 2) {
-        echo "<h2>Pool closes early at $time on " . $date->format("l F jS, Y") . " for swim team</h2>";
+      $date = strtotime($date);
+      $datediff = $date - $today;
+      //echo "$today --- $date --- " . ($today - $date) . " $time<br>";
+      if ($datediff >= 0 && $datediff < 2 * 86400) {
+        echo "<h2>Pool closes early at $time on " . strftime("%A, %B %d, %Y", $date) . "</h2>";
       }
     }
   ?>
