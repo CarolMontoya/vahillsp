@@ -1,20 +1,28 @@
 <?php 
-	global $siteTitle;
-	$siteTitle = "Home";
-	include_once "header.inc"; 
+  global $siteTitle;
+  $siteTitle = "Home";
+  include_once "header.inc"; 
 ?>
 <div class="rounded">
   <h1>Now Accepting New Members for 2010 Season - No Waiting List!</h1>
   <?php
-		$date1 = "2010-06-22";
-		$date2 = time();
+    $dates = array("2010-06-21" => "5:00pm",
+                   "2010-07-04" => "6:00pm",
+                   "2010-07-05" => "5:00pm",
+                   "2010-07-12" => "5:00pm",
+                   "2010-07-19" => "5:00pm"
+                  );
+    $today = new DateTime();
 
-		$dateArr = explode("-",$date1);
-		$date1Int = mktime(0,0,0,$dateArr[1],$dateArr[2],$dateArr[0]);
-		if ($date1Int-$date2 > 0) {
-			echo "<h2>Pool closes early at 5:00pm Monday June 21, 2010 for swim team</h2>";
-		}
-	?>
+    foreach ($dates as $date => $time) {
+      $date = new DateTime($date);
+      $datediff = $today->diff($date);
+      $datediff = $datediff->format("%r%d");
+      if ($datediff >= 0 && $datediff < 2) {
+        echo "<h2>Pool closes early at $time on " . $date->format("l F jS, Y") . " for swim team</h2>";
+      }
+    }
+  ?>
   <div class="posrel">
     <div>
       <img src="images/collage-main.jpg"
@@ -33,14 +41,11 @@
           <a href="record.php">Paige Collins Sets Tidal Wave Record!</a>
         </li>
         <li>
-          <a href="schedule.php#end-of-school">End of school party, Thursday, June 24th, 2010</a>
-        </li>
-        <li>
           <a href="4th-july.php">4th of July Fun Fest!</a>
         </li>
       </ul>
     </div>
-    <iframe frameborder="0" scrolling="auto" width="590" height="500" src="http://vahillsp.questionform.com/embed/Pool-Satisfaction">
+    <iframe frameborder="0" scrolling="auto" width="590" height="710" src="http://vahillsp.questionform.com/embed/Pool-Satisfaction">
 <a href="http://vahillsp.questionform.com/public/Pool-Satisfaction"> http://vahillsp.questionform.com/public/Pool-Satisfaction </a>
 </iframe>
     <div class="collage-blurb">
