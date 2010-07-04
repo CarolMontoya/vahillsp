@@ -38,7 +38,7 @@
     <div class="collage-header">
       <ul class="collage-links">
         <li>
-          <a href="record.php">Paige Collins Sets Tidal Wave Record!</a>
+          <a href="record.php">Paige Collins Sets <span style="color:red;text-decoration:underline;">Another</span> Tidal Wave Record!</a>
         </li>
         <li>
           <a href="4th-july.php">4th of July Fun Fest!</a>
