@@ -18,7 +18,7 @@
       $date = strtotime($date);
       $datediff = $date - $today;
       //echo "$today --- $date --- " . ($today - $date) . " $time<br>";
-      if ($datediff >= 0 && $datediff < 2 * 86400) {
+      if ($datediff >= -86400 && $datediff < 2 * 86400) {
         echo "<h2>Pool closes early at $time on " . strftime("%A, %B %d, %Y", $date) . "</h2>";
       }
     }
