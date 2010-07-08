@@ -15,8 +15,8 @@
     <meta name="google-site-verification" content="oWVHaIbsW3g_HyzkSiUBJT6v3sHc2ECLIO9LSN0zhIE" />
     <link rel="stylesheet" href="css/vahillspool.css" type="text/css" media=
     "screen">
-    <script type="text/JavaScript" src="/js/curvycorners.js"></script>
-    <script type="text/JavaScript" src="/js/jquery.js"></script>
+    <script type="text/JavaScript" src="js/curvycorners.js"></script>
+    <script type="text/JavaScript" src="js/jquery.js"></script>
   </head>
   <body>
     <div id="doc" class="yui-t2">
