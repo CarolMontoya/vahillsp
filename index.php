@@ -45,9 +45,6 @@
         </li>
       </ul>
     </div>
-    <iframe frameborder="0" scrolling="auto" width="590" height="710" src="http://vahillsp.questionform.com/embed/Pool-Satisfaction">
-<a href="http://vahillsp.questionform.com/public/Pool-Satisfaction"> http://vahillsp.questionform.com/public/Pool-Satisfaction </a>
-</iframe>
     <div class="collage-blurb">
       Nestled in the heart of the Virginia Hills
       Community, the Virginia Hills Pool provides
@@ -58,5 +55,8 @@
       Lee District Park</a>.
     </div>
   </div>
+  <iframe frameborder="0" scrolling="auto" width="590" height="710" src="http://vahillsp.questionform.com/embed/Pool-Satisfaction">
+    <a href="http://vahillsp.questionform.com/public/Pool-Satisfaction"> http://vahillsp.questionform.com/public/Pool-Satisfaction </a>
+  </iframe>
 </div>
 <?php include_once "footer.inc"; ?>
