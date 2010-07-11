@@ -43,3 +43,4 @@ Create Tagfile=0
 31=js\curvycorners.js
 32=Templates\main.dwt
 33=..\..\wamp\bin\apache\Apache2.2.11\conf\httpd.conf
+34=.htaccess
