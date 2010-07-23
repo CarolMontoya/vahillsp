@@ -1,8 +1,10 @@
 <?php 
-	global $siteTitle;
-	$siteTitle = "Tidal Wave Swim Team";
-	include_once "header.inc"; 
+  global $siteTitle;
+  $siteTitle = "Tidal Wave Swim Team";
+  include_once "header.inc"; 
 ?>
+<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+<script src="js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
 <div class="rounded">
           <h2>
             Virginia Hills <em>Tidal Wave</em>
@@ -16,6 +18,27 @@
                height="406"
                alt="Tidal Wave team 2009">
           </p><br>
+          <a href="images/swimteam/2009/swimteam-2009-1.jpg" rel="prettyPhoto[pp_gal]" title="Little girl freestyle"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-1.jpg" width="60" height="60" alt="Little girl freestyle" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-2.jpg" rel="prettyPhoto[pp_gal]" title="Tidal Wave Banner"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-2.jpg" width="60" height="60" alt="Tidal Wave Banner" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-3.jpg" rel="prettyPhoto[pp_gal]" title="Team area"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-3.jpg" width="60" height="60" alt="Team area" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-4.jpg" rel="prettyPhoto[pp_gal]" title=""><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-4.jpg" width="60" height="60" alt="" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-5.jpg" rel="prettyPhoto[pp_gal]" title="Warmups 1"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-5.jpg" width="60" height="60" alt="Warmups 1" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-6.jpg" rel="prettyPhoto[pp_gal]" title="Warmups 2"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-6.jpg" width="60" height="60" alt="Warmups 2" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-7.jpg" rel="prettyPhoto[pp_gal]" title="Warmups 3"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-7.jpg" width="60" height="60" alt="Warmups 3" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-8.jpg" rel="prettyPhoto[pp_gal]" title="Hugs!"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-8.jpg" width="60" height="60" alt="Hugs!" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-9.jpg" rel="prettyPhoto[pp_gal]" title="Warmups 4"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-9.jpg" width="60" height="60" alt="Warmups 4" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-10.jpg" rel="prettyPhoto[pp_gal]" title="Spirit!"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-10.jpg" width="60" height="60" alt="Spirit!" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-11.jpg" rel="prettyPhoto[pp_gal]" title="Big smile!"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-11.jpg" width="60" height="60" alt="Big smile!" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-12.jpg" rel="prettyPhoto[pp_gal]" title="The team eagerly awaiting the funky chicken"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-12.jpg" width="60" height="60" alt="The team eagerly awaiting the funky chicken" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-13.jpg" rel="prettyPhoto[pp_gal]" title="Friends"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-13.jpg" width="60" height="60" alt="Friends" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-14.jpg" rel="prettyPhoto[pp_gal]" title="Here comes that funky chicken!"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-14.jpg" width="60" height="60" alt="Here comes that funky chicken!" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-15.jpg" rel="prettyPhoto[pp_gal]" title="I think this chicken can fly..."><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-15.jpg" width="60" height="60" alt="I think this chicken can fly..." /></a>
+          <a href="images/swimteam/2009/swimteam-2009-16.jpg" rel="prettyPhoto[pp_gal]" title="Wheee!"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-16.jpg" width="60" height="60" alt="Wheee!" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-17.jpg" rel="prettyPhoto[pp_gal]" title="No comment... ;]"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-17.jpg" width="60" height="60" alt="No comment... ;]" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-18.jpg" rel="prettyPhoto[pp_gal]" title="Waiting for their first event"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-18.jpg" width="60" height="60" alt="Waiting for their first event" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-19.jpg" rel="prettyPhoto[pp_gal]" title="Splash!"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-19.jpg" width="60" height="60" alt="Splash" /></a>
+          <a href="images/swimteam/2009/swimteam-2009-20.jpg" rel="prettyPhoto[pp_gal]" title="On your marks... GO!"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-20.jpg" width="60" height="60" alt="On your marks... GO!" /></a>
+          <a href="http://www.youtube.com/watch?v=NK1ZMMsJgVg" rel="prettyPhoto[pp_gal]"><img src="images/swimteam/2010/thumbnails/t-tidal-wave-vs-rolling-valley-dolphins.jpg" alt="Tidal Wave vs. Rolling Valley Dolphins, July 22, 2010" width="50" /></a>
           <div>
             <h4>
               Go Tidal Wave!
@@ -83,4 +106,9 @@
             "mailto:swimteam@vahillspool.org">swimteam@vahillspool.org</a>
           </p>
         </div>
+  <script type="text/javascript" charset="utf-8">
+    $(document).ready(function(){
+      $("a[rel^='prettyPhoto']").prettyPhoto();
+    });
+  </script>
 <?php include_once "footer.inc"; ?>
