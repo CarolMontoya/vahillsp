@@ -44,3 +44,4 @@ Create Tagfile=0
 32=Templates\main.dwt
 33=..\..\wamp\bin\apache\Apache2.2.11\conf\httpd.conf
 34=.htaccess
+35=swim-team-sched.php

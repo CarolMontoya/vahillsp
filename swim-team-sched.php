@@ -184,6 +184,13 @@ include_once "header.inc";
         <td></td>
       </tr>
       <tr>
+        <td>July 21 (MOVED!)</td>
+        <td>FUN</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>King's Dominion Day</td>
+      </tr>
+      <tr>
         <td>July 24</td>
         <td>A meet</td>
         <td>Broyhill Crest</td>
@@ -194,15 +201,8 @@ include_once "header.inc";
         <td>July 26</td>
         <td>IM Invitational</td>
         <td>N/A</td>
-        <td>TBA</td>
-        <td>place TBA</td>
-      </tr>
-      <tr>
-        <td>July 28</td>
-        <td>FUN</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>King's Dominion Day</td>
+        <td>AWAY</td>
+        <td>Little Hunting Park</td>
       </tr>
       <tr>
         <td>July 31</td>
