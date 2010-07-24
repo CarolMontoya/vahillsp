@@ -45,7 +45,10 @@ include_once "header.inc";
       <td colspan="4"></td>
     </tr>
     <tr>
-      <th>June 28 - July 30</th>
+      <th colspan="4">June 28 - July 30</th>
+    </tr>
+    <tr>
+    	<td></td>
       <td colspan="2">Ages 12 and under</td>
       <td>Ages 13-18</td>
     </tr>
