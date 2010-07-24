@@ -49,8 +49,8 @@ include_once "header.inc";
     </tr>
     <tr>
     	<td></td>
-      <td colspan="2">Ages 12 and under</td>
-      <td>Ages 13-18</td>
+      <th colspan="2">Ages 12 and under</th>
+      <th>Ages 13-18</th>
     </tr>
     <tr>
       <th>Monday thru Friday<br/>Morning practice</th>
