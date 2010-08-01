@@ -5,14 +5,20 @@ include_once "header.inc";
 ?>
 <style type="text/css" title="currentStyle">
   @import "css/data-table.css";
+  #doc {
+    margin:auto;text-align:left; /* leave unchanged */
+    width:65em;/* 950px non-IE */
+    *width:64em;/* 950px IE */
+    min-width:600px;/* optional but recommended */
+  }
 </style>
 <div class="rounded">
 
   <h2>Swim Team Schedule</h2>
-  <p align="center"><img src="images/swteam1.jpg" width="365" height="274"></p>
+  <p align="center"><img src="images/swteam1.jpg" width="365" height="274" alt="Swimmers at the start"></p>
   <h3>2010 Tidal Wave Schedule<br>
   Division 17</h3>
-  <p><strong>Download <a href="2010Calendar.pdf" target="_new">Pool Calendar</a> <img src="images/pdf.gif" width="15" height="16"></strong></p>
+  <p><strong>Download <a href="2010Calendar.pdf" target="_new">Pool Calendar</a> <img src="images/pdf.gif" width="15" height="16" alt="PDF"></strong></p>
   <table width="90%" border="0" align="center">
     <tr>
       <td colspan="3"><p><strong>Important Dates:</strong></p>
@@ -48,7 +54,7 @@ include_once "header.inc";
       <th colspan="4">June 28 - July 30</th>
     </tr>
     <tr>
-    	<td></td>
+      <td></td>
       <th colspan="2">Ages 12 and under</th>
       <th>Ages 13-18</th>
     </tr>
@@ -78,6 +84,8 @@ include_once "header.inc";
         <th>Team</th>
         <th>HOME/AWAY</th>
         <th>Notes</th>
+        <th>Results</th>
+        <th>W/L</th>
       </tr>
     </thead>
     <tbody>
@@ -87,6 +95,8 @@ include_once "header.inc";
         <td>N/A</td>
         <td>HOME</td>
         <td>5:00 - 7:00pm</td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
         <td>June 19</td>
@@ -94,12 +104,16 @@ include_once "header.inc";
         <td>Highland Park</td>
         <td>AWAY</td>
         <td></td>
+        <td>N/A</td>
+        <td>N/A</td>
       </tr>
       <tr>
         <td>June 21</td>
         <td>B meet</td>
         <td>Stratford Rec Assn</td>
         <td>HOME</td>
+        <td></td>
+        <td></td>
         <td></td>
       </tr>
       <tr>
@@ -108,6 +122,8 @@ include_once "header.inc";
         <td>N/A</td>
         <td>N/A</td>
         <td>Spaghetti Dinner</td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
         <td>June 26</td>
@@ -115,12 +131,16 @@ include_once "header.inc";
         <td>Pinewood</td>
         <td>HOME</td>
         <td></td>
+        <td>247 : 97</td>
+        <td>W</td>
       </tr>
       <tr>
         <td>June 28</td>
         <td>B meet</td>
         <td>Little Hunting Park</td>
         <td>AWAY</td>
+        <td></td>
+        <td></td>
         <td></td>
       </tr>
       <tr>
@@ -129,6 +149,8 @@ include_once "header.inc";
         <td>Bren Mar-Edsall Park</td>
         <td>AWAY</td>
         <td>at Bren Mar pool on Edsall Road</td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
         <td>July 5</td>
@@ -136,19 +158,16 @@ include_once "header.inc";
         <td>Highland Park</td>
         <td>HOME</td>
         <td></td>
-      </tr>
-      <tr>
-        <td>July 10</td>
-        <td>A meet</td>
-        <td>Rolling Valley</td>
-        <td>AWAY</td>
-        <td></td>
+        <td>170 : 187</td>
+        <td>L</td>
       </tr>
       <tr>
         <td>July 12</td>
         <td>B meet</td>
         <td>Lorton Station</td>
         <td>HOME</td>
+        <td></td>
+        <td></td>
         <td></td>
       </tr>
       <tr>
@@ -157,6 +176,8 @@ include_once "header.inc";
         <td>Broyhill Crest</td>
         <td>AWAY</td>
         <td></td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
         <td>July 17</td>
@@ -164,12 +185,16 @@ include_once "header.inc";
         <td>N/A</td>
         <td>N/A</td>
         <td>Team Photo (6:00pm) and Camp out</td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
         <td>July 17</td>
         <td>A meet</td>
         <td>Herndon</td>
         <td>HOME</td>
+        <td></td>
+        <td></td>
         <td></td>
       </tr>
       <tr>
@@ -178,12 +203,16 @@ include_once "header.inc";
         <td>Lincolnia Park</td>
         <td>AWAY</td>
         <td>only for qualifying relay teams</td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
         <td>July 19</td>
         <td>B meet</td>
         <td>Hayfield</td>
         <td>HOME</td>
+        <td></td>
+        <td></td>
         <td></td>
       </tr>
       <tr>
@@ -192,12 +221,25 @@ include_once "header.inc";
         <td>N/A</td>
         <td>N/A</td>
         <td>King's Dominion Day</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>July 22 (MOVED!)</td>
+        <td>A meet</td>
+        <td>Rolling Valley</td>
+        <td>AWAY</td>
+        <td></td>
+        <td>122 : 279</td>
+        <td>L</td>
       </tr>
       <tr>
         <td>July 24</td>
         <td>A meet</td>
         <td>Broyhill Crest</td>
         <td>HOME</td>
+        <td></td>
+        <td></td>
         <td></td>
       </tr>
       <tr>
@@ -206,6 +248,8 @@ include_once "header.inc";
         <td>N/A</td>
         <td>AWAY</td>
         <td>Little Hunting Park</td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
         <td>July 31</td>
@@ -213,6 +257,8 @@ include_once "header.inc";
         <td>N/A</td>
         <td>AWAY</td>
         <td>at Edsall Park pool (at the end of Montgomery Street)</td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
         <td>July 31</td>
@@ -220,17 +266,19 @@ include_once "header.inc";
         <td>N/A</td>
         <td>N/A</td>
         <td>End of Season Banquet (6:00pm)</td>
+        <td></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
   <p>&nbsp;</p>
-  <div align="center"><img src="images/teampicbanquet.jpg" width="514" height="290"></div>
+  <div align="center"><img src="images/teampicbanquet.jpg" width="514" height="290" alt="Team picnic banquet"></div>
 </div>
 <script type="text/javascript" language="javascript" src="js/jquery.js"></script>
 <script type="text/javascript" language="javascript" src="js/jquery.dataTables.min.js"></script>
 <script type="text/javascript" language="javascript">
 $(document).ready(function() {
-	$('#MeetSchedule').dataTable( {
+  $('#MeetSchedule').dataTable( {
     "bPaginate": false,
     "bLengthChange": false,
     "bFilter": true,
@@ -242,9 +290,11 @@ $(document).ready(function() {
       null,
       null,
       null,
+      null,
+      null,
       null
     ]
-	} );
+  } );
 } );
 </script>
 
