@@ -20,13 +20,8 @@ it appears not to do in IE8?
 */
 address {
   font-style: normal;
-  font-weight: normal;
-}
-
-address p.rounded {
+  font-weight: bold;
   background-color:#bbffff;
-  width:50%;
-  margin-left:25%;
 }
 
 /* styling the HTML element to avoid ugly white lines top and bottom in FF 3.5 */
@@ -272,11 +267,18 @@ ul.collage-links a {
   text-decoration:none;
 }
 
-p.footer {
+.footer {
   color: #36B0FF; 
   font-size: 77%; 
   font-weight: bold; 
   text-align: center
+}
+
+div.footer {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#bbffff;
 }
 
 a.no-underline {
@@ -361,7 +363,7 @@ table.meet th {
   background-color:lightblue;
   padding:1em;
   margin:0.5em;
-  /* Do rounding (native in Firefox and Safari) */
+  /* Do rounding (native in Firefox, Safari and Opera) */
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
   border-radius: 20px;

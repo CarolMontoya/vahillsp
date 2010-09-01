@@ -3,16 +3,16 @@
       </div>
       <div id="ft">
         <div class="center rounded bubbles-small">
-          <address>
-            <p class="footer rounded">
+          <div class="footer rounded">
+            <address>
               Virginia Hills Swim Club ■ <a class="c8"
               href=
               "mailto:info@vahillspool.org">info@vahillspool.org</a><br>
               6500 Robinson Drive ■ P.O. Box 10233<br>
               Alexandria, VA 22310<br>
               Guard Shack (during pool hours): (703) 960-9717
-            </p>
-          </address>
+            </address>
+          </div>
           <!-- Geocode locations -->
           <span style="display:none;">
             <span class="geo">
