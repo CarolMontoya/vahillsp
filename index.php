@@ -28,7 +28,6 @@
       <img src="images/collage-main.jpg"
            width="608"
            height="436"
-           border="0"
            alt="Main collage"
            usemap="#main-collage-map">
     </div>
