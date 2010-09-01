@@ -82,7 +82,7 @@
                   <td width="10%">
                     <a href=
                     "https://www.paypal.com/us/verified/pal=treasurer@stoneybrooke.org"
-                        target="_blank"><font color="#333333"
+                        rel="external"><font color="#333333"
                           size="2"
                           face=
                           "Arial, Helvetica, sans-serif"><img src=
@@ -418,7 +418,7 @@
                             face=
                             "Arial, Helvetica, sans-serif"><a href=
                             "http://www.bbhca.org/"
-                           target="_blank">Brookland/Bush
+                           rel="external">Brookland/Bush
                            Hill</a></font>
                       </li>
                       <li>
@@ -442,16 +442,16 @@
                       </li>
                       <li>
                         <a href="http://huntingtononline.org/"
-                            target="_blank"><font color="#333333"
+                            rel="external"><font color="#333333"
                               size="2"
                               face=
                               "Arial, Helvetica, sans-serif">Huntington</font></a>
                       </li>
                       <li>
                         <a href="http://www.woodstonehoa.org/"
-                            target="_blank"></a><a href=
+                            rel="external"></a><a href=
                             "http://www.lakedevereux.com/"
-                            target="_blank"><font color="#333333"
+                            rel="external"><font color="#333333"
                               size="2"
                               face=
                               "Arial, Helvetica, sans-serif">Lake
@@ -459,9 +459,9 @@
                       </li>
                       <li>
                         <a href="http://www.myrosehill.com"
-                            target="_blank"></a><a href=
+                            rel="external"></a><a href=
                             "http://racewayfarms.org/"
-                            target="_blank"><font color="#333333"
+                            rel="external"><font color="#333333"
                               size="2"
                               face=
                               "Arial, Helvetica, sans-serif">Raceway
@@ -477,7 +477,7 @@
                             face=
                             "Arial, Helvetica, sans-serif"><a href=
                             "http://www.myrosehill.com"
-                           target="_blank">Rose Hill</a></font>
+                           rel="external">Rose Hill</a></font>
                       </li>
                       <li>
                         <font color="#333333"
@@ -508,7 +508,7 @@
                             face=
                             "Arial, Helvetica, sans-serif"><a href=
                             "http://virginiahills.org/"
-                           target="_blank">Virginia
+                           rel="external">Virginia
                            Hills</a></font>
                       </li>
                       <li>
@@ -517,12 +517,12 @@
                             face=
                             "Arial, Helvetica, sans-serif"><a href=
                             "http://www.gwwca.org/memorial_garden.shtml"
-                           target="_blank">Wilton
+                           rel="external">Wilton
                            Woods</a></font>
                       </li>
                       <li>
                         <a href="http://www.woodstonehoa.org/"
-                            target="_blank"><font color="#333333"
+                            rel="external"><font color="#333333"
                               size="2"
                               face=
                               "Arial, Helvetica, sans-serif">Woodstone</font></a>

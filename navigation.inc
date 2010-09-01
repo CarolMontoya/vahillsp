@@ -20,6 +20,16 @@
         break;
       }
     }
+    if (document.getElementsByTagName) {
+      var anchors = document.getElementsByTagName("a");
+      for (var i=0; i < anchors.length; i++) {
+        var anchor = anchors[i];
+        if (anchor.getAttribute("href") &&  
+            anchor.getAttribute("rel") == "external") {
+          anchor.target = "_blank";
+        }
+      }
+    }
   });
 </script>
 
@@ -28,7 +38,7 @@
     <li><a href="index.php"><span>Home</span></a></li>
     <li><a href="location.php"><span>Location</span></a></li>
     <li><a href="schedule.php"><span>Hours &amp; Events</span></a></li>
-    <li><a href="2010Calendar.pdf" target="_new"><span>2010 Calendar</span></a></li>
+    <li><a href="2010Calendar.pdf" rel="external"><span>2010 Calendar</span></a></li>
     <li><a href="membership.php"><span>Membership &amp; Fees</span></a></li>
     <li><a href="swim-team.php"><span>Swim Team</span></a></li>
     <li><a href="board.php"><span>Board</span></a></li>
