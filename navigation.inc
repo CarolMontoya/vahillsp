@@ -25,15 +25,15 @@
 
 <div class="rounded bubbles nav-short">
   <ul id="nav-short">
-    <li><a href="index.php"><div>Home</div></a></li>
-    <li><a href="location.php"><div>Location</div></a></li>
-    <li><a href="schedule.php"><div>Hours &amp; Events</div></a></li>
-    <li><a href="2010Calendar.pdf" target="_new"><div>2010 Calendar</div></a></li>
-    <li><a href="membership.php"><div>Membership &amp; Fees</div></a></li>
-    <li><a href="swim-team.php"><div>Swim Team</div></a></li>
-    <li><a href="board.php"><div>Board</div></a></li>
-    <li><a href="rentals.php"><div>Rentals &amp; Parties</div></a></li>
-    <li><a href="project.php"><div>2009 Construction</div></a></li>
-    <li><a href="http://blog.vahillspool.org/"><div>Tidal Wave Blog</div></a></li>
+    <li><a href="index.php"><span>Home</span></a></li>
+    <li><a href="location.php"><span>Location</span></a></li>
+    <li><a href="schedule.php"><span>Hours &amp; Events</span></a></li>
+    <li><a href="2010Calendar.pdf" target="_new"><span>2010 Calendar</span></a></li>
+    <li><a href="membership.php"><span>Membership &amp; Fees</span></a></li>
+    <li><a href="swim-team.php"><span>Swim Team</span></a></li>
+    <li><a href="board.php"><span>Board</span></a></li>
+    <li><a href="rentals.php"><span>Rentals &amp; Parties</span></a></li>
+    <li><a href="project.php"><span>2009 Construction</span></a></li>
+    <li><a href="http://blog.vahillspool.org/"><span>Tidal Wave Blog</span></a></li>
   </ul>
 </div> 

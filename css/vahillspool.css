@@ -219,6 +219,9 @@ div.nav-short {
   background-image:url('../images/site/nav-buttons-short.png');
   height:36px;
   background-position:0px -69px;
+  /* really, this is what it takes for reasonably well vertically-aligned text in IE6!? UGH! */
+  *height:28px;
+  *padding-top:8px;
 }
 
 #nav li a.current {
@@ -234,18 +237,13 @@ div.nav-short {
   background-position:0px 1px;
 }
 
-#nav li a div,
-#nav-short li a div {
+#nav li a span,
+#nav-short li a span {
   width:185px;
-  height: 70px;
+  height: 35px;
   display: table-cell;
   vertical-align: middle; 
   text-align:center;
-  *margin-top:11%; /* ugly, UGLY hack for IE! No idea if this will scale, work across versions, etc. */
-}
-
-#nav-short li a div {
-  height: 35px;
 }
 
 /********************
@@ -366,6 +364,7 @@ table.meet th {
   /* Do rounding (native in Firefox and Safari) */
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
+  border-radius: 20px;
 }
 
 .bubbles {

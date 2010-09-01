@@ -19,7 +19,7 @@
               <span class="latitude">38.76639</span>;
               <span class="longitude">-77.114311</span>
             </span>
-            <rdf:RDF xmlns:rdf=http://www.w3.org/1999/02/22-rdf-syntax-ns# xmlns:geo=”http://www.w3.org/2003/01/geo/wgs84_pos#”>
+            <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"”>
               <geo:Point>
                 <geo:lat>38.76639</geo:lat>
                 <geo:long>-77.114311</geo:long>
