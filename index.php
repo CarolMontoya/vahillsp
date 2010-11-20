@@ -4,7 +4,6 @@
   include_once "header.inc"; 
 ?>
 <div class="rounded">
-  <h1>Now Accepting New Members for 2010 Season - No Waiting List!</h1>
   <?php
     $dates = array("2010-06-21" => "5:00pm for swim team",
                    "2010-07-04" => "6:00pm",
@@ -32,15 +31,12 @@
            usemap="#main-collage-map">
     </div>
     <div class="image-title">
-      Virginia Hills Pool: New for 2009
+      Virginia Hills Pool: Looking forward to the 2011 season
     </div>
     <div class="collage-header">
       <ul class="collage-links">
         <li>
-          <a href="record.php">Paige Collins Sets <span style="color:red;text-decoration:underline;">Another</span> Tidal Wave Record!</a>
-        </li>
-        <li>
-          <a href="4th-july.php">4th of July Fun Fest!</a>
+          <a href="WinterSwimRegForm2011.pdf">Winter Swim 2011 Registration Form (Jan 9 - Apr 10, Lee District Rec Center)</a>
         </li>
       </ul>
     </div>
@@ -55,7 +51,4 @@
     </div>
   </div>
 </div>
-  <iframe frameborder="0" scrolling="auto" width="590" height="710" src="http://vahillsp.questionform.com/embed/Pool-Satisfaction">
-    <a href="http://vahillsp.questionform.com/public/Pool-Satisfaction"> http://vahillsp.questionform.com/public/Pool-Satisfaction </a>
-  </iframe>
 <?php include_once "footer.inc"; ?>
