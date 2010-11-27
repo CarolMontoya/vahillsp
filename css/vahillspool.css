@@ -326,6 +326,12 @@ a.webmaster {
   font-size:60%
 }
 
+/* PDF links */
+a[href*=".pdf"] {  
+  background: url(../images/pdf.gif) no-repeat;  
+  padding-left: 20px;  
+}  
+
 table.schedule {
   border-width:1px;
   border-style:outset;

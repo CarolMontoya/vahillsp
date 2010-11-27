@@ -64,7 +64,7 @@
             Make all checks payable to Suzy Thompson
           </p>
           <p>
-            Alternatively, if you prefer, you can download the registration form <a href="docs/Virginia Hills Aqua Aerobics Registration form 2010.pdf" target="_new">here</a> <img src="images/pdf.gif" width="15" height="16">, print and mail it to Suzy (address on the form).
+            Alternatively, if you prefer, you can download the registration form <a href="docs/Virginia Hills Aqua Aerobics Registration form 2010.pdf" target="_new">here</a>, print and mail it to Suzy (address on the form).
           </p>
 </div>
 <?php include_once "footer.inc"; ?>

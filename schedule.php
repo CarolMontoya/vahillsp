@@ -36,10 +36,6 @@
     <div class="yui-u">
       <h2>
         <a href="2010Calendar.pdf" rel="external">Calendar</a>
-        <img src="images/pdf.gif"
-          width="15"
-          height="16"
-          alt="">
       </h2>
       <img src="images/kids.jpg"
         width="266"

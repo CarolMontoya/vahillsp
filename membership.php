@@ -34,11 +34,6 @@
         <div class="yui-u">
           <h2>
             <a href="docs/2010PoolRules.pdf">Rules</a>
-            <img src=
-              "images/pdf.gif"
-               width="15"
-               height="16"
-               alt="">
           </h2>
           <img src="images/bigsmile.jpg" width="276" height="191">
         </div>

@@ -23,11 +23,7 @@
                         size="5"
                         face=
                         "Arial, Helvetica, sans-serif"><a href=
-                        "Rules.pdf">Rules</a> <img src=
-                        "images/pdf.gif"
-                         width="15"
-                         height="16"
-                         alt=""></font>
+                        "Rules.pdf">Rules</a></font>
                   </td>
                 </tr>
                 <tr>
