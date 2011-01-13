@@ -228,6 +228,10 @@ div.nav-short {
   background-position:0px -34px;
 }
 
+#nav-short li.inactive a:hover {
+  background-position:0px -69px;
+}
+
 #nav li a:hover,
 #nav-short li a:hover {
   background-position:0px 1px;
@@ -242,8 +246,12 @@ div.nav-short {
   text-align:center;
 }
 
-#nav-short li a span.highlight {
+.highlight {
   color:yellow;
+}
+.inactive {
+  color:lightgrey;
+  cursor:default;
 }
 /********************
  ** General Styles **
