@@ -54,7 +54,7 @@
               <li><strong><a href="docs/2010InformationLetter.pdf">Information Letter</a></strong></li>
               <li><strong><a href="docs/2010RegAvailForm.pdf">Registration/Availability Form</a></strong></li>
               <li>Contact <a href=
-              "mailto:%20kolosarah@gmail.com">Sarah Kolo</a>,
+              "mailto:&#107;&#111;&#108;&#111;&#115;&#97;&#114;&#97;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">Sarah Kolo</a>,
               Team Representative, with questions
               </li>
             </ul>
@@ -101,9 +101,9 @@
             to have your child try it out... then feel free to
             join a practice and let your child "test the waters."
             For more information, read <a href=
-            "swim-team-101.php">Swim Team 101</a>, or e-mail
+            "swim-team-101.php">Swim Team 101</a>, or
             <a href=
-            "mailto:swimteam@vahillspool.org">swimteam@vahillspool.org</a>
+            "mailto:&#115;&#119;&#105;&#109;&#116;&#101;&#97;&#109;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">e-mail</a>
           </p>
         </div>
   <script type="text/javascript" charset="utf-8">

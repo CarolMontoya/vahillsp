@@ -24,16 +24,16 @@
             from any community in the area. We have welcomed
             members from as far away as the City of Alexandria,
             Beulah Street, Lorton and Hayfield. After reviewing
-            the information here, please send a message to
+            the information here, please 
             <a href=
-            "mailto:info@vahillspool.org">info@vahillspool.org</a>
+            "mailto:http://mailhide.recaptcha.net/">send a message to us</a>
             or call (703) 317-5900, and a representative of the
             Membership Committee will answer your questions.
           </p>
         </div>
         <div class="yui-u">
           <h2>
-            <a href="docs/2010PoolRules.pdf">Rules</a>
+            <a href="docs/2011PoolRules.pdf">Rules</a>
           </h2>
           <img src="images/bigsmile.jpg" width="276" height="191">
         </div>
@@ -81,7 +81,7 @@
           <table class="dues">
             <tr>
               <th colspan="2">
-                Share Membership (2010)
+                Share Membership (2011)
               </th>
             </tr>
             <tr>
@@ -110,7 +110,7 @@
             </tr>
             <tr>
               <th colspan="2">
-                Associate Membership (2010)
+                Associate Membership (2011)
               </th>
             </tr>
             <tr>
@@ -148,9 +148,9 @@
             </tr>
           </table>
           <p>
-            <strong>To join or get more information, please write
-            to us!</strong> <a href=
-            "mailto:info@vahillspool.org">info@vahillspool.org</a>
+            <strong>To join or get more information, please <a href=
+            "mailto:&#105;&#110;&#102;&#111;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">write
+            to us!</a></strong>
           </p>
           <h4>
             Details
@@ -162,11 +162,11 @@
             The Virginia Hills Club, Inc. is owned by its
             members, who are the shareholders in the Club. To
             become a member, either a family or single, pay a
-            one-time fee to purchase a share. That fee is
-            <strong>$500</strong> for the 2010 season. New
+            one-time fee to purchase a share. The share price 
+            for the 2011 season will be <strong>$500</strong>. New
             shareholders can pay this amount all at once, or make
             a down payment on the share and membership dues with
-            the rest paid in increments through the Club's easy
+            the balance paid in increments through the Club's easy
             payment plan. Payment can be made by check or credit
             card via Paypal.
           </p>
@@ -181,11 +181,12 @@
             Seasonal Dues
           </h5>
           <p>
-            Shareholders also pay dues before the start of every
-            season, which should be paid by May 9, 2010. The
-            fee for family membership dues in 2010 is
-            <strong>$525</strong>. The fee for single membership
-            dues in 2009 is <strong>$280</strong>. Payments may
+            Shareholders are required to pay membership fees 
+            before the start of every season. The due date
+            for 2011 fees is May 8, 2011. The membership
+            fee for Family Membership in 2011 is
+            <strong>$525</strong>. The membership fee for a 
+            Single Membership in 2011 is <strong>$280</strong>. Payments may
             be spaced out in advance of that date. New members
             should also pay seasonal dues. New members whose
             households include extended family members should
@@ -204,21 +205,19 @@
             seasons.
           </p>
           <h5>
-            For Military Personnel
+            For Active Duty Military Personnel and Diplomats
           </h5>
           <p>
             The Virginia Hills Club also welcomes military
             families, who only may be in our community for a few
-            years. We have created a special type of Associate
-            Membership, the Active Duty Military Membership,
-            which costs <strong>$525</strong> per season in 2010
-            (no share purchase). This benefit can be used for two
-            consecutive seasons. If a duty tour is extended or is
-            expected to last for more than two swim seasons,
-            active duty personnel are encouraged to consider
-            becoming shareholders. Special consideration will be
-            given when such military shareholders rotate out of
-            the area.
+            years. The membership fee for an Active Duty Military 
+            Membership in 2011 is <strong>$525</strong> (no share 
+            purchase). This benefit can be used for two consecutive 
+            seasons. If a duty tour is extended or is expected to 
+            last for more than two swim seasons, active duty personnel 
+            are encouraged to consider becoming shareholders. 
+            Special consideration will be given when such military 
+            shareholders rotate out of the area. 
           </p>
           <h5>
             Nanny/Granny Fee

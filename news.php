@@ -44,8 +44,8 @@
             many adults and how many kids will be in your
             party.<br>
             <br>
-            Cindy may be reached at: <a href=
-            "mailto:cindysue627@aol.com">cindysue627@aol.com</a>.
+            Cindy may be reached <a href=
+            "mailto:&#99;&#105;&#110;&#100;&#121;&#115;&#117;&#101;&#54;&#50;&#55;&#64;&#97;&#111;&#108;&#46;&#99;&#111;&#109;">here</a>.
           </p>
           <p align="left">
             John Kemper<br>

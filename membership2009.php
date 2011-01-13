@@ -55,9 +55,8 @@
                          welcomed members from as far away as the
                          City of Alexandria, Beulah Street,
                          Lorton and Hayfield. After reviewing the
-                         information here, please send a message
-                         to <a href=
-                         "mailto:info@vahillspool.org">info@vahillspool.org</a>,
+                         information here, please <a href=
+                         "mailto:&#105;&#110;&#102;&#111;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">send us a message</a>,
                          and a representative of the Membership
                          Committee will answer your
                          questions.</font>
@@ -243,9 +242,9 @@
                 <font color="#333333"
                    size="2"
                    face="Arial, Helvetica, sans-serif"><b>To join
-                   or get more information, please write to
-                   us!</b>&nbsp;&nbsp;&nbsp;&nbsp; <a href=
-                   "mailto:info@vahillspool.org">info@vahillspool.org</a></font>
+                   or get more information, please <a href=
+                   "mailto:&#105;&#110;&#102;&#111;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">write to
+                   us!</a></b></font>
               </p>
               <p>
                 <font color="#333333"

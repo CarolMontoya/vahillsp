@@ -14,7 +14,7 @@
 <p>Pizza, snacks, & soda!</p>
 <p>Music, Swimming,</p>
 <p>Water Polo</p>
-<p>Questions: Call or e-mail Cheryl Schless at (703) 721-0923 / <a href="mailto:schlessc@aol.com">schlessc@aol.com</a></p>
+<p>Questions: Call or e-mail Cheryl Schless at (703) 721-0923 / <a href="mailto:&#115;&#99;&#104;&#108;&#101;&#115;&#115;&#99;&#64;&#97;&#111;&#108;&#46;&#99;&#111;&#109;">email</a></p>
 <p>Next Teen Night will be Monday, August 10 from 8 pm - 11 pm.</p>
 </div>
 <?php include_once "footer.inc"; ?>

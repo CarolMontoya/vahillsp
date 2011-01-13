@@ -21,7 +21,7 @@
             renovation for the pool. <a href=
             "project.php">Photos of construction updates</a> are
             posted regularly. Send comments to the <a href=
-            "mailto:president@vahillspool.org"><strong>President</strong></a>.
+            "mailto:&#112;&#114;&#101;&#115;&#105;&#100;&#101;&#110;&#116;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;"><strong>President</strong></a>.
           </p>
           <p>
             <img src="images/ConceptDrawing.jpg"

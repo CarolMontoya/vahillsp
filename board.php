@@ -14,9 +14,9 @@
                 Board of Directors of the club, with the assistance
                 of various committees. Member participation on the
                 board and the committees is encouraged. Communicate
-                with the board or individual members by e-mailing
+                with the board or individual members by 
                 <a href=
-                "mailto:info@vahillspool.org">info@vahillspool.org</a>.
+                "mailto:&#105;&#110;&#102;&#111;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">e-mailing them</a>.
               </p>
             </div>
             <div class="yui-u">
@@ -31,21 +31,23 @@
           <div class="yui-g">
             <div class="yui-u">
               <h3>
-                Board Members (2010)
+                Board Members (2011)
               </h3>
               <p>
                 <em>President:</em> Mike Jurkowski<br>
                 <em>Vice-President</em>: David Kolo<br>
-                <em>Treasurer:</em> Bernie Tabarini<br>
                 <em>Secretary</em>: Jim Dobson<br>
-                <em>Member-at-large</em>: Tiffany Barrow-Rodgers<br>
-                <em>Member-at-large</em>: Linda Fleischer<br>
+                <em>Treasurer:</em> Bernie Tabarini<br>
+                <em>Asst. Sec-Treasurer</em>: Cindy Travia<br>
+                <em>Member-at-large</em>: Lloyd Dugan<br>
                 <em>Member-at-large</em>: O. D. Easterday<br>
-                <em>Member-at-large</em>: Sarah Kolo<br>
-                <em>Member-at-large</em>: Mary Ellen Meehan<br>
+                <em>Member-at-large</em>: Caitlin Irvin<br>
+                <em>Member-at-large</em>: Kim Muelbauer<br>
                 <em>Member-at-large</em>: Rob Niblock<br>
+                <em>Member-at-large</em>: Jim Norvell<br>
+                <em>Member-at-large</em>: Melissa Smrz<br>
                 <em>Member-at-large</em>: Suzy Thompson<br>
-                <em>Past President</em>: John Kemper
+                <em>Ex Officio/Swim Team</em>: Sarah Kolo
               </p>
             </div>
             <div class="yui-u first">

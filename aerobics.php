@@ -17,7 +17,7 @@
             Classes include a variety of no-impact cardio moves, resistance training, and core stabilization techniques in the water.  You do not have to be a swimmer to participate in and benefit from this stimulating and refreshing class!  Flotation devices will be used - but participants should be comfortable in deep water.
           </p>
           <p>
-            Sign up today by contacting Suzy at 703-329-7854 or <a href="mailto:mitchellandsuzy@juno.com">mitchellandsuzy@juno.com</a>.
+            Sign up today by contacting Suzy at 703-329-7854 or <a href="mailto:&#109;&#105;&#116;&#99;&#104;&#101;&#108;&#108;&#97;&#110;&#100;&#115;&#117;&#122;&#121;&#64;&#106;&#117;&#110;&#111;&#46;&#99;&#111;&#109;">email her</a>.
           </p>
           <p>
             <strong>Days and times:</strong> Tuesdays & Thursdays, 5:30 - 6:15 p.m.

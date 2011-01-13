@@ -78,7 +78,7 @@ include_once "header.inc";
 		</div>
 	</div>
 	<div class="yui-g">
-		Please contact Suzy Thompson at <a href="mailto:mitchellandsuzy@juno.com">mitchellandsuzy@juno.com</a> or 703-329-7854 if you are willing to help with any event or for any amount of time.  We need a few helpers to make these activities fun for all! See you at VA Hills Pool!
+		Please email <a href="mailto:&#109;&#105;&#116;&#99;&#104;&#101;&#108;&#108;&#97;&#110;&#100;&#115;&#117;&#122;&#121;&#64;&#106;&#117;&#110;&#111;&#46;&#99;&#111;&#109;">Suzy Thompson</a> or call 703-329-7854 if you are willing to help with any event or for any amount of time.  We need a few helpers to make these activities fun for all! See you at VA Hills Pool!
 	</div>
 </div>
 <?php include_once "footer.inc"; ?>

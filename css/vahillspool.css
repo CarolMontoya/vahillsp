@@ -242,6 +242,9 @@ div.nav-short {
   text-align:center;
 }
 
+#nav-short li a span.highlight {
+  color:yellow;
+}
 /********************
  ** General Styles **
  ********************/

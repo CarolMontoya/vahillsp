@@ -63,7 +63,7 @@
           <p>
             If you would volunteer to help with this or other
             social events, please contact <a href=
-            "mailto:jecsrc@msn.com">Suzy Coffey</a>,
+            "mailto:&#106;&#101;&#99;&#115;&#114;&#99;&#64;&#109;&#115;&#110;&#46;&#99;&#111;&#109;">Suzy Coffey</a>,
             (703) 329-9271.
           </p>
           <p>&nbsp;</p>

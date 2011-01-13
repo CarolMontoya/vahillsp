@@ -7,19 +7,16 @@
   <div class="yui-g">
     <div class="yui-u first">
       <h2>
-        Hours (2010)
+        Hours (2011)
       </h2>
       <h4>
         Hours of operation:
       </h4>
       <p>
-        <b>Opening Day 2010 is Saturday, May 29.</b>
+        <b>Opening Day 2011 is Saturday, May 28.</b>
       </p>
       <p>
-        Noon to 8 p.m., Monday through Thursday,
-        Saturday, &amp; Sunday<br>
-        <br>
-        Noon to 9 p.m. Friday
+        Noon to 8 p.m. daily
       </p>
       <h4>
         Exceptions:
@@ -35,7 +32,7 @@
     </div>
     <div class="yui-u">
       <h2>
-        <a href="2010Calendar.pdf" rel="external">Calendar</a>
+        2011 Calendar coming soon
       </h2>
       <img src="images/kids.jpg"
         width="266"
@@ -57,7 +54,7 @@
     providing an atmosphere for relaxation, it also
     offers a broad range of activities for its
     members. A tentative list of special activities
-    planned for the 2010 season follows. Notices
+    planned for the 2011 season follows. Notices
     will be placed at the pool and e-mails sent to
     members during the season confirming these
     events:
@@ -65,18 +62,10 @@
   <table class="events">
     <tr>
       <th>
-        <a name="end-of-school"></a>Thursday, June 24th, 2010 &ndash;
+        <a name="independence-day"></a>Monday, July 4th, 2011 &ndash;
       </th>
       <td>
-        End of school party
-      </td>
-    </tr>
-    <tr>
-      <th>
-        <a name="independence-day"></a>Sunday, July 4th, 2010 &ndash;
-      </th>
-      <td>
-        <a href="4th-july.php">Fourth of July party!</a> Chip in - contact <a href="mailto:mitchellandsuzy@juno.com">Suzy Thompson</a>
+        <a href="4th-july.php">Fourth of July party!</a> Chip in - contact <a href="mailto:&#109;&#105;&#116;&#99;&#104;&#101;&#108;&#108;&#97;&#110;&#100;&#115;&#117;&#122;&#121;&#64;&#106;&#117;&#110;&#111;&#46;&#99;&#111;&#109;">Suzy Thompson</a>
       </td>
     </tr>
     <tr>
@@ -91,11 +80,5 @@
       </td>
     </tr>
   </table>
-  <p>
-    The pool is a perfect venue for special parties
-    and cookouts for adults, families and
-    teenagers. <a href="rentals.php">Book your own
-    party</a> at the pool!
-  </p>
 </div>
 <?php include_once "footer.inc"; ?>
