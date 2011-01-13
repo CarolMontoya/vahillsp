@@ -62,11 +62,11 @@
             Committees
           </h3>
           <p>
-            <em>Facilities</em>: David Kolo, Chair<br>
             <em>Membership and Marketing</em>: Mike Jurkowski,
             Chair<br>
             <em>Finance</em>: Bernie Tabarini, Chair<br>
-            <em>Operations</em>: O. D. Easterday, Chair<br>
+            <em>Operations</em>: Suzy Thompson, Chair<br>
+            <em>Facilities</em>: David Kolo, Chair<br>
             <em>Social</em>: Chair Vacant<br>
             <em>Swim Team</em>: Sarah Kolo, Chair<br>
           </p>
