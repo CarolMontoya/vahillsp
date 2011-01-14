@@ -26,14 +26,14 @@
             Beulah Street, Lorton and Hayfield. After reviewing
             the information here, please 
             <a href=
-            "mailto:http://mailhide.recaptcha.net/">send a message to us</a>
+            "mailto:&#105;&#110;&#102;&#111;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">send a message to us</a>
             or call (703) 317-5900, and a representative of the
             Membership Committee will answer your questions.
           </p>
         </div>
         <div class="yui-u">
           <h2>
-            <a href="docs/2011PoolRules.pdf">Rules</a>
+            <a href="docs/2010PoolRules.pdf">Rules</a>
           </h2>
           <img src="images/bigsmile.jpg" width="276" height="191">
         </div>
