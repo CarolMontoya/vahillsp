@@ -10,7 +10,7 @@
           <div class="yui-g">
             <div class="yui-u first">
               <p>
-                You can download the membership coupons <a href="docs/2011 Member Payment Coupons.pdf">here</a>.
+                You can download the membership payment coupons <a href="docs/2011 Member Payment Coupons.pdf">here</a>.
               </p>
             </div>
           </div>
