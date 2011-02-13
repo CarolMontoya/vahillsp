@@ -22,9 +22,9 @@ include_once "header.inc";
     marginheight="0"
     marginwidth="0"
     src=
-  "http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=6500+Robinson+Dr,+Alexandria,+VA+22310&amp;sll=38.76639,-77.114311&amp;sspn=0.007796,0.015192&amp;ie=UTF8&amp;ll=38.779581,-77.100334&amp;spn=0.03011,0.053644&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br>
+  "http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Virginia+Hills+Club+Inc,+6500+Robinson+Drive,+Alexandria,+VA+22310&amp;sll=38.76639,-77.114311&amp;sspn=0.007796,0.015192&amp;ie=UTF8&amp;ll=38.782581,-77.100334&amp;spn=0.03011,0.053644&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br>
   <small><a href=
-    "http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=6500+Robinson+Dr,+Alexandria,+VA+22310&amp;sll=38.76639,-77.114311&amp;sspn=0.007796,0.015192&amp;ie=UTF8&amp;ll=38.779581,-77.100334&amp;spn=0.03011,0.053644&amp;z=14&amp;iwloc=A"
+    "http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Virginia+Hills+Club+Inc,+6500+Robinson+Drive,+Alexandria,+VA+22310&amp;sll=38.76639,-77.114311&amp;sspn=0.007796,0.015192&amp;ie=UTF8&amp;ll=38.779581,-77.100334&amp;spn=0.03011,0.053644&amp;z=14&amp;iwloc=A"
     style="color:#0000FF;text-align:left">View Larger
   Map</a></small>
   <h2>
