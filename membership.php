@@ -38,44 +38,7 @@
           <img src="images/bigsmile.jpg" width="276" height="191">
         </div>
       </div>
-          <table class="events">
-            <tr>
-              <td>
-                <a href=
-                "https://www.paypal.com/us/verified/pal=treasurer@stoneybrooke.org"
-                    ><img src=
-                    "http://www.paypal.com/en_US/i/icon/verification_seal.gif"
-                     border="0"
-                     alt="Official PayPal Seal"></a>
-              </td>
-              <td>
-                <form action=
-                "https://www.paypal.com/cgi-bin/webscr"
-                      method="post"
-                      style="margin-bottom:0px;">
-                  <input type="hidden"
-                        name="cmd"
-                        value="_s-xclick"> <input type="image"
-                        src=
-                        "https://www.paypal.com/en_US/i/btn/x-click-but6.gif"
-                        border="0"
-                        name="submit"
-                        alt=
-                        "Make payments with PayPal - it's fast, free and secure!">
-                   <img alt=""
-                        border="0"
-                        src=
-                        "https://www.paypal.com/en_US/i/scr/pixel.gif"
-                        width="1"
-                        height="1"> <input type="hidden"
-                        name="encrypted"
-                        value=
-                        "-----BEGIN PKCS7-----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-----END PKCS7----- ">
-                  </form>
-              </td>
-            </tr>
-          </table>
-          <h4>
+   	  <h4>
             Summary
           </h4>
           <table class="dues">
@@ -152,6 +115,53 @@
             "mailto:&#105;&#110;&#102;&#111;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">write
             to us!</a></strong>
           </p>
+	  <p>
+            You can pay for your membership or share dues by using one of the buttons below.
+            You will be taken to Paypal's website where you will have the opportunity to enter
+            the amount you would like to pay today. If you choose not to pay in full, please
+            remember to pay the remainder before the due date.
+          </p>
+ 	  <table>
+            <tr>
+              <th style="border:0px;">
+		Membership Dues
+              </th style="border:0px;">
+              <th style="border:0px;">
+		Share Payment
+              </th>
+	    </tr>
+	    <tr>
+              <td class="center" style="border:0px;">
+		<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+			<input type="hidden" name="cmd" value="_xclick">
+			<input type="hidden" name="business" value="treasurer@stoneybrooke.org">
+			<input type="hidden" name="lc" value="US">
+			<input type="hidden" name="item_name" value="Membership Dues Payment">
+			<input type="hidden" name="button_subtype" value="services">
+			<input type="hidden" name="no_note" value="0">
+			<input type="hidden" name="currency_code" value="USD">
+			<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
+			<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+			<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+		</form>
+              </td>
+              <td class="center" style="border:0px;">
+ 		<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+			<input type="hidden" name="cmd" value="_xclick">
+			<input type="hidden" name="business" value="treasurer@stoneybrooke.org">
+			<input type="hidden" name="lc" value="US">
+			<input type="hidden" name="item_name" value="Share Purchase Payment">
+			<input type="hidden" name="button_subtype" value="services">
+			<input type="hidden" name="no_note" value="0">
+			<input type="hidden" name="currency_code" value="USD">
+			<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
+			<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+			<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+		</form>
+              </td>
+           </tr>
+            </tr>
+          </table>
           <h4>
             Details
           </h4>

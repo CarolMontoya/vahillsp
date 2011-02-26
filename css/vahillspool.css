@@ -257,6 +257,10 @@ div.nav-short {
  ** General Styles **
  ********************/
 
+.center {
+  text-align: center;
+}
+
 ul.collage-links {
   padding:0px;
   margin:0px;
