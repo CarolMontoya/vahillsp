@@ -132,8 +132,8 @@ include_once "header.inc";
         <td>Broyhill Crest</td>
         <td>AWAY</td>
         <td></td>
-        <td>247 : 97</td>
-        <td>W</td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
         <td>July 4</td>
