@@ -1,6 +1,6 @@
 <?php
 global $siteTitle;
-$siteTitle = "Swim Team Schedule 2010";
+$siteTitle = "Swim Team Schedule 2011";
 include_once "header.inc";
 ?>
 <style type="text/css" title="currentStyle">
@@ -16,7 +16,7 @@ include_once "header.inc";
 
   <h2>Swim Team Schedule</h2>
   <p align="center"><img src="images/swteam1.jpg" width="365" height="274" alt="Swimmers at the start"></p>
-  <h3>2010 Tidal Wave Schedule<br>
+  <h3>2011 Tidal Wave Schedule<br>
   Division 17</h3>
   <p><strong>2011 Calendar coming soon</strong></p>
   <table width="90%" border="0" align="center">
@@ -70,8 +70,9 @@ include_once "header.inc";
     </tr>
   </table>
   <h5>Meet Schedule</h5>
+  <h6>DRAFT - still subject to change!</h6>
   <p>Details will be posted each week for upcoming events.  Saturday "A" Meets typically run from 8:00 am (warm-ups) to 11:30 am.  Monday "B" Meets typically run from 
-5: 00 pm (warm-ups) to 8:30 pm.</p>
+5:00 pm (warm-ups) to 8:30 pm.</p>
   <ul>
     <li>Remember that warm-ups start before meet times!</li>
   </ul>
@@ -91,78 +92,69 @@ include_once "header.inc";
     <tbody>
       <tr>
         <td>June 18</td>
-        <td>Team Suit Sale</td>
+        <td>Time Trials at Highland Park</td>
         <td>N/A</td>
-        <td>HOME</td>
-        <td>5:00 - 7:00pm</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>June 19</td>
-        <td>Time trials</td>
-        <td>Highland Park</td>
         <td>AWAY</td>
         <td></td>
         <td>N/A</td>
         <td>N/A</td>
       </tr>
       <tr>
-        <td>June 21</td>
+        <td>June 20</td>
         <td>B meet</td>
         <td>Stratford Rec Assn</td>
-        <td>HOME</td>
+        <td>AWAY</td>
         <td></td>
         <td></td>
         <td></td>
       </tr>
       <tr>
         <td>June 25</td>
-        <td>FUN</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>Spaghetti Dinner</td>
+        <td>A meet</td>
+        <td>Somerset Olde Creek</td>
+        <td>AWAY</td>
+        <td></td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td>June 26</td>
-        <td>A meet</td>
-        <td>Pinewood</td>
+        <td>June 27</td>
+        <td>B meet</td>
+        <td>Little Hunting Park</td>
         <td>HOME</td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>July 2</td>
+        <td>A meet</td>
+        <td>Broyhill Crest</td>
+        <td>AWAY</td>
         <td></td>
         <td>247 : 97</td>
         <td>W</td>
       </tr>
       <tr>
-        <td>June 28</td>
-        <td>B meet</td>
-        <td>Little Hunting Park</td>
-        <td>AWAY</td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>July 3</td>
-        <td>A meet</td>
-        <td>Bren Mar-Edsall Park</td>
-        <td>AWAY</td>
-        <td>at Bren Mar pool on Edsall Road</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>July 5</td>
+        <td>July 4</td>
         <td>B meet</td>
         <td>Highland Park</td>
         <td>HOME</td>
+        <td><strong>9am!</strong></td>
         <td></td>
-        <td>170 : 187</td>
-        <td>L</td>
+        <td></td>
       </tr>
       <tr>
-        <td>July 12</td>
+        <td>July 9</td>
+        <td>A meet</td>
+        <td>Springfield SRC</td>
+        <td>HOME</td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>July 11</td>
         <td>B meet</td>
         <td>Lorton Station</td>
         <td>HOME</td>
@@ -171,43 +163,34 @@ include_once "header.inc";
         <td></td>
       </tr>
       <tr>
-        <td>July 14</td>
+        <td>July 13</td>
         <td>Division Relay Carnival</td>
-        <td>Broyhill Crest</td>
+        <td>Springfield SRC</td>
         <td>AWAY</td>
         <td></td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td>July 17</td>
-        <td>FUN</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>Team Photo (6:00pm) and Camp out</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>July 17</td>
+        <td>July 16</td>
         <td>A meet</td>
-        <td>Herndon</td>
+        <td>Pinewood</td>
         <td>HOME</td>
         <td></td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td>July 18</td>
+        <td>July 17</td>
         <td>Relay Championship Meet</td>
-        <td>Lincolnia Park</td>
-        <td>AWAY</td>
+        <td>TBA</td>
+        <td>TBA</td>
         <td>only for qualifying relay teams</td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td>July 19</td>
+        <td>July 18</td>
         <td>B meet</td>
         <td>Hayfield</td>
         <td>HOME</td>
@@ -216,56 +199,29 @@ include_once "header.inc";
         <td></td>
       </tr>
       <tr>
-        <td>July 21 (MOVED!)</td>
-        <td>FUN</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>King's Dominion Day</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>July 22 (MOVED!)</td>
+        <td>July 23</td>
         <td>A meet</td>
-        <td>Rolling Valley</td>
+        <td>Bren Mar-Edsall Park</td>
         <td>AWAY</td>
         <td></td>
-        <td>122 : 279</td>
-        <td>L</td>
-      </tr>
-      <tr>
-        <td>July 24</td>
-        <td>A meet</td>
-        <td>Broyhill Crest</td>
-        <td>HOME</td>
-        <td></td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td>July 26</td>
+        <td>July 25</td>
         <td>IM Invitational</td>
-        <td>N/A</td>
-        <td>AWAY</td>
-        <td>Little Hunting Park</td>
+        <td>TBA</td>
+        <td>TBA</td>
+        <td></td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td>July 31</td>
+        <td>July 30</td>
         <td>Divisionals</td>
-        <td>N/A</td>
+        <td>Broyhill Crest</td>
         <td>AWAY</td>
-        <td>at Edsall Park pool (at the end of Montgomery Street)</td>
         <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>July 31</td>
-        <td>FUN</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>End of Season Banquet (6:00pm)</td>
         <td></td>
         <td></td>
       </tr>
