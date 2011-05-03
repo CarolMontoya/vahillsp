@@ -33,7 +33,7 @@
         </div>
         <div class="yui-u">
           <h2>
-            <a href="docs/General Rules and Regulations Virginia Hills Pool.pdf">General Rules and Regulations Virginia Hills Pool</a>
+            <a href="docs/General Rules and Regulations Virginia Hills Pool.pdf">General Rules and Regulations Virginia Hills Pool</a><br>
           </h2>
           <h2>
             <a href="docs/2011 Gate House Member Emergency Form & Guest Passes.docx">2011 Gate House Member Emergency Form &amp; Guest Passes</a>
