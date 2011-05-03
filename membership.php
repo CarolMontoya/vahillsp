@@ -38,7 +38,7 @@
           <h2>
             <a href="docs/2011 Gate House Member Emergency Form & Guest Passes.docx">2011 Gate House Member Emergency Form &amp; Guest Passes</a>
           </h2>
-          <p>&nbrsp;</p>
+          <p>&nbsp;</p>
           <img src="images/bigsmile.jpg" width="276" height="191">
         </div>
       </div>
