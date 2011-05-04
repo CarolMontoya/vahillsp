@@ -41,8 +41,6 @@ h1 {
   font-size: 138.5%;
   background-image:url(../images/smallwaveblue2.gif);
   background-repeat:no-repeat;
-  height:2.3077em; /* non-IE 30px */
-  *height:2.2501em; /* IE 30px */
   padding-left:3em; /* non-IE 50px */
   *padding-left:2.925em; /* IE 50px */
   padding-top:0.6em; /* non-IE 11px */
@@ -54,8 +52,6 @@ h2 {
   font-size: 123.1%;
   background-image:url(../images/smallwaveblue2.gif);
   background-repeat:no-repeat;
-  height:2.3077em; /* non-IE 30px */
-  *height:2.2501em; /* IE 30px */
   padding-left:3em; /* non-IE 50px */
   *padding-left:2.925em; /* IE 50px */
   padding-top:0.6em; /* non-IE 11px */
