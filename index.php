@@ -39,7 +39,7 @@
           New for 2011, the Baby Pool will open at 10:00 a.m. DAILY (except Sundays)
         </li>
         <li>
-          Open House for Prospective Members, Sunday, June 5, 12:00 – 4:00
+          Open House for Prospective Members, Sunday, June 5, 12:00 - 4:00
         </li>
       </ul>
     </div>
