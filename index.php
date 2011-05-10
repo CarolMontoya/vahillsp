@@ -39,7 +39,7 @@
           New for 2011, the Baby Pool will open at 10:00 a.m. DAILY (except Sundays)
         </li>
         <li>
-          <a href="WinterSwimRegForm2011.pdf">Winter Swim 2011 Registration Form (Jan 9 - Apr 10, Lee District Rec Center)</a>
+          Open House for Prospective Members, Sunday, June 5, 12:00 – 4:00
         </li>
       </ul>
     </div>
