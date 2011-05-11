@@ -29,6 +29,10 @@
         On Wednesdays in July and August, the pool is
         open until 9 p.m. for raft nights.
       </p>
+      <p>
+        Closed Monday evenings at 5 pm on June 27, 
+        July 11, and July 18 for swim meets.
+      </p>
     </div>
     <div class="yui-u">
       <h2>

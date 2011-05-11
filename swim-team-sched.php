@@ -18,7 +18,12 @@ include_once "header.inc";
   <p align="center"><img src="images/swteam1.jpg" width="365" height="274" alt="Swimmers at the start"></p>
   <h3>2011 Tidal Wave Schedule<br>
   Division 17</h3>
-  <p><strong>2011 Calendar coming soon</strong></p>
+  <h4>Important Dates in 2011</h4>
+    <p>Saturday, May 14, 4:00 pm Kick-off Meeting/Ice Cream Social</p>
+    <p>Tuesday, May 31, 6:00 pm Orientation meeting for parents new to swim team</p>
+    <p>Friday, June 17, 5-7 pm Team suit sale</p>
+    <p>Friday, June 24, 6:00 pm Spaghetti dinner</p>
+    <p>Saturday, July 30, 6:00 pm End of season banquet</p>
   <table width="90%" border="0" align="center">
     <tr>
       <td colspan="3"><p><strong>Important Dates:</strong></p>
@@ -39,7 +44,7 @@ include_once "header.inc";
       <th>Ages 13-18</th>
     </tr>
     <tr>
-      <th colspan="4">June 1 - June 25</th>
+      <th colspan="4">May 31 - June 21</th>
     </tr>
     <tr>
       <th>Monday thru Friday<br>Afternoon practice only</th>
@@ -51,7 +56,7 @@ include_once "header.inc";
       <td colspan="4"></td>
     </tr>
     <tr>
-      <th colspan="4">June 28 - July 30</th>
+      <th colspan="4">June 22 - July 29</th>
     </tr>
     <tr>
       <td></td>
@@ -202,7 +207,7 @@ include_once "header.inc";
         <td>July 23</td>
         <td>A meet</td>
         <td>Bren Mar-Edsall Park</td>
-        <td>AWAY</td>
+        <td>HOME</td>
         <td></td>
         <td></td>
         <td></td>
