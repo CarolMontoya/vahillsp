@@ -19,18 +19,15 @@ include_once "header.inc";
   <h3>2011 Tidal Wave Schedule<br>
   Division 17</h3>
   <h4>Important Dates in 2011</h4>
-    <p>Saturday, May 14, 4:00 pm Kick-off Meeting/Ice Cream Social</p>
-    <p>Tuesday, May 31, 6:00 pm Orientation meeting for parents new to swim team</p>
-    <p>Friday, June 17, 5-7 pm Team suit sale</p>
-    <p>Friday, June 24, 6:00 pm Spaghetti dinner</p>
-    <p>Saturday, July 30, 6:00 pm End of season banquet</p>
   <table width="90%" border="0" align="center">
     <tr>
-      <td colspan="3"><p><strong>Important Dates:</strong></p>
+      <td colspan="3"><p><strong>Important Dates 2011:</strong></p>
         <ul>
-          <li><em>Tuesday, June 1, 6:00 pm</em> Orientation Meeting<br>
-            Virginia Hills Pool</li>
-          <li><em>Friday, June 18, 5-7 pm</em> Team Suit Sale</li>
+          <li><em>Saturday, May 14, 4:00 pm</em> Kick-off Meeting/Ice Cream Social</li>
+          <li><em>Tuesday, May 31, 6:00 pm</em> Orientation meeting for parents new to swim team</li>
+          <li><em>Friday, June 17, 5-7 pm</em> Team suit sale</li>
+          <li><em>Friday, June 24, 6:00 pm</em> Spaghetti dinner</li>
+          <li><em>Saturday, July 30, 6:00 pm</em> End of season banquet</li>
         </ul>
       </td>
     </tr>
