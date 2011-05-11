@@ -54,4 +54,13 @@
     </div>
   </div>
 </div>
+<div class="rounded">
+  <img src="/images/site/tidalwav50years.png" alt="Tidal Wave 50 year anniversary">
+  <h2>Congrats Tidal Wave!</h2>
+  <p>
+    The swim team was founded in 1961, so we're celebrating our 50th
+    anniversary this year - can you believe it? Congrats to everyone
+    and here's to another 50 years!
+  </p>
+</div>
 <?php include_once "footer.inc"; ?>

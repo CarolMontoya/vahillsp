@@ -13,10 +13,10 @@
             Division 17, Northern Virginia Swimming League
           </h3>
           <p align="center">
-            <img src="images/TW2009TeamPic.jpg"
-               width="551"
-               height="406"
-               alt="Tidal Wave team 2009">
+            <img src="images/site/tidalwave50years.png"
+               width="400"
+               height="372"
+               alt="Tidal Wave 50 year anniversary">
           </p><br>
           <a href="images/swimteam/2009/swimteam-2009-1.jpg" rel="prettyPhoto[pp_gal]" title="Little girl freestyle"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-1.jpg" width="60" height="60" alt="Little girl freestyle" /></a>
           <a href="images/swimteam/2009/swimteam-2009-2.jpg" rel="prettyPhoto[pp_gal]" title="Tidal Wave Banner"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-2.jpg" width="60" height="60" alt="Tidal Wave Banner" /></a>
