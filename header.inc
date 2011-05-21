@@ -12,24 +12,24 @@
     <meta name="geo.placename" content="Alexandria, Virginia, United States">
     <meta name="geo.region" content="us-va">
     <meta name="ICBM" content="38.76639;-77.114311">
-    <link rel="stylesheet" href="css/vahillspool.css" type="text/css" media=
+    <link rel="stylesheet" href="/css/vahillspool.css" type="text/css" media=
     "screen">
-    <script type="text/JavaScript" src="js/curvycorners.js"></script>
-    <script type="text/JavaScript" src="js/jquery.js"></script>
+    <script type="text/JavaScript" src="/js/curvycorners.js"></script>
+    <script type="text/JavaScript" src="/js/jquery.js"></script>
   </head>
   <body>
     <div id="doc" class="yui-t2">
       <div id="hd">
         <div class="rounded">
           <a href="index.php">
-          <img src="images/header.png" width="800" height="159"
+          <img src="/images/header.png" width="800" height="159"
             alt="Virginia Hills Pool Home">
           </a>
         </div>
       </div>
       <div id="bd">
         <div class="yui-b">
-          <?php include_once "navigation.inc"; ?>
+          <?php include_once "/navigation.inc"; ?>
         </div>
         <div id="yui-main">
           <div class="yui-b">
