@@ -35,7 +35,9 @@
       </p>
     </div>
     <div class="yui-u">
-      <a href="2011Calendar.pdf">2011 Calendar</a>
+      <h2>
+        <a href="2011Calendar.pdf">2011 Calendar</a>
+      </h2>
       <img src="images/kids.jpg"
         width="266"
         height="187"
