@@ -38,7 +38,7 @@
     <li><a href="index.php"><span>Home</span></a></li>
     <li><a href="location.php"><span>Location</span></a></li>
     <li><a href="schedule.php"><span>Hours &amp; Events</span></a></li>
-    <li class="inactive"><a href="javascript:;" class="inactive"><span class="inactive">2011 Calendar (TBD)</span></a></li>
+    <li><a href="2011 Calendar.pdf"><span>2011 Calendar</span></a></li>
     <li><a href="membership.php"><span>Membership &amp; Fees</span></a></li>
     <li><a href="members.php"><span class="highlight">Members</span></a></li>
     <li><a href="swim-team.php"><span>Swim Team</span></a></li>

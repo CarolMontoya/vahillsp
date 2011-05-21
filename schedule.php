@@ -35,9 +35,7 @@
       </p>
     </div>
     <div class="yui-u">
-      <h2>
-        2011 Calendar coming soon
-      </h2>
+      <a href="2011Calendar.pdf">2011 Calendar</a>
       <img src="images/kids.jpg"
         width="266"
         height="187"
