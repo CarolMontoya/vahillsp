@@ -348,7 +348,7 @@
             <a href="#top">back to top</a>
           </p>
           <p align="center">
-            <img src="/images/swimteam/swimteam-2009-10.jpg">
+            <img src="/images/swimteam/2009/swimteam-2009-10.jpg">
           </p>
           <h3>
             <a name="ch4"
@@ -887,7 +887,7 @@
             <a href="#top">back to top</a>
           </p>
           <p align="center">
-            <img src="/images/swimteam/swimteam-2009-16.jpg">
+            <img src="/images/swimteam/2009/swimteam-2009-16.jpg">
           </p>
           <h3>
             <a name="ch6"
@@ -1067,7 +1067,7 @@
             <a href="#top">back to top</a>
           </p>
           <p align="center">
-            <img src="/images/swimteam/swimteam-2009-20.jpg">
+            <img src="/images/swimteam/2009/swimteam-2009-20.jpg">
           </p>
           <h3>
             <a name="ch7"
@@ -1315,7 +1315,7 @@
             <a href="#top">back to top</a>
           </p>
           <p align="center">
-            <img src="/images/swimteam/swimteam-2009-1.jpg">
+            <img src="/images/swimteam/2009/swimteam-2009-1.jpg">
           </p>
         </div>
 <?php include_once "footer.inc"; ?>
