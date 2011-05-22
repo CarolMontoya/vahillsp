@@ -347,6 +347,9 @@
           <p>
             <a href="#top">back to top</a>
           </p>
+          <p align="center">
+            <img src="/images/swimteam/swimteam-2009-10.jpg">
+          </p>
           <h3>
             <a name="ch4"
                 id="ch4"></a>Chapter 4: My Kid Says He's Supposed
@@ -883,6 +886,9 @@
           <p>
             <a href="#top">back to top</a>
           </p>
+          <p align="center">
+            <img src="/images/swimteam/swimteam-2009-16.jpg">
+          </p>
           <h3>
             <a name="ch6"
                 id="ch6"></a>Chapter 6: Who Are All These People
@@ -1059,6 +1065,9 @@
           </p>
           <p>
             <a href="#top">back to top</a>
+          </p>
+          <p align="center">
+            <img src="/images/swimteam/swimteam-2009-20.jpg">
           </p>
           <h3>
             <a name="ch7"
@@ -1304,6 +1313,9 @@
           </p>
           <p>
             <a href="#top">back to top</a>
+          </p>
+          <p align="center">
+            <img src="/images/swimteam/swimteam-2009-1.jpg">
           </p>
         </div>
 <?php include_once "footer.inc"; ?>
