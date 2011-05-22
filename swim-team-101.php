@@ -4,6 +4,7 @@
   include_once "header.inc"; 
 ?>
         <div class="rounded">
+          <img src="images/site/VHTidalWaveLogo.jpg" style="float:right;">
           <h2>
             <a name="top"
                 id="top"></a>Tidal Wave Swim Team 101
@@ -798,7 +799,7 @@
             A swimmer will be disqualified (or DQd) if he/she
             does not follow the rules of the stroke or false
             starts. These are covered in more detail in <a href= 
-            "#7">Chapter 7</a>.
+            "ch7">Chapter 7</a>.
           </p>
           <h5>
             Seeding
@@ -945,7 +946,7 @@
             for a safety reason. This is done using a recall
             signal on the Colorado system (you'll know it when
             you hear it). For more information, see False Starts
-            in <a href="#7">Chapter 7</a>.
+            in <a href="ch7">Chapter 7</a>.
           </p>
           <h5>
             Stroke and Turn Judges
