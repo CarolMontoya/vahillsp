@@ -1315,7 +1315,7 @@
             <a href="#top">back to top</a>
           </p>
           <p align="center">
-            <img src="/images/swimteam/2009/swimteam-2009-1.jpg">
+            <img src="/images/swimteam/2009/swimteam-2009-1.jpg" width="400px">
           </p>
         </div>
 <?php include_once "footer.inc"; ?>
