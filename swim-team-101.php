@@ -348,7 +348,7 @@
             <a href="#top">back to top</a>
           </p>
           <p align="center">
-            <img src="/images/swimteam/2009/swimteam-2009-10.jpg">
+            <img src="/images/swimteam/2009/swimteam-2009-10.jpg" width="400px">
           </p>
           <h3>
             <a name="ch4"
