@@ -1,31 +1,45 @@
 <?php 
-	global $siteTitle;
-	$siteTitle = "Tidal Wave Swim Team 101";
-	include_once "header.inc"; 
+  global $siteTitle;
+  $siteTitle = "Tidal Wave Swim Team 101";
+  include_once "header.inc"; 
 ?>
-<div class="rounded">
+        <div class="rounded">
+          <img src="images/site/VHTidalWaveLogo.jpg" style="float:right;">
           <h2>
             <a name="top"
                 id="top"></a>Tidal Wave Swim Team 101
           </h2>
           <p>
-            <strong><a href=
-            "#Intro">Introduction</a></strong><br>
-            <b><a href="#ch1">Chapter 1: About The Swim
-            Team</a></b><br>
-            <b><a href="#ch2">Chapter 2: Important Basic
-            Stuff</a></b><br>
-            <b><a href="#ch3">Chapter 3: Organizational
-            Stuff</a></b><br>
-            <b><a href="#ch4">Chapter 4: My Kid Says He's
-            Supposed to Swim Like a Butterfly</a></b><br>
-            <b><a href="#ch5">Chapter 5: Swim Meets</a></b><br>
-            <b><a href="#ch6">Chapter 6: Who Are All These People
-            Dressed in White?</a></b><br>
-            <b><a href="#ch7">Chapter 7: What Do You Mean, My Kid
-            DQ'd</a></b><br>
-            <b><a href="#ch8">Chapter 8: We'd Rather Have Fun
-            Than Be in Division I</a></b><br>
+            Download this as a PDF <a href=
+            "docs/SwimTeam101.pdf">here</a>.
+          </p>
+          <p>
+            <strong><a href="#Intro">Introduction</a></strong>
+            <br>
+            <strong><a href="#ch1">Chapter 1: About The Swim
+            Team</a></strong>
+            <br>
+            <strong><a href="#ch2">Chapter 2: Important Basic
+            Stuff</a></strong>
+            <br>
+            <strong><a href="#ch3">Chapter 3: Organizational
+            Stuff</a></strong>
+            <br>
+            <strong><a href="#ch4">Chapter 4: My Kid Says He's
+            Supposed to Swim Like a Butterfly</a></strong>
+            <br>
+            <strong><a href="#ch5">Chapter 5: Swim
+            Meets</a></strong>
+            <br>
+            <strong><a href="#ch6">Chapter 6: Who Are All These
+            People Dressed in White?</a></strong>
+            <br>
+            <strong><a href="#ch7">Chapter 7: What Do You Mean,
+            My Kid DQ'd</a></strong>
+            <br>
+            <strong><a href="#ch8">Chapter 8: We'd Rather Have
+            Fun Than Be in Division I</a></strong>
+            <br>
           </p>
           <h3>
             <a name="Intro"
@@ -51,8 +65,8 @@
             understand and enjoy our summer swim program.
           </p>
           <p>
-            Welcome to the Tidal Wave -- we're glad to have you
-            with us!
+            Welcome to the Tidal Wave &ndash; we're glad to have
+            you with us!
           </p>
           <p>
             <a href="#top">back to top</a>
@@ -65,26 +79,31 @@
             Our Philosophy
           </h5>
           <p>
-            The Philosophy of the Virginia Hills Tidal Wave swim
-            team is that <b>having fun is the most important
-            thing we can do</b>. Most of the kids don't care if
-            we're in a top division or a bottom division. We'd
-            all like to be division champions, which usually
-            means going undefeated, but only one team out of six
-            can usually claim this honor. Personal development is
-            what is most important and for a swimmer that means
-            improving your times. We believe that by establishing
-            a healthy environment that encourages the kids to do
-            their best recognizes their contributions and is fun
-            for the entire family, we will have met our goals.
-          </p>We've all taken our kids to soccer or other sports
-          and probably stood by as two or three parents ran the
-          team. Swimming isn't like that. You can't run a swim
-          program without parental help. In fact, it takes over
-          40 parents to time, officiate and score a typical swim
-          meet, and that doesnt include pool set up and tear down
-          or running the snack bar or non-swimming team
-          activities.
+            We believe in establishing a healthy environment that
+            encourages swimmers to do their best, recognizes
+            their contributions, and is fun for the entire
+            family. Our goal is that kids will enjoy the time
+            spent developing their swimming skills and belonging
+            to the team. Most of the kids don't care if we're in
+            a top division or a bottom division. We'd all like to
+            be division champions, which usually means going
+            undefeated, but only one team out of six can usually
+            claim this honor. Personal development is what is
+            most important and for a swimmer that means improving
+            your times.
+          </p>
+          <p>
+            We've all taken our kids to soccer or other sports
+            and probably stood by as two or three parents ran the
+            team. Swimming isn't like that. You can't run a swim
+            program without parental help. In fact, it takes over
+            40 parents to time, officiate and score a typical
+            swim meet, and that doesn't include pool set up and
+            tear down or running the snack bar or non- swimming
+            team activities. Coaches are the only paid staff for
+            swim team -- everyone else is a volunteer. We value
+            each other's contributions!
+          </p>
           <p>
             Swimming is unique in that there's a place on the
             team for anyone eighteen or younger who can swim
@@ -94,7 +113,7 @@
             the same competition?
           </p>
           <h5>
-            Expectations
+            Expectations for Swimmers
           </h5>
           <p>
             Although swimming is considered an individual sport,
@@ -104,22 +123,21 @@
             our expectations are simple:
           </p>
           <ol>
-            <li>The Virginia Hills Swim Team is <u>not</u> a swim
-            lesson program. A swimmer must be able to swim a
-            length of the pool to join the team. We don't care
-            how fast or how ugly or how legal the stroke is or
-            how long it takes to swim that length. We'll help
-            your swimmer become a better swimmer, but in fairness
-            to the other swimmers on the team, we must insist
-            that all swimmers be able to swim. Your child will
-            feel better about his/her being on the team if he/she
-            is competitive with most of the other kids of the
-            same age.
+            <li>The Virginia Hills Swim Team is not a swim lesson
+            program. A swimmer must be able to swim a length of
+            the pool to join the team. We don't care how fast or
+            how ugly or how legal the stroke is or how long it
+            takes to swim that length. We'll help your swimmer
+            become a better swimmer, but in fairness to the other
+            swimmers on the team, we must insist that all
+            swimmers be able to swim. Your child will feel better
+            about his/her being on the team if he/she is
+            competitive with most of the other kids of the same
+            age.
             </li>
-            <li>Keep your commitments: We're planning on you
-            being available for all swim meets unless you tell us
-            you're not available, preferably at least three days
-            in advance.
+            <li>Keep your commitments: We're planning on you to
+            swim at all the meets unless you tell us you're not
+            available, preferably at least three days in advance.
             </li>
             <li>Pay attention to the coaches: With many swimmers,
             disruptions aren't fair to the other swimmers.
@@ -128,6 +146,31 @@
             being the best.
             </li>
             <li>Have fun.
+            </li>
+          </ol>
+          <h5>
+            Expectations for Parents
+          </h5>
+          <ol>
+            <li>Pay attention to information from the team rep
+            (usually via e-mail). There will be messages before
+            meets with information about location and report
+            time, swimmer selections (what stroke your swimmer
+            will be doing), and volunteer assignments. Sign up
+            with multiple e-mail addresses if you'd like!Let the
+            team rep know in advance when you are unavailable.
+            </li>
+            <li>Keep your volunteer commitment (we need parents
+            to run the meets).
+            </li>
+            <li>When volunteering on the deck (as a timer, for
+            example) wear a plain white top (no writing or logos)
+            and dark bottoms.
+            </li>
+            <li>Ask questions, of the team rep and other parents
+            who are veteran swim team families. There is a lot to
+            learn, we're all volunteers, and we want to make this
+            as easy as possible!
             </li>
           </ol>
           <p>
@@ -160,10 +203,15 @@
             comfortable for racing. The Tidal Wave, like every
             other swim team, has a team suit. The wearing of the
             team suit is optional. There is a culture shock for
-            some boys to the jockey shorts coverage of Speedos.
-            Usually, when they realize that this type of suit is
-            good for racing and everyone else is wearing one,
-            their opposition breaks down.
+            some boys to the coverage of jammers. Usually, when
+            they realize that this type of suit is good for
+            racing and everyone else is wearing one, their
+            opposition breaks down. Although a team suit is not
+            required, suits or caps with any logo other than
+            Tidal Wave are not permitted (wearing a plain
+            suit/cap is fine). Caps are not required, but
+            recommended. Team caps can be purchased from the team
+            rep. Most swimmers use goggles.
           </p>
           <h5>
             Accessories for the well-dressed swimmer
@@ -222,22 +270,21 @@
           </h5>
           <p>
             In 1956, 8 Northern Virginia Pools founded the
-            Northern Virginia Swim League<b>.</b> Today, the NVSL
-            has over 10,000 swimmers on 104 teams and is the
-            largest summer swim league in the United States.
-            Obviously, with this many teams, there has to be some
-            division of teams. During the off season, the NVSL
-            ranks each team from 1 to 104 based primarily on
-            swimmers times, and then divides the teams, based on
-            these rankings, into about 18 Divisions of five or
-            six teams. This means that the fastest teams are in
-            the lower numbered Divisions and the less competitive
-            teams are in the higher numbered Divisions. The other
-            teams in our division, and meet locations, are on the
-            NVSL's Web site, <a href="http://www.nvsl.org"
-               >http://www.nvsl.org</a>.
-               Directions to pools are provided prior to the
-               meet.
+            Northern Virginia Swim League. Today, the NVSL has
+            over 10,000 swimmers on 104 teams and is the largest
+            summer swim league in the United States. Obviously,
+            with this many teams, there has to be some division
+            of teams. During the off season, the NVSL ranks each
+            team from 1 to 104 based primarily on swimmers times,
+            and then divides the teams, based on these rankings,
+            into about 18 Divisions of five or six teams. This
+            means that the fastest teams are in the lower
+            numbered Divisions and the less competitive teams are
+            in the higher numbered Divisions. The other teams in
+            our division, and meet locations, are on the NVSL's
+            Web site, <a href=
+            "http://www.nvsl.org">http://www.nvsl.org</a>.
+            Directions to pools are provided prior to the meet.
           </p>
           <h5>
             Dual Meets
@@ -274,7 +321,7 @@
           <p>
             The sixth week, each Division has an Individual
             Championship meet, commonly referred to as
-            "Divisionals". Each team is allowed to enter two
+            "Divisionals." Each team is allowed to enter two
             swimmers in each event and a swimmer can enter no
             more than two events. If a team does not have two
             swimmers for an event, the other teams can bid in
@@ -286,7 +333,7 @@
           </h5>
           <p>
             After the Divisionals, all the Division coordinators
-            meet to select swimmers for the All-Stars meet the
+            meet to select swimmers for the All- Stars meet the
             following week. The sole criterion for selection to
             All-Stars is to have one of the eighteen fastest
             times swum that day in an event in the Divisional
@@ -297,30 +344,11 @@
             enough to be named an All Star, it is an thrill they
             will never forget.
           </p>
-          <h5>
-            USA Swimming (USAS)
-          </h5>
-          <p>
-            USA Swimming is the governing body for swimming in
-            the United States. USAS establishes rules for the
-            different strokes and for the conduct ofcompetition.
-            The swimming rules that we use in NVSL are US
-            Swimming rules with minor changes to accommodate the
-            facilities and skill levels found in our league.
-          </p>
-          <h5>
-            Potomac Valley Swimming
-          </h5>
-          <p>
-            Potomac Valley Swimming (PVS) is the local branch of
-            USA Swimming. It consists of year round swim clubs in
-            the Washington area. PVS conducts Short Course
-            competitions (25 yard pools) from October to March
-            and Long Course competitions (Olympic sized 50 meter
-            pools) from May thru July.
-          </p>
           <p>
             <a href="#top">back to top</a>
+          </p>
+          <p align="center">
+            <img src="/images/swimteam/2009/swimteam-2009-10.jpg" width="400px">
           </p>
           <h3>
             <a name="ch4"
@@ -405,9 +433,9 @@
             are learning it many look like they are drowning.
             There are two components of the fly; the arm pull and
             the kick. The arm pull must be an over the water
-            recovery (elbows breaking the surface of the water)
-            with the arms moving simultaneously. The kick is a
-            tidal wave style kick with both legs moving
+            recovery (the arm over the surface of the water from
+            elbow to wrist) with the arms moving simultaneously.
+            The kick is a dolphin kick with both legs moving
             simultaneously. Unlike the Breaststroke, there is no
             requirement to alternate the kick and pull. Turns and
             finishes require a simultaneous two-hand touch at the
@@ -473,9 +501,9 @@
           <table border="1"
                  align="center"
                  class="meet"
-                 summary=
-                 "Listing of Saturday Meet Evens and Distances by age group.">
-          <tr>
+                 summary="Listing of Saturday Meet Evens and 
+                  Distances by age group.">
+            <tr>
               <th>
                 Age group
               </th>
@@ -773,8 +801,8 @@
           <p>
             A swimmer will be disqualified (or DQd) if he/she
             does not follow the rules of the stroke or false
-            starts. These are covered in more detail in <a href=
-            "#7">Chapter 7</a>.
+            starts. These are covered in more detail in <a href= 
+            "ch7">Chapter 7</a>.
           </p>
           <h5>
             Seeding
@@ -853,12 +881,13 @@
           </h5>
           <p>
             Ribbons are award for 1<sup>st</sup> through
-            3<sup>rd</sup> Place finishes in all A meets. In
-            Monday Night B Meets, ribbons are awarded for
-            1<sup>st</sup> through 6<sup>th</sup> place.
+            6<sup>th</sup> Place finishes in all meets.
           </p>
           <p>
             <a href="#top">back to top</a>
+          </p>
+          <p align="center">
+            <img src="/images/swimteam/2009/swimteam-2009-16.jpg">
           </p>
           <h3>
             <a name="ch6"
@@ -868,8 +897,8 @@
           <p>
             Your first swim meet can be a bewildering experience
             as you encounter a vast horde of adults dressed in
-            white. NVSL rules require white as the color to be
-            worn by all officials. This is also practical as
+            white tops. NVSL rules require white as the color to
+            be worn by all officials. This is also practical as
             white is a good color to wear on a hot humid summer
             morning.
           </p>
@@ -918,13 +947,12 @@
             address system. a horn, and a strobe light.
           </p>
           <p>
-            Effective with the 2000 Season, a race can be
-            recalled only if it was a bad start by the starter
-            (i.e. not all the swimmers were ready) or for a
-            safety reason. This is done using a recall signal on
-            the Colorado system (you'll know it when you hear
-            it). For more information, see False Starts in
-            Chapter 7.
+            A race can be recalled only if it was a bad start by
+            the starter (i.e. not all the swimmers were ready) or
+            for a safety reason. This is done using a recall
+            signal on the Colorado system (you'll know it when
+            you hear it). For more information, see False Starts
+            in <a href="ch7">Chapter 7</a>.
           </p>
           <h5>
             Stroke and Turn Judges
@@ -943,14 +971,17 @@
             referee reviews and approves and forwards copies to
             the Table workers and the Team Rep.
           </p>
+          <h5>
+            Marshall
+          </h5>
           <p>
-            Marshall Marshals are responsible for ensuring that
-            Warm-ups are conducted safely and that order is
-            maintained during the warm-ups. Duties include
-            insuring that diving starts are used in warm-ups only
-            when a lane is one way away from the starting end,
-            stopping any horse play and making sure swimmers
-            arent hanging or sitting on the lane lines.
+            Marshals are responsible for ensuring that Warm-ups
+            are conducted safely and that order is maintained
+            during the warm-ups. Duties include ensuring that
+            diving starts are used in warm-ups only when a lane
+            is one way away from the starting end, stopping any
+            horse play and making sure swimmers aren't hanging or
+            sitting on the lane lines.
           </p>
           <h5>
             Relay Take-off Judges
@@ -958,7 +989,7 @@
           <p>
             During relays, you'll see four Relay Take-off Judges
             at each end of the pool (two per lane). Their job is
-            to insure that each swimmer touches the wall prior to
+            to ensure that each swimmer touches the wall prior to
             the next swimmer in the relay leaving the deck. Each
             Judge notes on a slip of paper whether each swimmer
             in his lane left before or after the swimmer in the
@@ -1034,6 +1065,9 @@
           </p>
           <p>
             <a href="#top">back to top</a>
+          </p>
+          <p align="center">
+            <img src="/images/swimteam/2009/swimteam-2009-20.jpg">
           </p>
           <h3>
             <a name="ch7"
@@ -1148,7 +1182,7 @@
             then writes it up on a DQ slip. The judge then takes
             the slip to the referee, who verifies that rule has
             been broken and can question the stroke and turn
-            judge to insure that he was able to see the violation
+            judge to ensure that he was able to see the violation
             that was cited. The referee then gives one copy of
             the DQ slip to the Team Rep and another copy to the
             Table Workers. Another clue that a DQ has occurred is
@@ -1160,8 +1194,7 @@
             slightly differently. The referee receives all the
             take-off slips from all the judges. If both judges on
             a lane agree that an early takeoff occurred, the
-            Referee would stand over the lane that the team being
-            DQd swam in and raise his hand.
+            Referee will write the DQ slip to be distributed.
           </p>
           <h5>
             False Starts
@@ -1175,18 +1208,17 @@
             beat the other swimmers into the water.
           </p>
           <p>
-            New rules are in effect for handling false starts in
-            the 2000 Season. If the false start is detected
-            before the starting signal is sounded, the offending
-            swimmer can be removed from the race prior to it
-            starting. If a false start occurs but the starting
-            signal has sounded, the race will not be stopped.
-            Instead the false starting swimmer(s) will be
-            notified of their false start at the conclusion of
-            the race. The use of a recall signal is now limited
-            to a bad start (i.e. not all swimmers were ready) or
-            for a safety reason. If the starter sounds the recall
-            signal, no swimmer can be removed for a false start.
+            If the false start is detected before the starting
+            signal is sounded, the offending swimmer can be
+            removed from the race prior to it starting. If a
+            false start occurs but the starting signal has
+            sounded, the race will not be stopped. Instead the
+            false starting swimmer(s) will be notified of their
+            false start at the conclusion of the race. The use of
+            a recall signal is now limited to a bad start (i.e.
+            not all swimmers were ready) or for a safety reason.
+            If the starter sounds the recall signal, no swimmer
+            can be removed for a false start.
           </p>
           <h5>
             How do I know if My Kid DQ'd
@@ -1197,13 +1229,14 @@
             You'll probably find out if you saw your swimmer
             finish with one of the top three times but he isn't
             announced later in the top three places. Similarly,
-            someone else DQd if your swimmer finished in 4th, 5th
-            or 6th, yet is announced as one of the top three
-            finishers. Another way to find out is by reading the
-            official Meet Results, which are posted at the pool
-            by 4 PM the day of the meet. You also can get results
-            by visiting the NVSL web site or by reading the
-            Fairfax Journal.
+            someone else DQd if your swimmer finished in
+            4<sup>th</sup>, 5<sup>th</sup> or 6<sup>th</sup>, yet
+            is announced as one of the top three finishers.
+            Another way to find out is by reading the official
+            Meet Results, which are posted at the pool by 4 PM
+            the day of the meet. You can also get results by
+            visiting the <a href="http://nvsl.nvblu.com/">NVSL
+            web site</a> or by reading the Fairfax Journal.
           </p>
           <h5>
             A Word About Officials and DQs
@@ -1256,10 +1289,12 @@
             <strong>Team pictures:</strong> We take a team
             picture every year and we'd like your swimmer to be
             in it. You are not obligated to purchase a picture.
-            Other social events: Over the course of the season
-            we'll have a spaghetti dinner, a couple of ice cream
-            socials, a trip to a nearby amusement park and other
-            fun events.
+          </p>
+          <p>
+            <strong>Other social events:</strong> Over the course
+            of the season we'll have a spaghetti dinner, a couple
+            of ice cream socials, a trip to a nearby amusement
+            park and other fun events.
           </p>
           <p>
             <strong>Swim banquet:</strong> We cap of the season
@@ -1279,5 +1314,8 @@
           <p>
             <a href="#top">back to top</a>
           </p>
-</div>
+          <p align="center">
+            <img src="/images/swimteam/2009/swimteam-2009-1.jpg" width="400px">
+          </p>
+        </div>
 <?php include_once "footer.inc"; ?>
