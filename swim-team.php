@@ -54,7 +54,7 @@
               <li><strong><a href="docs/2011InformationLetter.pdf">Information Letter</a></strong></li>
               <li><strong><a href="docs/2011RegForm.pdf">Registration Form</a></strong></li>
               <li><strong><a href="docs/2011AvailabilityForm.pdf">Availability Form</a></strong></li>
-              <li><strong><a href="docs/2011VirginiaHillsTShirts.pdf">Availability Form</a></strong></li>
+              <li><strong><a href="docs/2011VirginiaHillsTShirts.pdf">T-Shirt Form</a></strong></li>
               <li>Contact <a href=
               "mailto:&#107;&#111;&#108;&#111;&#115;&#97;&#114;&#97;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">Sarah Kolo</a>,
               Team Representative, with questions
