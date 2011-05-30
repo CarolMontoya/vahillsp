@@ -39,7 +39,7 @@
           Swim team practices start Tuesday, May 31
         </li>
         <li>
-          New for 2011, the Baby Pool will open at 10:00 a.m. DAILY (except Sundays)
+          Baby Pool will open at 10:00 a.m. DAILY (except Sundays)
         </li>
         <li>
           Open House for Prospective Members, Sunday, June 5, 12:00 - 4:00
