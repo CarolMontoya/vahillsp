@@ -31,7 +31,7 @@
            usemap="#main-collage-map">
     </div>
     <div class="image-title">
-      Virginia Hills Pool: Looking forward to the 2011 season
+      Virginia Hills Pool: Welcome to the 2011 season
     </div>
     <div class="collage-header">
       <ul class="collage-links">
@@ -39,7 +39,7 @@
           Swim team practices start Tuesday, May 31
         </li>
         <li>
-          Baby Pool will open at 10:00 a.m. DAILY (except Sundays)
+          Baby Pool opens 10:00 a.m. DAILY (except Sundays)
         </li>
         <li>
           Open House for Prospective Members, Sunday, June 5, 12:00 - 4:00
