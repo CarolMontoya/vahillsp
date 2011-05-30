@@ -41,7 +41,7 @@ include_once "header.inc";
       <th>Ages 13-18</th>
     </tr>
     <tr>
-      <th colspan="4">May 31 - June 21</th>
+      <th colspan="4">May 31 - June 26</th>
     </tr>
     <tr>
       <th>Monday thru Friday<br>Afternoon practice only</th>
@@ -53,7 +53,7 @@ include_once "header.inc";
       <td colspan="4"></td>
     </tr>
     <tr>
-      <th colspan="4">June 22 - July 29</th>
+      <th colspan="4">June 27 - July 29</th>
     </tr>
     <tr>
       <td></td>
