@@ -72,7 +72,6 @@ include_once "header.inc";
     </tr>
   </table>
   <h5>Meet Schedule</h5>
-  <h6>DRAFT - still subject to change!</h6>
   <p>Details will be posted each week for upcoming events.  Saturday "A" Meets typically run from 8:00 am (warm-ups) to 11:30 am.  Monday "B" Meets typically run from 
 5:00 pm (warm-ups) to 8:30 pm.</p>
   <ul>
