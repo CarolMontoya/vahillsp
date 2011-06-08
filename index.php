@@ -36,7 +36,7 @@
     <div class="collage-header">
       <ul class="collage-links">
         <li>
-          Swim team practices start Tuesday, May 31
+          Afternoon swim practices through June 24
         </li>
         <li>
           Baby Pool opens 10:00 a.m. DAILY (except Sundays)
