@@ -11,7 +11,7 @@
             Get wet and fit this summer!
           </h3>
           <p>
-            We are excited to again offer this effective, safe, and fun workout right in our own pool this summer.  Our enthusiastic instructor of five years, Suzy Thompson, will teach this deep water exercise class, which will begin in mid-June and end in late July.
+            We are excited to again offer this effective, safe, and fun workout right in our own pool this summer.  Our enthusiastic instructor of six years, Suzy Thompson, will teach this deep water exercise class, which will begin in mid-June and end in late July.
           </p>
           <p>
             Classes include a variety of no-impact cardio moves, resistance training, and core stabilization techniques in the water.  You do not have to be a swimmer to participate in and benefit from this stimulating and refreshing class!  Flotation devices will be used - but participants should be comfortable in deep water.
@@ -22,7 +22,7 @@
           <p>
             <strong>Days and times:</strong> Tuesdays & Thursdays, 5:30 - 6:15 p.m.
           <p>
-            <strong>Dates:</strong> June 22 - July 29 (more classes can be added in August depending on demand)
+            <strong>Dates:</strong> June 21 - July 28 (more classes can be added in August depending on demand)
           </p>
           <p>
             <strong>Enrollment options:</strong> 8 classes / $50.00  or 1 class / $7.00
@@ -64,7 +64,7 @@
             Make all checks payable to Suzy Thompson
           </p>
           <p>
-            Alternatively, if you prefer, you can download the registration form <a href="docs/Virginia Hills Aqua Aerobics Registration form 2010.pdf" target="_new">here</a>, print and mail it to Suzy (address on the form).
+            Alternatively, if you prefer, you can download the registration form <a href="docs/Virginia Hills Aqua Aerobics Registration form 2011.pdf" target="_new">here</a>, print and mail it to Suzy (address on the form).
           </p>
 </div>
 <?php include_once "footer.inc"; ?>
