@@ -283,7 +283,7 @@
             in the higher numbered Divisions. The other teams in
             our division, and meet locations, are on the NVSL's
             Web site, <a href=
-            "http://www.nvsl.org">http://www.nvsl.org</a>.
+            "http://nvsl.nvblu.com/plasma/core/site/nvsl">http://nvsl.nvblu.com/plasma/core/site/nvsl</a>.
             Directions to pools are provided prior to the meet.
           </p>
           <h5>
@@ -802,7 +802,7 @@
             A swimmer will be disqualified (or DQd) if he/she
             does not follow the rules of the stroke or false
             starts. These are covered in more detail in <a href= 
-            "ch7">Chapter 7</a>.
+            "#ch7">Chapter 7</a>.
           </p>
           <h5>
             Seeding
@@ -952,7 +952,7 @@
             for a safety reason. This is done using a recall
             signal on the Colorado system (you'll know it when
             you hear it). For more information, see False Starts
-            in <a href="ch7">Chapter 7</a>.
+            in <a href="#ch7">Chapter 7</a>.
           </p>
           <h5>
             Stroke and Turn Judges
