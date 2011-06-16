@@ -12,7 +12,7 @@ include_once "header.inc";
 	</div>
 	<div class="yui-g">
 		<div class="yui-u first">
-			<h3>Sunday, July 4th</h3>
+			<h3>Monday, July 4th</h3>
 			<img src="images/fireworks.png">
 		</div>
 		<div class="yui-u first">
