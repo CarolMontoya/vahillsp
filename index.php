@@ -36,6 +36,9 @@
     <div class="collage-header">
       <ul class="collage-links">
         <li>
+          <a href="aerobics.php">2011 Water Aerobics signup here</a>
+        </li>
+        <li>
           Afternoon swim practices through June 24
         </li>
         <li>
