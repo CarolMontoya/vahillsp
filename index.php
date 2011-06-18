@@ -36,6 +36,9 @@
     <div class="collage-header">
       <ul class="collage-links">
         <li>
+          Annual Last Day of School Party June 21 1:00 - 2:30
+        </li>
+        <li>
           <a href="aerobics.php">2011 Water Aerobics signup here</a>
         </li>
         <li>
