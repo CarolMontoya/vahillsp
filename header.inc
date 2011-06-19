@@ -1,3 +1,6 @@
+<?php
+  include_once "../vahillspool.conf.php";
+?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" 
 "http://www.w3.org/TR/html4/strict.dtd"> 
 <html>
@@ -12,17 +15,17 @@
     <meta name="geo.placename" content="Alexandria, Virginia, United States">
     <meta name="geo.region" content="us-va">
     <meta name="ICBM" content="38.76639;-77.114311">
-    <link rel="stylesheet" href="/css/vahillspool.css" type="text/css" media=
+    <link rel="stylesheet" href="<?php echo $root; ?>/css/vahillspool.css" type="text/css" media=
     "screen">
-    <script type="text/JavaScript" src="/js/curvycorners.js"></script>
-    <script type="text/JavaScript" src="/js/jquery.js"></script>
+    <script type="text/JavaScript" src="<?php echo $root; ?>/js/curvycorners.js"></script>
+    <script type="text/JavaScript" src="<?php echo $root; ?>/js/jquery.js"></script>
   </head>
   <body>
     <div id="doc" class="yui-t2">
       <div id="hd">
         <div class="rounded">
           <a href="index.php">
-          <img src="/images/header.png" width="800" height="159"
+          <img src="<?php echo $root; ?>/images/header.png" width="800" height="159"
             alt="Virginia Hills Pool Home">
           </a>
         </div>
