@@ -10,7 +10,7 @@
                    "2011-07-04" => "closed 9:00am to about noon for swim team meet, then closes early at 6:00pm",
                    "2011-07-09" => "opens late at 1:00am for swim team meet",
                    "2011-07-11" => "closes early at 5:00pm for swim team meet",
-                   "2011-07-16" => "opens late at 1:00am for swim team meet",
+                   "2011-07-16" => "opens late at 1:00pm for swim team meet",
                    "2011-07-18" => "closes early at 5:00pm for swim team meet",
                    "2011-07-23" => "opens late at 1:00am for swim team meet",
                   );
