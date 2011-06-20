@@ -5,23 +5,32 @@
 ?>
 <div class="rounded">
   <?php
-    $dates = array("2010-06-21" => "5:00pm for swim team",
-                   "2010-07-04" => "6:00pm",
-                   "2010-07-05" => "5:00pm for swim team",
-                   "2010-07-12" => "5:00pm for swim team",
-                   "2010-07-19" => "5:00pm for swim team"
+    $closures = array(
+                   "2011-06-27" => "closes early at 5:00pm for swim team meet",
+                   "2011-07-04" => "closed 9:00am to about noon for swim team meet, then closes early at 6:00pm",
+                   "2011-07-09" => "opens late at 1:00am for swim team meet",
+                   "2011-07-11" => "closes early at 5:00pm for swim team meet",
+                   "2011-07-16" => "opens late at 1:00am for swim team meet",
+                   "2011-07-18" => "closes early at 5:00pm for swim team meet",
+                   "2011-07-23" => "opens late at 1:00am for swim team meet",
                   );
     $today = time();
 
-    foreach ($dates as $date => $time) {
-      $date = strtotime($date);
-      $datediff = $date - $today;
-      //echo "$today --- $date --- " . ($today - $date) . " $time<br>";
+    foreach ($closures as $closure => $time) {
+      $closure = strtotime($closure);
+      $datediff = $closure - $today;
+      //echo "$today --- $closure --- " . ($today - $closure) . " $time<br>";
       if ($datediff >= -86400 && $datediff < 2 * 86400) {
-        echo "<h2>Pool closes early at $time on " . strftime("%A, %B %d, %Y", $date) . "</h2>";
+        echo "<h2 class=\"announce\">Pool $time on " . strftime("%A, %B %d, %Y", $closure) . "</h2>";
       }
     }
   ?>
+  <div class="gadget center">
+    <!--
+    <script src="http://www.gmodules.com/ig/ifr?url=http://hosting.gmodules.com/ig/gadgets/file/113344792581211145083/PWS.xml&amp;up_pref_station=KVAALEXA29&amp;up_pref_units=english&amp;up_pref_camurl=&amp;up_pref_updatefreq=120&amp;synd=open&amp;w=200&amp;h=100&amp;title=&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
+    -->
+    <a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:22301.1.99999&bannertypeclick=wu_clean2day"><img src="http://weathersticker.wunderground.com/weathersticker/cgi-bin/banner/ban/wxBanner?bannertype=wu_clean2day_cond&pwscode=KVAALEXA29&ForcedCity=Alexandria&ForcedState=VA&zipcode=22301&language=EN" alt="Click for Alexandria, Virginia Forecast" height="100" width="300" /></a>
+  </div>
   <div class="posrel">
     <div>
       <img src="images/collage-main.jpg"
@@ -35,15 +44,21 @@
     </div>
     <div class="collage-header">
       <ul class="collage-links">
+        <?php if(strtotime("2011-06-21") - time() >= -86400) { ?>
         <li>
           <a href="docs/2011 Flier School's Out Party.pdf">Annual Last Day of School Party June 21 1:00 - 2:30</a>
         </li>
+        <?php } ?>
+        <?php if(strtotime("2011-07-15") - time() >= -86400) { ?>
         <li>
           <a href="aerobics.php">2011 Water Aerobics signup here</a>
         </li>
+        <?php } ?>
+        <?php if(strtotime("2011-07-28") - time() >= -86400) { ?>
         <li>
           Afternoon swim practices through June 24
         </li>
+        <?php } ?>
         <li>
           Baby Pool opens 10:00 a.m. DAILY (except Sundays)
         </li>
@@ -61,8 +76,23 @@
   </div>
 </div>
 <div class="rounded">
+  <h2>Early Closings</h2>
+  <p>Below is a list of the dates where the pool will close outside of
+  its regular schedule. The dates will also be announced at the top of this
+  page as they come up.</p>
+  <ul>
+  <?php
+    foreach ($closures as $closure => $time) {
+      $closure = strtotime($closure);
+      $datediff = $closure - $today;
+      echo "<li>" . strftime("%A, %B %d, %Y", $closure) . ": $time</li>";
+    }
+  ?>
+  </ul>
+</div>  
+<div class="rounded">
   <p align="center">
-    <img src="/images/site/tidalwave50years.png" alt="Tidal Wave 50 year anniversary">
+    <img src="images/site/tidalwave50years.png" alt="Tidal Wave 50 year anniversary">
   </p>
   <h2>Congrats Tidal Wave!</h2>
   <p>

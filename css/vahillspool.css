@@ -257,6 +257,10 @@ div.nav-short {
   text-align: center;
 }
 
+.announce {
+  color:red;
+}
+
 ul.collage-links {
   padding:0px;
   margin:0px;
@@ -333,6 +337,18 @@ div.image-title {
 
 div.center {
   text-align: center;
+}
+
+div.float-right {
+  float:right;
+}
+
+div.float-left {
+  float:left;
+}
+
+div.gadget table, tr, td, th {
+  border:0;
 }
 
 a.webmaster {
