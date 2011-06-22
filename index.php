@@ -44,6 +44,11 @@
     </div>
     <div class="collage-header">
       <ul class="collage-links">
+        <?php if(strtotime("2011-06-24") - time() >= -86400) { ?>
+        <li>
+          <a href="swim-team-sched.php">Swim Team spaghettig dinner this Friday</a>
+        </li>
+        <?php } ?>
         <?php if(strtotime("2011-06-21") - time() >= -86400) { ?>
         <li>
           <a href="docs/2011 Flier School's Out Party.pdf">Annual Last Day of School Party June 21 1:00 - 2:30</a>
