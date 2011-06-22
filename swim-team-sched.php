@@ -19,7 +19,7 @@ include_once "header.inc";
 
   <p>Later on Friday, 8 & unders will swim from 5-5:30 pm and 9-12s from 5:30-6 pm. The dinner set up will begin at 5:30 and we can eat at 6 pm.</p>
 
-  <p>Next week we move to morning practices every day and afternoon practices Tuesday and Thursday.</p>
+  <p>Next week we move as planned to morning practices every day and afternoon practices Tuesday and Thursday.</p>
 </div>
 <?php } ?>
 <div class="rounded">
