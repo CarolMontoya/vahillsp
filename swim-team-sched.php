@@ -12,6 +12,16 @@ include_once "header.inc";
     min-width:600px;/* optional but recommended */
   }
 </style>
+<?php if(strtotime("2011-06-24") - time() >= -86400) { ?>
+<div class="rounded">
+  <h2>Important schedule change</h2>
+  <p>This year our Friday night Spaghetti Dinner will conflict with practices since we haven't yet moved to morning practices. So, this Friday, we'll begin a morning practice for 13-18 year olds, from 7:45 - 9:00 am. There will not be an afternoon practice for 13-18s.</p>
+
+  <p>Later on Friday, 8 & unders will swim from 5-5:30 pm and 9-12s from 5:30-6 pm. The dinner set up will begin at 5:30 and we can eat at 6 pm.</p>
+
+  <p>Next week we move to morning practices every day and afternoon practices Tuesday and Thursday.</p>
+</div>
+<?php } ?>
 <div class="rounded">
 
   <h2>Swim Team Schedule</h2>
