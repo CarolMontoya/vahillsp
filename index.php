@@ -46,7 +46,7 @@
       <ul class="collage-links">
         <?php if(strtotime("2011-06-24") - time() >= -86400) { ?>
         <li>
-          <a href="swim-team-sched.php">Swim Team spaghettig dinner this Friday</a>
+          <a href="swim-team-sched.php">Swim Team spaghetti dinner this Friday</a>
         </li>
         <?php } ?>
         <?php if(strtotime("2011-06-21") - time() >= -86400) { ?>
