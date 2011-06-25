@@ -125,8 +125,8 @@ include_once "header.inc";
         <td>Somerset Olde Creek</td>
         <td>AWAY</td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>226-170</td>
+        <td>L</td>
       </tr>
       <tr>
         <td>June 27</td>
