@@ -116,8 +116,8 @@ include_once "header.inc";
         <td>Stratford Rec Assn</td>
         <td>AWAY</td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>N/A</td>
+        <td>N/A</td>
       </tr>
       <tr>
         <td>June 25</td>
