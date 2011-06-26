@@ -261,6 +261,9 @@ div.nav-short {
   color:red;
 }
 
+.nobr  {
+  white-space:nowrap;
+}
 ul.collage-links {
   padding:0px;
   margin:0px;

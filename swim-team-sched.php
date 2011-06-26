@@ -90,7 +90,7 @@ include_once "header.inc";
       <td>7:45 - 9:00am</td>
     </tr>
     <tr>
-      <th>T/Th afternoons</th>
+      <th>Tue/Thu afternoons</th>
       <td></td>
       <td>5:30 - 6:00pm</td>
       <td>6:00 - 6:45pm</td>
@@ -141,7 +141,7 @@ include_once "header.inc";
         <td>Somerset Olde Creek</td>
         <td>AWAY</td>
         <td><a href="docs/swim-team-results/2011-06-25-SOC-improvement.pdf">Improvements</a></td>
-        <td><a href="docs/swim-team-results/2011-06-25-SOC-results3column.pdf">226-170</a></td>
+        <td class="nobr"><a href="docs/swim-team-results/2011-06-25-SOC-results3column.pdf">226-170</a></td>
         <td>L</td>
       </tr>
       <tr>
