@@ -146,8 +146,8 @@ include_once "header.inc";
         <td>A meet</td>
         <td>Somerset Olde Creek</td>
         <td>AWAY</td>
-        <td></td>
-        <td>226-170</td>
+        <td><a href="docs/swim-team-results/2011-06-25-SOC-improvement.pdf">Improvements</a></td>
+        <td><a href="docs/swim-team-results/2011-06-25-SOC-results3column.pdf">226-170</a></td>
         <td>L</td>
       </tr>
       <tr>
