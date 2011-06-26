@@ -92,7 +92,7 @@ include_once "header.inc";
     <tr>
       <th>Daily</th>
       <td>10:00 - 10:30am</td>
-      <td colspan="2">9:00 - 10:00am</td>
+      <td colspan="2" align="center">9:00 - 10:00am</td>
       <td>7:45 - 9:00am</td>
     </tr>
     <tr>
