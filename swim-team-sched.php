@@ -29,20 +29,14 @@ include_once "header.inc";
   <h3>2011 Tidal Wave Schedule<br>
   Division 17</h3>
   <h4>Important Dates in 2011</h4>
-  <table width="90%" border="0" align="center">
-    <tr>
-      <td colspan="3"><p><strong>Important Dates 2011:</strong></p>
-        <ul>
-          <li><em>Saturday, May 14, 4:00 pm</em> Kick-off Meeting/Ice Cream Social</li>
-          <li><em>Tuesday, May 31, 6:00 pm</em> Orientation meeting for parents new to swim team</li>
-          <li><em>Friday, June 17, 5-7 pm</em> Team suit sale</li>
-          <li><em>Friday, June 24, 6:00 pm</em> Spaghetti dinner</li>
-          <li><em>Saturday, July 30, 6:00 pm</em> End of season banquet</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-  <h5>Practice Schedule</h5>
+  <ul>
+    <li><em>Saturday, May 14, 4:00 pm</em> Kick-off Meeting/Ice Cream Social</li>
+    <li><em>Tuesday, May 31, 6:00 pm</em> Orientation meeting for parents new to swim team</li>
+    <li><em>Friday, June 17, 5-7 pm</em> Team suit sale</li>
+    <li><em>Friday, June 24, 6:00 pm</em> Spaghetti dinner</li>
+    <li><em>Saturday, July 30, 6:00 pm</em> End of season banquet</li>
+  </ul>
+  <h5>Practice Schedule 2011</h5>
   <table width="90%" border="1" align="center">
   <!--
     <tr>
