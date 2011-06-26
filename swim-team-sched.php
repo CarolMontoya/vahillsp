@@ -44,6 +44,7 @@ include_once "header.inc";
   </table>
   <h5>Practice Schedule</h5>
   <table width="90%" border="1" align="center">
+  <!--
     <tr>
       <td></td>
       <th>Ages 8 and under</th>
@@ -79,6 +80,27 @@ include_once "header.inc";
       <th>Tuesday and Thursday<br>Afternoon practice</th>
       <td colspan="2">6:00 - 6:45 pm</td>
       <td>7:00 - 8:00 pm</td>
+    </tr>
+  -->
+    <tr>
+      <td></td>
+      <th>"Ripples"</th>
+      <th>Ages 8 and under</th>
+      <th>Ages 9-12</th>
+      <th>Ages 13-18</th>
+    </tr>
+    <tr>
+      <th>Daily</th>
+      <td>10:00 - 10:30am</td>
+      <td colspan="2">9:00 - 10:00am</td>
+      <td>7:45 - 9:00am</td>
+    </tr>
+    <tr>
+      <th>T/Th</th>
+      <td></td>
+      <td>5:30 - 6:00pm</td>
+      <td>6:00 - 6:45pm</td>
+      <td>7:00 - 8:00pm</td>
     </tr>
   </table>
   <h5>Meet Schedule</h5>
