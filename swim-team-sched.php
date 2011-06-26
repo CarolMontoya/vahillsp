@@ -90,13 +90,13 @@ include_once "header.inc";
       <th>Ages 13-18</th>
     </tr>
     <tr>
-      <th>Daily</th>
+      <th>Mon-Fri mornings</th>
       <td>10:00 - 10:30am</td>
       <td colspan="2" align="center">9:00 - 10:00am</td>
       <td>7:45 - 9:00am</td>
     </tr>
     <tr>
-      <th>T/Th</th>
+      <th>T/Th afternoons</th>
       <td></td>
       <td>5:30 - 6:00pm</td>
       <td>6:00 - 6:45pm</td>
