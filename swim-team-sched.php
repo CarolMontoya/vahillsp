@@ -158,9 +158,9 @@ include_once "header.inc";
         <td>A meet</td>
         <td>Broyhill Crest</td>
         <td>AWAY</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><a href="docs/swim-team-results/2011-07-02-BRC-improvement.pdf">Improvements</a></td>
+        <td class="nobr"><a href="docs/swim-team-results/2011-07-02-BRC-results3column.pdf">214-182</a></td>
+        <td>W</td>
       </tr>
       <tr>
         <td>July 4</td>
