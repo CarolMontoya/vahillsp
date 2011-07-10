@@ -6,6 +6,22 @@
 <div class="rounded">
   <div class="yui-g">
     <div class="yui-u first">
+        <?php if(strtotime("2011-09-01") - time() > 0) { ?>
+          <h2>
+            August Share sale
+          </h2>
+          <p>
+            We are again conducting our August Share Sale.  
+            If you are sitting on the fence on whether 
+            or not to join the pool, this is a great way to join.  
+            The sale allows new members to join as of August 1 
+            for the cost of the share, only.  
+            Please <a href=
+            "mailto:&#105;&#110;&#102;&#111;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">contact our president</a>
+            or call (703) 317-5900, and a representative of the
+            Membership Committee will answer your questions.
+          </p>
+        <?php } ?>
           <h2>
             Membership
           </h2>

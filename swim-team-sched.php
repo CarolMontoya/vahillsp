@@ -177,8 +177,8 @@ include_once "header.inc";
         <td>Springfield SRC</td>
         <td>HOME</td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>274-121</td>
+        <td>W</td>
       </tr>
       <tr>
         <td>July 11</td>
