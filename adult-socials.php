@@ -48,6 +48,7 @@
             Future socials:
           </h4>
           <ul>
+            <?php if(strtotime("2011-07-18") - time() > 0) { ?>
             <li>
               <strong>Adult Social, Saturday, July 18, 7 -
               Midnight</strong>. Food, fun, and music. There is a
@@ -55,10 +56,30 @@
               reservations are required. Please volunteer to help
               make this a great evening!
             </li>
+            <?php } ?>
+            <?php if(strtotime("2011-07-15") - time() > 0) { ?>
             <li>
               <strong>Fiesta Night, Saturday, August 15, 8 -
               Midnight</strong>. Margaritas and more!
             </li>
+            <?php } ?>
+            <?php if(strtotime("2011-08-21") - time() > 0) { ?>
+            <li>
+              <strong>Pool Social, Sunday, August 21, 4 - 8 PM</strong>. 
+              Share good food with great people on the Virginia Hills Pool 
+              Snack Bar Deck. Cost is $7 per adult (age 12 and older), 
+              $4 per child (under age 12)  plus one side dish per family 
+              (appetizer, salad, mac and cheese, beans, dessert, ???).<br>
+              <strong>You must RSVP to <a href="mailto:MSMRZ17377@aol.com">
+              Melissa Smrz</a> no later than Sunday, August 14, with the 
+              number of adults and children who will be attending and the 
+              side dish you will be bringing.  You can pay Melissa by 
+              check if you see her at the pool, or can pay at the door.   
+              Date for RSVP is firm, as we need to finalize and pay for 
+              the Famous Dave’s order early that week….thanks!</strong><br>
+              <a href="docs/2011PoolSocialEvent.pdf">Download flyer</a>
+            </li>
+            <?php } ?>
           </ul>
           <p>
             If you would volunteer to help with this or other
