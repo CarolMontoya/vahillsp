@@ -1,11 +1,11 @@
 <?php
   global $siteTitle;
-  $siteTitle = "Adult Socials";
+  $siteTitle = "Pool Socials";
   include_once "header.inc"; 
 ?>
 <div class="rounded">
           <h2>
-            Adult Socials
+            Pool Socials
           </h2><!--        <tr>
           <td width="375"><font color="#333333" size="2" face="Arial, Helvetica, sans-serif"><strong>Meet &amp; Greet</strong>: Come socialize with fellow pool members!</font></td>
           <td width="230" rowspan="8"><img src="images/pitcher.jpg" width="200" height="267" hspace="10" vspace="1" align="top"></td>
@@ -71,7 +71,7 @@
               $4 per child (under age 12)  plus one side dish per family 
               (appetizer, salad, mac and cheese, beans, dessert, ???).<br>
               <strong>You must RSVP to <a href="mailto:MSMRZ17377@aol.com">
-              Melissa Smrz</a> no later than Sunday, August 14, with the 
+              Melissa Smrz</a> no later than Tuesday, August 15, 8PM with the 
               number of adults and children who will be attending and the 
               side dish you will be bringing.  You can pay Melissa by 
               check if you see her at the pool, or can pay at the door.   
