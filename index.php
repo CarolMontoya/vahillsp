@@ -13,7 +13,7 @@
                    "2011-07-16" => "opens late at 1:00pm for swim team meet",
                    "2011-07-18" => "closes early at 5:00pm for swim team meet",
                    "2011-07-23" => "opens late at 1:00am for swim team meet",
-                   "2011-09-05" => "closes early at 2:00/6:00pm for labor day (last day for the season - cleanup from 2:00=m to 6:00pm)",
+                   "2011-09-05" => "closes early at 2:00/6:00pm for labor day (last day for the season - cleanup from 2:00pm to 6:00pm)",
                   );
     $today = time();
 
