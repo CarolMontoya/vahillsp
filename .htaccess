@@ -147,6 +147,12 @@ RewriteRule ^images\/TidalWave2007\.jpg$ "http\:\/\/www\.vahillspool\.org\/image
     Allow from all
   </Files>
 </Directory>
+<Directory "js">
+  <FilesMatch \.(?i:js)$>
+    Order Deny,Allow
+    Allow from all
+  </FilesMatch>
+</Directory>
 <Directory "images">
   <FilesMatch \.(?i:png|gif|jpe?g)$>
     Order Deny,Allow
@@ -158,16 +164,6 @@ RewriteRule ^images\/TidalWave2007\.jpg$ "http\:\/\/www\.vahillspool\.org\/image
     Order Deny,Allow
     Allow from all
   </FilesMatch>
-</Directory>
-<Directory "js">
-  <Files "jquery.js">
-    Order Deny,Allow
-    Allow from all
-  </Files>
-  <Files "curvycorners.js">
-    Order Deny,Allow
-    Allow from all
-  </Files>
 </Directory>
 <Files "403.shtml">
   Order Deny,Allow
