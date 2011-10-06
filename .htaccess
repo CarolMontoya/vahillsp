@@ -14,9 +14,7 @@ allow from all
 <Limit PUT DELETE>
 order deny,allow
 </Limit>
-AuthName www.vahillspool.org
-AuthUserFile /home/vahillsp/public_html/_vti_pvt/service.pwd
-AuthGroupFile /home/vahillsp/public_html/_vti_pvt/service.grp
+
 RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
 RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
 RewriteRule ^AdultSocials\.html$ "http\:\/\/www\.vahillspool\.org\/adult\-socials\.php" [R=301,L]
@@ -175,3 +173,4 @@ RewriteRule ^images\/TidalWave2007\.jpg$ "http\:\/\/www\.vahillspool\.org\/image
   Order Deny,Allow
   Allow from all
 </Files>
+
