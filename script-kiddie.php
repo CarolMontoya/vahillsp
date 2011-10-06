@@ -48,6 +48,7 @@ class ScriptKiddie {
       self::$badAttempts[$ip] = array(); 
     }
     array_push(self::$badAttempts[$ip], time());
+    self::saveBadAttempts(self::$badAttempts);
   }
 
   static private function removeEmptyIP($ip, $data) {
@@ -75,13 +76,16 @@ class ScriptKiddie {
   }
 
   static private function numBadAttemptsLast15minutes($ip) {
-    // TODO: stub
-    return self::MAX_BAD_ATTEMPT_IN_15_MINS + 1;
+    $data = self::expireOldEntries(self::$badAttempts);
+    self::$logger->trace($data);
+    self::$logger->trace("Number of bad attempts in last " . self::KEEP_CACHE_ENTRIES_SEC . " seconds: " . (empty($data[$ip]) ? 0 : count($data[$ip])));
+    return empty($data[$ip]) ? 0 : count($data[$ip]);
   }
 
   static private function evalIPban($ip) {
-    if (self::numBadAttemptsLast15minutes($ip) > self::MAX_BAD_ATTEMPT_IN_15_MINS) {
-      self::$logger->debug("IP $ip banned (too many attempts x in " . self::KEEP_CACHE_ENTRIES_SEC . " seconds");
+    $numBadAttempts = self::numBadAttemptsLast15minutes($ip);
+    if ($numBadAttempts > self::MAX_BAD_ATTEMPT_IN_15_MINS) {
+      self::$logger->debug("IP $ip banned (too many attempts: $numBadAttempts) in " . self::KEEP_CACHE_ENTRIES_SEC . " seconds");
       return true;
     } else {
       self::$logger->debug("IP $ip NOT banned");
@@ -95,18 +99,20 @@ class ScriptKiddie {
     $insertPoint = 0;
     $alreadyThere = false;
 
-    self::$logger->debug("Adding IP $ip to " . self::HTACCESS);
+    self::$logger->debug("Checking IP $ip in " . self::HTACCESS);
     foreach ($htaccess as $key => $line) {
       self::$logger->trace("$cnt: $line");
       if (preg_match("/^deny from (.*)$/", $line, $ipMatch)) {
-        if ($ipMatch[1] == $ip) {
-          self::$logger->info("Deny already in " . self::HTACCESS . " at line $cnt");
-          $alreadyThere = true;
-          // need to keep processing file to make sure we remove old bans, otherwise we could return here
-        }
-        if (empty(self::$badAttempts[$ipMatch[1]])) {
+        if (!self::evalIPban($ipMatch[1])) {
           // no entries exist for this IP, we can remove it from the file
+          self::$logger->info("Removing ban for $ipMatch[1]");
           continue;
+        } else {
+          if ($ipMatch[1] == $ip) {
+            self::$logger->info("Deny for IP $ipMatch[1] already in " . self::HTACCESS . " at line $cnt");
+            $alreadyThere = true;
+          }
+          // need to keep processing file to make sure we remove old bans, otherwise we could return here
         }
       } 
       if (preg_match("/^# insert denies here/", $line)) {
@@ -120,7 +126,7 @@ class ScriptKiddie {
       $insertPoint = $cnt;
       self::$logger->debug("No specific insert point found, adding line at and of " . self::HTACCESS . " (line $insertPoint)");
     }
-    if (!$alreadyThere) {
+    if (!$alreadyThere && self::evalIPban($ip)) {
       array_splice($result, $insertPoint + 1, 0, array("deny from " . $ip . "\n"));
       self::$logger->info("Added IP $ip to line $insertPoint in " . self::HTACCESS);
     }
@@ -138,17 +144,14 @@ class ScriptKiddie {
   }
 
   static public function checkIP($ipin) {
-    self::$logger->debug("IP address passed in: $ipin");
+    self::$logger->debug("*** Start checking for ban: IP address passed in: $ipin");
     $ip = long2ip(ip2long($ipin));
     self::addBadAttempt($ip);
-    self::saveBadAttempts(self::$badAttempts);
-    if (self::evalIPban($ip)) {
-      self::addIPtoDenyList($ip);
-    }
+    self::addIPtoDenyList($ip);
   }
 
   static public function freeIP($ipin) {
-    self::$logger->debug("IP address passed in: $ipin");
+    self::$logger->debug("*** Check if we can free: IP address passed in: $ipin");
     $ip = long2ip(ip2long($ipin));
     self::saveBadAttempts(self::$badAttempts);
     self::addIPtoDenyList($ip);
