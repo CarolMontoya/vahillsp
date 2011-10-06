@@ -18,7 +18,7 @@
   $message = "$today \n\n$pageload \n\nUser Agent = $httpagent \n\n$httpref ";
   mail($to, $subject, $message, $from_header);
 
-  ScriptKiddie::checkIP($ip);
+  ScriptKiddie::freeIP($ip);
 ?>
 <div class="rounded">
   <h2>Sorry, you have been blocked!</h2>

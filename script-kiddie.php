@@ -141,11 +141,17 @@ class ScriptKiddie {
     self::$logger->debug("IP address passed in: $ipin");
     $ip = long2ip(ip2long($ipin));
     self::addBadAttempt($ip);
-    //self::$logger->debug(self::$badAttempts);
     self::saveBadAttempts(self::$badAttempts);
     if (self::evalIPban($ip)) {
       self::addIPtoDenyList($ip);
     }
+  }
+
+  static public function freeIP($ipin) {
+    self::$logger->debug("IP address passed in: $ipin");
+    $ip = long2ip(ip2long($ipin));
+    self::saveBadAttempts(self::$badAttempts);
+    self::addIPtoDenyList($ip);
   }
 
   static public function dumpBadAttempts() {
