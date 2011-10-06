@@ -13,7 +13,6 @@ allow from all
 </Limit>
 <Limit PUT DELETE>
 order deny,allow
-deny from all
 </Limit>
 AuthName www.vahillspool.org
 AuthUserFile /home/vahillsp/public_html/_vti_pvt/service.pwd
@@ -143,11 +142,6 @@ RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
 RewriteRule ^images\/TidalWave2007\.jpg$ "http\:\/\/www\.vahillspool\.org\/images\/TW2007TeamPic\.jpg" [R=301,L]
 
 # insert denies here
-deny from 0.0.0.0
-deny from 192.168.1.2
-deny from 192.168.1.1
-Deny from 209.126.222.75
-#Deny from 98.169.215.67
 
 <Directory "css">
   <Files "vahillspool.css">

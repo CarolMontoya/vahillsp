@@ -2,7 +2,7 @@
 
 date_default_timezone_set('America/New_York');
 require_once dirname(__FILE__).'/log4php/Logger.php';
-Logger::configure(dirname(__FILE__).'/resources/appender_rollingfile.properties');
+Logger::configure(dirname(__FILE__).'/resources/log4php.properties');
 
 /**
  * Class to manage IP bans in .htaccess automatically
@@ -93,13 +93,21 @@ class ScriptKiddie {
     $htaccess = file(self::HTACCESS);
     $cnt = 0;
     $insertPoint = 0;
+    $alreadyThere = false;
 
     self::$logger->debug("Adding IP $ip to " . self::HTACCESS);
     foreach ($htaccess as $key => $line) {
       self::$logger->trace("$cnt: $line");
-      if (preg_match("/^deny from " . $ip . "/", $line)) {
-        self::$logger->info("Deny already in " . self::HTACCESS . " at line $cnt");
-        return;
+      if (preg_match("/^deny from (.*)$/", $line, $ipMatch)) {
+        if ($ipMatch[1] == $ip) {
+          self::$logger->info("Deny already in " . self::HTACCESS . " at line $cnt");
+          $alreadyThere = true;
+          // need to keep processing file to make sure we remove old bans, otherwise we could return here
+        }
+        if (empty(self::$badAttempts[$ipMatch[1]])) {
+          // no entries exist for this IP, we can remove it from the file
+          continue;
+        }
       } 
       if (preg_match("/^# insert denies here/", $line)) {
         $insertPoint = $cnt;
@@ -112,7 +120,10 @@ class ScriptKiddie {
       $insertPoint = $cnt;
       self::$logger->debug("No specific insert point found, adding line at and of " . self::HTACCESS . " (line $insertPoint)");
     }
-    array_splice($result, $insertPoint + 1, 0, array("deny from " . $ip . "\n"));
+    if (!$alreadyThere) {
+      array_splice($result, $insertPoint + 1, 0, array("deny from " . $ip . "\n"));
+      self::$logger->info("Added IP $ip to line $insertPoint in " . self::HTACCESS);
+    }
     if (self::$logger->isEnabledFor(LoggerLevel::getLevelTrace())) {
       self::$logger->trace("Result array:\n" . print_r($result, true));
     }
@@ -124,7 +135,6 @@ class ScriptKiddie {
       }
     }
     fclose($fh);
-    self::$logger->info("Added IP $ip to line $insertPoint in " . self::HTACCESS);
   }
 
   static public function checkIP($ipin) {
