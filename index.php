@@ -80,9 +80,11 @@
           Afternoon swim practices through June 24
         </li>
         <?php } ?>
+        <?php if(strtotime("2011-09-06") - time() > 0) { ?>
         <li>
           Baby Pool opens 10:00 a.m. DAILY (except Sundays)
         </li>
+        <?php } ?>
       </ul>
     </div>
     <div class="collage-blurb">

@@ -1,14 +1,14 @@
-
 RewriteEngine on
 # Use PHP5 as default
 AddHandler application/x-httpd-php5 .php .htm .html .shtml
-# -FrontPage-
 
 IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
 
 <Limit GET POST>
-order deny,allow
-deny from all
+#The next line modified by DenyIP
+order allow,deny
+#The next line modified by DenyIP
+#deny from all
 allow from all
 </Limit>
 <Limit PUT DELETE>
@@ -113,6 +113,7 @@ RewriteRule ^TWBlog$ "http\:\/\/blog\.vahillspool\.org\/" [R=301,L]
 RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
 RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
 RewriteRule ^TWBlog\/?$ "http\:\/\/blog\.vahillspool\.org\/" [R=301,L]
+
 RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
 RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
 RewriteRule ^adultsocials\.html$ "http\:\/\/www\.vahillspool\.org\/adult\-socials\.php" [R=301,L]
@@ -125,16 +126,58 @@ RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
 RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
 RewriteRule ^swim\-team$ "http\:\/\/www\.vahillspool\.org\/swim\-team\.php" [R=301,L]
 
-RewriteCond %{HTTP_HOST} ^.*$
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
 RewriteRule ^docs\/swimteam$ "http\:\/\/www\.vahillspool\.org\/swim\-team\.php" [R=301,L]
 
-RewriteCond %{HTTP_HOST} ^.*$
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
 RewriteRule ^swim\%E2\%80\%90team\.php$ "http\:\/\/www\.vahillspool\.org\/swim\-team\.php" [R=301,L]
 
 RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
 RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
 RewriteRule ^swim\%E2\%80\%90team\%E2\%80\%90sched\.php$ "http\:\/\/www\.vahillspool\.org\/swim\-team\-sched\.php" [R=301,L]
 
-RewriteCond %{HTTP_HOST} ^.*$
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
 RewriteRule ^images\/TidalWave2007\.jpg$ "http\:\/\/www\.vahillspool\.org\/images\/TW2007TeamPic\.jpg" [R=301,L]
 
+# insert denies here
+deny from 0.0.0.0
+deny from 192.168.1.2
+deny from 192.168.1.1
+Deny from 209.126.222.75
+#Deny from 98.169.215.67
+
+<Directory "css">
+  <Files "vahillspool.css">
+    Order Deny,Allow
+    Allow from all
+  </Files>
+</Directory>
+<Directory "images">
+  <FilesMatch \.(?i:png|gif|jpe?g)$>
+    Order Deny,Allow
+    Allow from all
+  </Files>
+</Directory>
+<Directory "site">
+  <FilesMatch \.(?i:png|gif|jpe?g)$>
+    Order Deny,Allow
+    Allow from all
+  </FilesMatch>
+</Directory>
+<Directory "js">
+  <Files "jquery.js">
+    Order Deny,Allow
+    Allow from all
+  </Files>
+  <Files "curvycorners.js">
+    Order Deny,Allow
+    Allow from all
+  </Files>
+</Directory>
+<Files "403.shtml">
+  Order Deny,Allow
+  Allow from all
+</Files>
