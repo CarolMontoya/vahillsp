@@ -169,4 +169,8 @@ RewriteRule ^images\/TidalWave2007\.jpg$ "http\:\/\/www\.vahillspool\.org\/image
   Order Deny,Allow
   Allow from all
 </Files>
+<Files "BadAttemptList.txt">
+  Order Allow,Deny
+  Deny from all
+</Files>
 

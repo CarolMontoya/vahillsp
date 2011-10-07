@@ -15,6 +15,7 @@
     <meta name="geo.placename" content="Alexandria, Virginia, United States">
     <meta name="geo.region" content="us-va">
     <meta name="ICBM" content="38.76639;-77.114311">
+    <meta name="google-site-verification" content="oWVHaIbsW3g_HyzkSiUBJT6v3sHc2ECLIO9LSN0zhIE" />
     <link rel="stylesheet" href="<?php echo $root; ?>/css/vahillspool.css" type="text/css" media=
     "screen">
     <script type="text/JavaScript" src="<?php echo $root; ?>/js/curvycorners.js"></script>
@@ -23,6 +24,7 @@
 
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-9635197-1']);
+      _gaq.push(['_setDomainName', 'vahillspool.org']);
       _gaq.push(['_trackPageview']);
 
       (function() {
