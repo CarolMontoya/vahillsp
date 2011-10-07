@@ -1,9 +1,11 @@
+            <div class="center rounded">
+              <div class="g-plusone" data-size="small" data-annotation="inline" data-width="180"></div>
+            </div>
           </div>
         </div>
       </div>
       <div id="ft">
         <div class="center rounded bubbles-small">
-          <div class="g-plusone" data-size="small" data-annotation="inline" data-width="180"></div>
           <div class="footer rounded">
             <address>
               Virginia Hills Swim Club ■ <a class="c8"
