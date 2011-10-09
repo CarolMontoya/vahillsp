@@ -113,7 +113,6 @@ class ScriptKiddie {
           if ($ipMatch[1] == $ip) {
             self::$logger->info("Deny for IP $ipMatch[1] already in " . self::HTACCESS . " at line $cnt");
             $alreadyThere = true;
-            $needsUpdate = true;
           }
           // need to keep processing file to make sure we remove old bans, otherwise we could return here
         }
@@ -132,6 +131,7 @@ class ScriptKiddie {
     if (!$alreadyThere && self::evalIPban($ip)) {
       array_splice($result, $insertPoint + 1, 0, array("deny from " . $ip . "\n"));
       self::$logger->info("Added IP $ip to line $insertPoint in " . self::HTACCESS);
+      $needsUpdate = true;
     }
     if (self::$logger->isEnabledFor(LoggerLevel::getLevelTrace())) {
       self::$logger->trace("Result array:\n" . print_r($result, true));
