@@ -98,6 +98,7 @@ class ScriptKiddie {
     $cnt = 0;
     $insertPoint = 0;
     $alreadyThere = false;
+    $needsUpdate = false;
 
     self::$logger->debug("Checking IP $ip in " . self::HTACCESS);
     foreach ($htaccess as $key => $line) {
@@ -106,11 +107,13 @@ class ScriptKiddie {
         if (!self::evalIPban($ipMatch[1])) {
           // no entries exist for this IP, we can remove it from the file
           self::$logger->info("Removing ban for $ipMatch[1]");
+          $needsUpdate = true;
           continue;
         } else {
           if ($ipMatch[1] == $ip) {
             self::$logger->info("Deny for IP $ipMatch[1] already in " . self::HTACCESS . " at line $cnt");
             $alreadyThere = true;
+            $needsUpdate = true;
           }
           // need to keep processing file to make sure we remove old bans, otherwise we could return here
         }
@@ -133,14 +136,17 @@ class ScriptKiddie {
     if (self::$logger->isEnabledFor(LoggerLevel::getLevelTrace())) {
       self::$logger->trace("Result array:\n" . print_r($result, true));
     }
-    $fh = fopen(self::HTACCESS, "w");
-    foreach ($result as $line) {
-      if (!fwrite($fh, $line)) {
-        self::$logger->error("Could not write " . self::HTACCESS);
-        break;
+    // Only update .htaccess if it needs it, otherwise web server has to reload it each time
+    if ($needsUpdate) {
+      $fh = fopen(self::HTACCESS, "w");
+      foreach ($result as $line) {
+        if (!fwrite($fh, $line)) {
+          self::$logger->error("Could not write " . self::HTACCESS);
+          break;
+        }
       }
+      fclose($fh);
     }
-    fclose($fh);
   }
 
   static public function checkIP($ipin) {
