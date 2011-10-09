@@ -157,7 +157,7 @@ RewriteRule ^images\/TidalWave2007\.jpg$ "http\:\/\/www\.vahillspool\.org\/image
   <FilesMatch \.(?i:png|gif|jpe?g)$>
     Order Deny,Allow
     Allow from all
-  </Files>
+  </FilesMatch>
 </Directory>
 <Directory "site">
   <FilesMatch \.(?i:png|gif|jpe?g)$>
