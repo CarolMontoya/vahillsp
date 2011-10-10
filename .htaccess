@@ -165,6 +165,10 @@ RewriteRule ^images\/TidalWave2007\.jpg$ "http\:\/\/www\.vahillspool\.org\/image
     Allow from all
   </FilesMatch>
 </Directory>
+<Directory "iwghw">
+  Order Allow,Deny
+  Deny from all
+</Directory>
 <Files "403.shtml">
   Order Deny,Allow
   Allow from all
