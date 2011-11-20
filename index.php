@@ -45,6 +45,11 @@
     </div>
     <div class="collage-header">
       <ul class="collage-links">
+        <?php if(strtotime("2011-11-18") - time() < 0 && strtotime("2012-03-29") - time() > 0) { ?>
+        <li>
+          <a href="winter-swim-2012.php">Winter Swim is On - click here for more infos!</a>
+        </li>
+        <?php } ?>
         <?php if(strtotime("2011-09-06") - time() < 0) { ?>
         <li class="red">
           Pool is closed for the winter - see you next year!
