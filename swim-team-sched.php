@@ -4,7 +4,7 @@ $siteTitle = "Swim Team Schedule 2011";
 include_once "header.inc";
 ?>
 <style type="text/css" title="currentStyle">
-  @import "css/data-table.css";
+  @import "css/data-table.min.css";
   #doc {
     margin:auto;text-align:left; /* leave unchanged */
     width:65em;/* 950px non-IE */
