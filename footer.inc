@@ -42,5 +42,19 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
       })();
     </script>
+    <!-- Start of StatCounter Code for Default Guide -->
+    <script type="text/javascript">
+      var sc_project=7455206; 
+      var sc_invisible=1; 
+      var sc_security="3236c735"; 
+    </script>
+    <script type="text/javascript"
+      src="http://www.statcounter.com/counter/counter.js"></script>
+      <noscript><div class="statcounter"><a title="tumblr
+      counter" href="http://statcounter.com/tumblr/"
+      target="_blank"><img class="statcounter"
+      src="http://c.statcounter.com/7455206/0/3236c735/1/"
+      alt="tumblr counter"></a></div></noscript>
+    <!-- End of StatCounter Code for Default Guide -->
   </body>
 </html>
