@@ -31,23 +31,22 @@
           <div class="yui-g">
             <div class="yui-u">
               <h3>
-                Board Members (2011)
+                Board of Directors <?php echo date('Y'); ?>
               </h3>
               <p>
                 <em>President:</em> Mike Jurkowski<br>
-                <em>Vice-President</em>: David Kolo<br>
-                <em>Secretary</em>: Jim Dobson<br>
-                <em>Treasurer:</em> Bernie Tabarini<br>
-                <em>Asst. Sec-Treasurer</em>: Cindy Travia<br>
+                <em>Vice-President</em>: Jim Norvell<br>
+                <em>Secretary</em>: Melissa Smrz<br>
+                <em>Treasurer:</em> Cindy Travia<br>
+                <em>Asst. Sec-Treasurer</em>: <br>
+                <em>Member-at-large</em>: Paula Dillard<br>
                 <em>Member-at-large</em>: Lloyd Dugan<br>
-                <em>Member-at-large</em>: O. D. Easterday<br>
-                <em>Member-at-large</em>: Caitlin Irvin<br>
+                <em>Member-at-large</em>: Mark Luther<br>
                 <em>Member-at-large</em>: Kim Muelbauer<br>
-                <em>Member-at-large</em>: Rob Niblock<br>
-                <em>Member-at-large</em>: Jim Norvell<br>
-                <em>Member-at-large</em>: Melissa Smrz<br>
+                <em>Member-at-large</em>: Norman Speicher<br>
                 <em>Member-at-large</em>: Suzy Thompson<br>
-                <em>Ex Officio/Swim Team</em>: Sarah Kolo
+                <em>Member-at-large</em>: Jerry Walsh<br>
+                <em>Ex Officio/Swim Team</em>: Jan Inguatiato
               </p>
             </div>
             <div class="yui-u first">
@@ -64,11 +63,11 @@
           <p>
             <em>Membership and Marketing</em>: Mike Jurkowski,
             Chair<br>
-            <em>Finance</em>: Bernie Tabarini, Chair<br>
+            <em>Finance</em>: Cindy Travia, Chair<br>
             <em>Operations</em>: Suzy Thompson, Chair<br>
-            <em>Facilities</em>: David Kolo, Chair<br>
+            <em>Facilities</em>: Chair Vacant<br>
             <em>Social</em>: Chair Vacant<br>
-            <em>Swim Team</em>: Sarah Kolo, Chair<br>
+            <em>Swim Team</em>: Jan Inguatiato<br>
           </p>
 </div>
 <?php include_once "footer.inc"; ?>

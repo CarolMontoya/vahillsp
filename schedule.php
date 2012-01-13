@@ -7,13 +7,13 @@
   <div class="yui-g">
     <div class="yui-u first">
       <h2>
-        Hours (2011)
+        Hours (<?php echo date('Y'); ?>)
       </h2>
       <h4>
         Hours of operation:
       </h4>
       <p>
-        <b>Opening Day 2011 is Saturday, May 28.</b>
+        <b>Opening Day <?php echo date('Y'); ?> is <?php echo date('l, F j', strtotime("last Saturday", mktime(0, 0, 0, 6, 1, date('Y')))); ?>.</b>
       </p>
       <p>
         Noon to 8 p.m. daily
@@ -29,14 +29,16 @@
         On Wednesdays in July and August, the pool is
         open until 9 p.m. for raft nights.
       </p>
-      <p>
-        Closed Monday evenings at 5 pm on June 27, 
-        July 11, and July 18 for swim meets.
-      </p>
     </div>
     <div class="yui-u">
       <h2>
-        <a href="2011Calendar.pdf">2011 Calendar</a>
+        <a href="<?php
+          if (file_exists(date('Y') . "Calendar.pdf")) {
+            echo date('Y') . "Calendar.pdf";
+          } else {
+            echo "javascript:alert('Coming soon!');";
+          }
+        ?>"><?php echo date('Y'); ?> Calendar</a>
       </h2>
       <img src="images/kids.jpg"
         width="266"
@@ -58,7 +60,7 @@
     providing an atmosphere for relaxation, it also
     offers a broad range of activities for its
     members. A tentative list of special activities
-    planned for the 2011 season follows. Notices
+    planned for the <?php echo date('Y'); ?> season follows. Notices
     will be placed at the pool and e-mails sent to
     members during the season confirming these
     events:
@@ -66,7 +68,7 @@
   <table class="events">
     <tr>
       <th>
-        <a name="independence-day"></a>Monday, July 4th, 2011 &ndash;
+        <a name="independence-day"></a><?php echo date('l, F jS, Y', strtotime(date('Y').'-07-04')); ?> &ndash;
       </th>
       <td>
         <a href="4th-july.php">Fourth of July party!</a> Chip in - contact <a href="mailto:&#109;&#105;&#116;&#99;&#104;&#101;&#108;&#108;&#97;&#110;&#100;&#115;&#117;&#122;&#121;&#64;&#106;&#117;&#110;&#111;&#46;&#99;&#111;&#109;">Suzy Thompson</a>
