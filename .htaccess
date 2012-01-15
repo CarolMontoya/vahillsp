@@ -1,6 +1,6 @@
 RewriteEngine on
 # Use PHP5 as default
-AddHandler application/x-httpd-php5 .php .htm .html .shtml
+# AddHandler application/x-httpd-php5 .php .htm .html .shtml
 
 IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
 
@@ -141,36 +141,22 @@ RewriteRule ^images\/TidalWave2007\.jpg$ "http\:\/\/www\.vahillspool\.org\/image
 
 # insert denies here
 
-<Directory "css">
-  <Files "vahillspool.css">
-    Order Deny,Allow
-    Allow from all
-  </Files>
-</Directory>
-<Directory "js">
-  <FilesMatch \.(?i:js)$>
-    Order Deny,Allow
-    Allow from all
-  </FilesMatch>
-</Directory>
-<Directory "images">
-  <FilesMatch \.(?i:png|gif|jpe?g)$>
-    Order Deny,Allow
-    Allow from all
-  </FilesMatch>
-</Directory>
-<Directory "site">
-  <FilesMatch \.(?i:png|gif|jpe?g)$>
-    Order Deny,Allow
-    Allow from all
-  </FilesMatch>
-</Directory>
-<Directory "iwghw">
-  <FilesMatch *>
-    Order Allow,Deny
-    Deny from all
-  </FilesMatch>
-</Directory>
+<Files "css/vahillspool.css">
+  Order Deny,Allow
+  Allow from all
+</Files>
+<FilesMatch "js/\.(?i:js)$">
+  Order Deny,Allow
+  Allow from all
+</FilesMatch>
+<FilesMatch \.(?i:png|gif|jpe?g)$>
+  Order Deny,Allow
+  Allow from all
+</FilesMatch>
+<FilesMatch "iwghw/*">
+  Order Allow,Deny
+  Deny from all
+</FilesMatch>
 <Files "403.shtml">
   Order Deny,Allow
   Allow from all

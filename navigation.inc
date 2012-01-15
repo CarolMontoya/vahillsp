@@ -41,7 +41,13 @@
     <li><a href="<?php echo $root; ?>/index.php"><span>Home</span></a></li>
     <li><a href="<?php echo $root; ?>/location.php"><span>Location</span></a></li>
     <li><a href="<?php echo $root; ?>/schedule.php"><span>Hours &amp; Events</span></a></li>
-    <li><a href="<?php echo $root; ?>/2011Calendar.pdf"><span>2011 Calendar</span></a></li>
+    <li><a href="<?php
+          if (file_exists(date('Y') . "Calendar.pdf")) {
+            echo $root . '/' . date('Y') . "Calendar.pdf";
+          } else {
+            echo "javascript:alert('Coming soon!');";
+          }
+        ?>"><span><?php echo date('Y'); ?> Calendar</span></a></li>
     <li><a href="<?php echo $root; ?>/membership.php"><span>Membership &amp; Fees</span></a></li>
     <li><a href="<?php echo $root; ?>/members.php"><span class="highlight">Members</span></a></li>
     <li><a href="<?php echo $root; ?>/swim-team.php"><span>Swim Team</span></a></li>

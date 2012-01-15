@@ -41,7 +41,7 @@
            usemap="#main-collage-map">
     </div>
     <div class="image-title">
-      Virginia Hills Pool: Welcome to the 2011 season
+      Virginia Hills Pool: Welcome to the <?php echo date('Y'); ?> season
     </div>
     <div class="collage-header">
       <ul class="collage-links">

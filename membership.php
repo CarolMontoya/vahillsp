@@ -60,7 +60,7 @@
           <table class="dues">
             <tr>
               <th colspan="2">
-                Share Membership (2011)
+                Share Membership (<?php echo date('Y'); ?>)
               </th>
             </tr>
             <tr>
@@ -89,7 +89,7 @@
             </tr>
             <tr>
               <th colspan="2">
-                Associate Membership (2011)
+                Associate Membership (<?php echo date('Y'); ?>)
               </th>
             </tr>
             <tr>
@@ -189,7 +189,7 @@
             members, who are the shareholders in the Club. To
             become a member, either a family or single, pay a
             one-time fee to purchase a share. The share price 
-            for the 2011 season will be <strong>$500</strong>. New
+            for the <?php echo date('Y'); ?> season will be <strong>$500</strong>. New
             shareholders can pay this amount all at once, or make
             a down payment on the share and membership dues with
             the balance paid in increments through the Club's easy
@@ -209,10 +209,10 @@
           <p>
             Shareholders are required to pay membership fees 
             before the start of every season. The due date
-            for 2011 fees is May 8, 2011. The membership
-            fee for Family Membership in 2011 is
+            for <?php echo date('Y'); ?> fees is <?php echo date('F j, Y', strtotime("first Sunday", mktime(0, 0, 0, 5, 1, date('Y')))); ?>. The membership
+            fee for Family Membership in <?php echo date('Y'); ?> is
             <strong>$525</strong>. The membership fee for a 
-            Single Membership in 2011 is <strong>$280</strong>. Payments may
+            Single Membership in <?php echo date('Y'); ?> is <strong>$280</strong>. Payments may
             be spaced out in advance of that date. New members
             should also pay seasonal dues. New members whose
             households include extended family members should
@@ -237,7 +237,7 @@
             The Virginia Hills Club also welcomes military
             families, who only may be in our community for a few
             years. The membership fee for an Active Duty Military 
-            Membership in 2011 is <strong>$525</strong> (no share 
+            Membership in <?php echo date('Y'); ?> is <strong>$525</strong> (no share 
             purchase). This benefit can be used for two consecutive 
             seasons. If a duty tour is extended or is expected to 
             last for more than two swim seasons, active duty personnel 
