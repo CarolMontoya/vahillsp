@@ -151,7 +151,7 @@ class ScriptKiddie {
 
   static public function checkIP($ipin) {
     self::$logger->debug("*** Start checking for ban: IP address passed in: $ipin");
-    self::$logger->info("IP $ipin attempted to load resource " + print_r($_REQUEST));
+    self::$logger->info("IP $ipin attempted to load resource " + print_r($_REQUEST, true));
     $ip = long2ip(ip2long($ipin));
     self::addBadAttempt($ip);
     self::addIPtoDenyList($ip);
