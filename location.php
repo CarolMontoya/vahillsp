@@ -107,7 +107,7 @@ include_once "header.inc";
     Phone
   </h4>
   <p>
-    The phone in the guard shack: (703) 960-9717.
+    The phone in the guard shack: (703) 329-2360.
   </p>
 </div>
 <?php include_once "footer.inc"; ?>
