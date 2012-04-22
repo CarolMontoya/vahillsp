@@ -12,6 +12,10 @@ include_once "header.inc";
     min-width:600px;/* optional but recommended */
   }
 </style>
+<div class="rounded">
+  <h2 class="announce">Coming soon!</h2>
+</div>
+<!-- 
 <?php if(strtotime("2011-06-24") - time() >= -86400) { ?>
 <div class="rounded">
   <h2 class="announce">Important schedule change</h2>
@@ -38,7 +42,6 @@ include_once "header.inc";
   </ul>
   <h5>Practice Schedule 2011</h5>
   <table width="90%" border="1" align="center">
-  <!--
     <tr>
       <td></td>
       <th>Ages 8 and under</th>
@@ -75,7 +78,6 @@ include_once "header.inc";
       <td colspan="2">6:00 - 6:45 pm</td>
       <td>7:00 - 8:00 pm</td>
     </tr>
-  -->
     <tr>
       <td></td>
       <th>"Ripples"</th>
@@ -280,5 +282,5 @@ $(document).ready(function() {
   } );
 } );
 </script>
-
+ -->
 <?php include_once "footer.inc"; ?>

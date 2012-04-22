@@ -50,9 +50,16 @@
           <a href="winter-swim-2012.php">Winter Swim is On - click here for more infos!</a>
         </li>
         <?php } ?>
+<!-- 
         <?php if(strtotime("2011-09-06") - time() < 0) { ?>
         <li class="red">
           Pool is closed for the winter - see you next year!
+        </li>
+        <?php } ?>
+ -->
+        <?php if(strtotime("2012-05-26") - time() > 0) { ?>
+        <li class="red">
+          <a href="http://vahillspool.org/membership.php">Pool Opens May 26 - Sign up now!</a>
         </li>
         <?php } ?>
         <?php if(strtotime("2011-08-21") - time() > 0) { ?>
@@ -103,6 +110,7 @@
     </div>
   </div>
 </div>
+<!--
 <div class="rounded">
   <h2>Early Closings</h2>
   <p>Below is a list of the dates where the pool will close outside of
@@ -117,7 +125,8 @@
     }
   ?>
   </ul>
-</div>  
+</div>
+-->  
 <div class="rounded">
   <p align="center">
     <img src="images/site/tidalwave50years.png" alt="Tidal Wave 50 year anniversary">
