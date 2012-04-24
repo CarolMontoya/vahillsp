@@ -57,6 +57,11 @@
         </li>
         <?php } ?>
  -->
+        <?php if(strtotime("2012-05-26") - time() < 0) { ?>
+        <li>
+          <a href="http://vahillspool.org/membership.php">Pool is Open - Sign up now!</a>
+        </li>
+        <?php } ?>
         <?php if(strtotime("2012-05-26") - time() > 0) { ?>
         <li class="red">
           <a href="http://vahillspool.org/membership.php">Pool Opens May 26 - Sign up now!</a>
