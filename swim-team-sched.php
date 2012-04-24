@@ -1,6 +1,6 @@
 <?php
 global $siteTitle;
-$siteTitle = "Swim Team Schedule 2011";
+$siteTitle = "Swim Team Schedule 2012";
 include_once "header.inc";
 ?>
 <style type="text/css" title="currentStyle">
@@ -12,9 +12,11 @@ include_once "header.inc";
     min-width:600px;/* optional but recommended */
   }
 </style>
+<!-- 
 <div class="rounded">
   <h2 class="announce">Coming soon!</h2>
 </div>
+ -->
 <!-- 
 <?php if(strtotime("2011-06-24") - time() >= -86400) { ?>
 <div class="rounded">
@@ -26,13 +28,15 @@ include_once "header.inc";
   <p>Next week we move as planned to morning practices every day and afternoon practices Tuesday and Thursday.</p>
 </div>
 <?php } ?>
+-->
 <div class="rounded">
 
   <h2>Swim Team Schedule</h2>
   <p align="center"><img src="images/swteam1.jpg" width="365" height="274" alt="Swimmers at the start"></p>
-  <h3>2011 Tidal Wave Schedule<br>
+  <h3>2012 Tidal Wave Schedule<br>
   Division 17</h3>
-  <h4>Important Dates in 2011</h4>
+<!--
+  <h4>Important Dates in 2012</h4>
   <ul>
     <li><em>Saturday, May 14, 4:00 pm</em> Kick-off Meeting/Ice Cream Social</li>
     <li><em>Tuesday, May 31, 6:00 pm</em> Orientation meeting for parents new to swim team</li>
@@ -40,7 +44,7 @@ include_once "header.inc";
     <li><em>Friday, June 24, 6:00 pm</em> Spaghetti dinner</li>
     <li><em>Saturday, July 30, 6:00 pm</em> End of season banquet</li>
   </ul>
-  <h5>Practice Schedule 2011</h5>
+  <h5>Practice Schedule 2012</h5>
   <table width="90%" border="1" align="center">
     <tr>
       <td></td>
@@ -99,7 +103,8 @@ include_once "header.inc";
       <td>7:00 - 8:00pm</td>
     </tr>
   </table>
-  <h5>Meet Schedule</h5>
+ -->  
+ <h5>Meet Schedule</h5>
   <p>Details will be posted each week for upcoming events.  Saturday "A" Meets typically run from 8:00 am (warm-ups) to 11:30 am.  Monday "B" Meets typically run from 
 5:00 pm (warm-ups) to 8:30 pm.</p>
   <ul>
@@ -120,7 +125,7 @@ include_once "header.inc";
     </thead>
     <tbody>
       <tr>
-        <td>June 18</td>
+        <td>June 16</td>
         <td>Time Trials at Highland Park</td>
         <td>N/A</td>
         <td>AWAY</td>
@@ -129,27 +134,45 @@ include_once "header.inc";
         <td>N/A</td>
       </tr>
       <tr>
-        <td>June 20</td>
+        <td>June 18</td>
         <td>B meet</td>
-        <td>Stratford Rec Assn</td>
-        <td>AWAY</td>
+        <td>Holin Meadows</td>
+        <td>HOME</td>
         <td></td>
         <td>N/A</td>
         <td>N/A</td>
       </tr>
       <tr>
-        <td>June 25</td>
-        <td>A meet</td>
-        <td>Somerset Olde Creek</td>
-        <td>AWAY</td>
-        <td><a href="docs/swim-team-results/2011-06-25-SOC-improvement.pdf">Improvements</a></td>
-        <td class="nobr"><a href="docs/swim-team-results/2011-06-25-SOC-results3column.pdf">170-226</a></td>
-        <td>L</td>
+        <td>June 22</td>
+        <td>Fun!</td>
+        <td>Spaghetti Dinner</td>
+        <td>HOME</td>
+        <td></td>
+        <td class="nobr"></td>
+        <td></td>
       </tr>
       <tr>
-        <td>June 27</td>
+        <td>June 23</td>
+        <td>A meet</td>
+        <td>Pinewood</td>
+        <td>AWAY</td>
+        <td></td>
+        <td class="nobr"></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>June 25</td>
         <td>B meet</td>
         <td>Little Hunting Park</td>
+        <td>AWAY</td>
+        <td></td>
+        <td class="nobr"></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>June 30</td>
+        <td>A meet</td>
+        <td>Ben Mar Edsall Park</td>
         <td>HOME</td>
         <td></td>
         <td></td>
@@ -157,69 +180,60 @@ include_once "header.inc";
       </tr>
       <tr>
         <td>July 2</td>
-        <td>A meet</td>
-        <td>Broyhill Crest</td>
+        <td>B meet</td>
+        <td>Highland Park</td>
         <td>AWAY</td>
-        <td><a href="docs/swim-team-results/2011-07-02-BRC-improvement.pdf">Improvements</a></td>
-        <td class="nobr"><a href="docs/swim-team-results/2011-07-02-BRC-results3column.pdf">214-182</a></td>
-        <td>W</td>
+        <td></td>
+        <td class="nobr"></td>
+        <td></td>
       </tr>
       <tr>
         <td>July 4</td>
-        <td>B meet</td>
-        <td>Highland Park</td>
-        <td>HOME</td>
-        <td><strong>9am!</strong></td>
+        <td>IM</td>
+        <td>Possible IM Meet at Hayfield</td>
+        <td>AWAY</td>
         <td></td>
+        <td class="nobr"></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>July 7</td>
+        <td>A Meet</td>
+        <td>Springfield - Campout</td>
+        <td>HOME</td>
+        <td></td>
+        <td class="nobr"></td>
         <td></td>
       </tr>
       <tr>
         <td>July 9</td>
-        <td>A meet</td>
-        <td>Springfield SRC</td>
-        <td>HOME</td>
-        <td></td>
-        <td>274-121</td>
-        <td>W</td>
-      </tr>
-      <tr>
-        <td>July 11</td>
         <td>B meet</td>
         <td>Lorton Station</td>
         <td>HOME</td>
         <td></td>
-        <td></td>
+        <td class="nobr"></td>
         <td></td>
       </tr>
       <tr>
-        <td>July 13</td>
-        <td>Division Relay Carnival</td>
-        <td>Springfield SRC</td>
+        <td>July 11</td>
+        <td>Relay Carnival</td>
+        <td>Ben Mar Edsall Park</td>
         <td>AWAY</td>
         <td></td>
+        <td class="nobr"></td>
         <td></td>
+      </tr>
+      <tr>
+        <td>July 14</td>
+        <td>A meet</td>
+        <td>Broyhill Crest</td>
+        <td>AWAY</td>
+        <td></td>
+        <td class="nobr"></td>
         <td></td>
       </tr>
       <tr>
         <td>July 16</td>
-        <td>A meet</td>
-        <td>Pinewood</td>
-        <td>HOME</td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>July 17</td>
-        <td>Relay Championship Meet</td>
-        <td>TBA</td>
-        <td>TBA</td>
-        <td>only for qualifying relay teams</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>July 18</td>
         <td>B meet</td>
         <td>Hayfield</td>
         <td>HOME</td>
@@ -228,30 +242,30 @@ include_once "header.inc";
         <td></td>
       </tr>
       <tr>
-        <td>July 23</td>
-        <td>A meet</td>
-        <td>Bren Mar-Edsall Park</td>
-        <td>HOME</td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>July 25</td>
-        <td>IM Invitational</td>
-        <td>TBA</td>
-        <td>TBA</td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>July 30</td>
-        <td>Divisionals</td>
-        <td>Broyhill Crest</td>
+        <td>July 21</td>
+        <td>A Meet</td>
+        <td>North Springfield</td>
         <td>AWAY</td>
         <td></td>
+        <td class="nobr"></td>
         <td></td>
+      </tr>
+      <tr>
+        <td>July 23</td>
+        <td>IM Invitational?</td>
+        <td>TBA</td>
+        <td>TBA</td>
+        <td></td>
+        <td class="nobr"></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>July 28</td>
+        <td>Divisionals</td>
+        <td>Pinewood</td>
+        <td>AWAY</td>
+        <td></td>
+        <td class="nobr"></td>
         <td></td>
       </tr>
     </tbody>
@@ -282,5 +296,4 @@ $(document).ready(function() {
   } );
 } );
 </script>
- -->
 <?php include_once "footer.inc"; ?>

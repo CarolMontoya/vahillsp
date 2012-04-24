@@ -7,83 +7,114 @@
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-  <loc>http://www.vahillspool.org/</loc>
+  <loc>http://vahillspool.org/</loc>
   <changefreq>weekly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/index.php</loc>
+  <loc>http://vahillspool.org/index.php</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/location.php</loc>
+  <loc>http://vahillspool.org/location.php</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/schedule.php</loc>
+  <loc>http://vahillspool.org/schedule.php</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/membership.php</loc>
+  <loc>http://vahillspool.org/membership.php</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/swim-team.php</loc>
+  <loc>http://vahillspool.org/members.php</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/board.php</loc>
+  <loc>http://vahillspool.org/swim-team.php</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/rentals.php</loc>
+  <loc>http://vahillspool.org/swim-team-sched.php</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/project.php</loc>
+  <loc>http://vahillspool.org/board.php</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/WinterSwim2009_10.pdf</loc>
+  <loc>http://vahillspool.org/rentals.php</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/2011Calendar.pdf</loc>
+  <loc>http://vahillspool.org/project.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://vahillspool.org/4th-july.php</loc>
   <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/plans.php</loc>
+  <loc>http://vahillspool.org/plans.php</loc>
   <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/Rules.pdf</loc>
+  <loc>http://vahillspool.org/docs/General%20Rules%20and%20Regulations%20Virginia%20Hills%20Pool.pdf</loc>
+  <lastmod>2011-05-03T03:12:29+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/season.php</loc>
+  <loc>http://vahillspool.org/docs/2012%20January%20Statement%20&amp;%20Invoice%20Info%20Sheet.pdf</loc>
+  <lastmod>2012-01-16T14:47:42+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/swim-team-101.php</loc>
+  <loc>http://vahillspool.org/docs/2012%20Member%20Payment%20Coupons%20-%20Family.pdf</loc>
+  <lastmod>2012-01-15T19:52:58+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.vahillspool.org/pressrelease.php</loc>
+  <loc>http://vahillspool.org/docs/2012%20Member%20Payment%20Coupons%20-%20Single.pdf</loc>
+  <lastmod>2012-01-15T19:52:58+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://vahillspool.org/docs/2012%20Gate%20House%20Member%20Emergency%20Form%20&amp;%20Guest%20Passes.docx</loc>
+  <lastmod>2012-01-15T19:52:58+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://vahillspool.org/swim-team-101.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://vahillspool.org/pressrelease.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://vahillspool.org/docs/SwimTeam101.pdf</loc>
+  <lastmod>2011-05-21T17:00:08+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
 </url>
 </urlset>
