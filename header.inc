@@ -18,7 +18,7 @@
     <meta name="google-site-verification" content="oWVHaIbsW3g_HyzkSiUBJT6v3sHc2ECLIO9LSN0zhIE" />
     <link rel="stylesheet" href="<?php echo $root; ?>/css/vahillspool.min.css" type="text/css" media=
     "screen">
-    <script type="text/JavaScript" src="<?php echo $root; ?>/js/curvycorners.js"></script>
+    <!-- <script type="text/JavaScript" src="<?php echo $root; ?>/js/curvycorners.js"></script> -->
     <script type="text/JavaScript" src="<?php echo $root; ?>/js/jquery.js"></script>
     <script type="text/javascript">
 

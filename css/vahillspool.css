@@ -419,6 +419,7 @@ table.meet th {
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
   border-radius: 20px;
+  behavior: url(/css/PIE.php);
 }
 
 .bubbles {
