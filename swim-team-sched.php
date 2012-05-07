@@ -48,8 +48,7 @@ include_once "header.inc";
  -->  
   <h5>Practice Schedule 2012</h5>
 
-  <p>Note that there is NO morning practice until Fairfax County School ends - 
-    morning practice begins June 20.</p>
+  <p>Note that there is NO morning practice until Wednesday, June 20.</p>
 
   <table class="schedule" width="100%">
     <tr>

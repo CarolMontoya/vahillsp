@@ -49,7 +49,7 @@
                 101</strong></a>: learn the basics!
               </li>
 
-              <li>2011 swim season <a href="swim-team-sched.php"><strong>
+              <li>2012 swim season <a href="swim-team-sched.php"><strong>
                 practice and meet schedule online</strong></a>
               </li>
               <li><strong><a href="docs/2012InformationLetter.pdf">Information Letter</a></strong></li>
