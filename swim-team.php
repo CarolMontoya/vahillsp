@@ -48,13 +48,13 @@
                 <a href="swim-team-101.php"><strong>Swim Team
                 101</strong></a>: learn the basics!
               </li>
-<!-- 
+
               <li>2011 swim season <a href="swim-team-sched.php"><strong>
                 practice and meet schedule online</strong></a>
               </li>
-              <li><strong><a href="docs/2011InformationLetter.pdf">Information Letter</a></strong></li>
-              <li><strong><a href="docs/2011RegForm.pdf">Registration Form</a></strong></li>
-              <li><strong><a href="docs/2011AvailabilityForm.pdf">Availability Form</a></strong></li>
+              <li><strong><a href="docs/2012InformationLetter.pdf">Information Letter</a></strong></li>
+              <li><strong><a href="docs/2012SummerRegForm.pdf">Registration Form</a></strong></li>
+<!--               <li><strong><a href="docs/2011AvailabilityForm.pdf">Availability Form</a></strong></li>
               <li><strong><a href="docs/2011VirginiaHillsTShirts.pdf">T-Shirt Form</a></strong></li>
  -->
               <li>Contact <a href=

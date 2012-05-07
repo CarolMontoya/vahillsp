@@ -366,13 +366,27 @@ a[href$=".pdf"] {
 
 table.schedule {
   border-width:1px;
-  border-style:outset;
+  border-style:solid;
+  white-space:nowrap;
 }
 
 table.schedule td {
   text-align:center;
   border-width:1px;
-  border-style:inset;
+  border-style:solid;
+  /*border-style:inset;*/
+  border-color: #000;
+  white-space:nowrap;
+}
+
+table.schedule th {
+  white-space:nowrap;
+  border-width:1px;
+  border-style:solid;
+}
+
+table.schedule th.divider {
+  background: #DDD;
 }
 
 table.schedule td.header {

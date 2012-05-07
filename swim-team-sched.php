@@ -7,8 +7,8 @@ include_once "header.inc";
   @import "css/data-table.min.css";
   #doc {
     margin:auto;text-align:left; /* leave unchanged */
-    width:65em;/* 950px non-IE */
-    *width:64em;/* 950px IE */
+    width:73.0769em;/* 950px non-IE */
+    *width:71.2502em;/* 950px IE */
     min-width:600px;/* optional but recommended */
   }
 </style>
@@ -35,6 +35,7 @@ include_once "header.inc";
   <p align="center"><img src="images/swteam1.jpg" width="365" height="274" alt="Swimmers at the start"></p>
   <h3>2012 Tidal Wave Schedule<br>
   Division 17</h3>
+
 <!--
   <h4>Important Dates in 2012</h4>
   <ul>
@@ -44,45 +45,60 @@ include_once "header.inc";
     <li><em>Friday, June 24, 6:00 pm</em> Spaghetti dinner</li>
     <li><em>Saturday, July 30, 6:00 pm</em> End of season banquet</li>
   </ul>
+ -->  
   <h5>Practice Schedule 2012</h5>
-  <table width="90%" border="1" align="center">
+
+  <p>Note that there is NO morning practice until Fairfax County School ends - 
+    morning practice begins June 20.</p>
+
+  <table class="schedule" width="100%">
     <tr>
       <td></td>
+      <th>New Swimmers</th>
       <th>Ages 8 and under</th>
       <th>Ages 9-12</th>
       <th>Ages 13-18</th>
     </tr>
     <tr>
-      <th colspan="4">May 31 - June 26</th>
+      <th colspan="6" class="divider">May 29 - June 19</th>
     </tr>
     <tr>
       <th>Monday thru Friday<br>Afternoon practice only</th>
+      <td>5:00 - 5:30 pm</td>
       <td>5:30 - 6:15 pm</td>
       <td>6:15 - 7:00 pm</td>
       <td>7:00 - 8:00 pm</td>
     </tr>
     <tr>
-      <td colspan="4"></td>
-    </tr>
-    <tr>
-      <th colspan="4">June 27 - July 29</th>
+      <th colspan="6" class="divider">June 20 - July 29</th>
     </tr>
     <tr>
       <td></td>
+      <th>New Swimmers</th>
       <th colspan="2">Ages 12 and under</th>
       <th>Ages 13-18</th>
     </tr>
     <tr>
       <th>Monday thru Friday<br/>Morning practice</th>
+      <td>10:00 - 10:30 am
       <td colspan="2">9:00 - 10:00 am</td>
       <td>7:45 - 9:00 am</td>
     </tr>
     <tr>
-      <th>Tuesday and Thursday<br>Afternoon practice</th>
-      <td colspan="2">6:00 - 6:45 pm</td>
-      <td>7:00 - 8:00 pm</td>
+      <td></td>
+      <th>New Swimmers</th>
+      <th>Ages 8 and under</th>
+      <th>Ages 9-12</th>
+      <th>Ages 13-18</th>
     </tr>
     <tr>
+      <th>Tuesday, Wednesday and Thursday<br>Afternoon practice*</th>
+      <td>5:00 - 5:30 pm</td>
+      <td>5:30 - 6:15 pm</td>
+      <td>6:15 - 7:00 pm</td>
+      <td>7:00 - 8:00 pm</td>
+    </tr>
+<!--     <tr>
       <td></td>
       <th>"Ripples"</th>
       <th>Ages 8 and under</th>
@@ -102,9 +118,12 @@ include_once "header.inc";
       <td>6:00 - 6:45pm</td>
       <td>7:00 - 8:00pm</td>
     </tr>
-  </table>
  -->  
- <h5>Meet Schedule</h5>
+  </table>
+  <p>* Please note the Tuesday, Wednesday and Thursday afternoon practices are 
+    only for those families who cannot make it to morning practice.</p>
+  
+<h5>Meet Schedule</h5>
   <p>Details will be posted each week for upcoming events.  Saturday "A" Meets typically run from 8:00 am (warm-ups) to 11:30 am.  Monday "B" Meets typically run from 
 5:00 pm (warm-ups) to 8:30 pm.</p>
   <ul>

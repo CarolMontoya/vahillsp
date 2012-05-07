@@ -41,7 +41,7 @@
       <div id="hd">
         <div class="rounded">
           <?php if(strtotime("2012-05-28") - time() > 0) { ?>
-          <iframe style="position:relative; left:580px; margin-bottom:-80px;" src="http://free.timeanddate.com/countdown/i32vfl79/n263/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss1/cac333/cpc333/pct/tcfff/fs100/szw448/szh189/tatPool%20Opening%20in%3A/tac333/tptPool%20is%20open!/tpc333/iso2012-05-26T12:00:00/bac333/pa5" frameborder="0" width="219" height="77"></iframe>
+          <iframe style="position:relative; float:right; margin-bottom:-80px;" src="http://free.timeanddate.com/countdown/i32vfl79/n263/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss1/cac333/cpc333/pct/tcfff/fs100/szw448/szh189/tatPool%20Opening%20in%3A/tac333/tptPool%20is%20open!/tpc333/iso2012-05-26T12:00:00/bac333/pa5" frameborder="0" width="219" height="77"></iframe>
           <?php } ?>
           <a href="index.php">
           <img src="<?php echo $root; ?>/images/header.png" width="800" height="159"
