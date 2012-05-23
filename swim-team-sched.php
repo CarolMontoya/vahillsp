@@ -146,7 +146,7 @@ include_once "header.inc";
         <td>June 16</td>
         <td>Time Trials at Highland Park</td>
         <td>N/A</td>
-        <td>AWAY</td>
+        <td>HOME</td>
         <td></td>
         <td>N/A</td>
         <td>N/A</td>
