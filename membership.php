@@ -18,7 +18,7 @@
             for the cost of the share, only.  
             Please <a href=
             "mailto:&#105;&#110;&#102;&#111;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">contact our president</a>
-            or call (703) 317-5900, and a representative of the
+            or call (703) 329-2360, and a representative of the
             Membership Committee will answer your questions.
           </p>
         <?php } ?>
@@ -43,7 +43,7 @@
             the information here, please 
             <a href=
             "mailto:&#105;&#110;&#102;&#111;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">send a message to us</a>
-            or call (703) 317-5900, and a representative of the
+            or call (703) 329-2360, and a representative of the
             Membership Committee will answer your questions.
           </p>
         </div>

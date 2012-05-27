@@ -57,6 +57,11 @@
         </li>
         <?php } ?>
  -->
+        <?php if(strtotime("2012-06-04") - time() > 0) { ?>
+        <li>
+          <a href="http://vahillspool.org/schedule.php#open-house">Open House June 3</a>
+        </li>
+        <?php } ?>
         <?php if(strtotime("2012-05-26") - time() < 0) { ?>
         <li>
           <a href="http://vahillspool.org/membership.php">Pool is Open - Sign up now!</a>

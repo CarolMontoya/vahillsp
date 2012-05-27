@@ -65,7 +65,9 @@
     members during the season confirming these
     events:
   </p>
+
   <table class="events">
+    <?php if(strtotime("2012-07-05") - time() > 0) { ?>
     <tr>
       <th>
         <a name="independence-day"></a><?php echo date('l, F jS, Y', strtotime(date('Y').'-07-04')); ?> &ndash;
@@ -74,6 +76,18 @@
         <a href="4th-july.php">Fourth of July party!</a> Chip in - contact <a href="mailto:&#109;&#105;&#116;&#99;&#104;&#101;&#108;&#108;&#97;&#110;&#100;&#115;&#117;&#122;&#121;&#64;&#106;&#117;&#110;&#111;&#46;&#99;&#111;&#109;">Suzy Thompson</a>
       </td>
     </tr>
+    <?php } ?>
+    <?php if(strtotime("2012-06-11") - time() > 0) { ?>
+    <tr>
+      <th>
+        <a name="open-house"></a><?php echo date('l, F jS, Y', strtotime('2012-06-03')); ?> &ndash;
+      </th>
+      <td>
+        Open House/Fun Fair - 12:00pm - 4:00pm<br/>
+        Rain date is <?php echo date('l, F jS, Y', strtotime('2012-06-10')); ?> also from 12:00pm - 4:00pm
+      </td>
+    </tr>
+    <?php } ?>
     <tr>
       <th>
         Raft nights &ndash;
