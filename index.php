@@ -139,12 +139,12 @@
 -->  
 <div class="rounded">
   <p align="center">
-    <img src="images/site/tidalwave50years.png" alt="Tidal Wave 50 year anniversary">
+    <img src="images/site/tidalwave50years.png" alt="Tidal Wave 50 year anniversary" width="400px" height="372px">
   </p>
   <h2>Congrats Tidal Wave!</h2>
   <p>
-    The swim team was founded in 1961, so we're celebrating our 50th
-    anniversary this year - can you believe it? Congrats to everyone
+    The swim team was founded in 1961, so we celebrated our 50th
+    anniversary last year - can you believe it? Congrats to everyone
     and here's to another 50 years!
   </p>
 </div>
