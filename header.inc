@@ -21,6 +21,7 @@
     "screen">
     <!-- <script type="text/JavaScript" src="<?php echo $root; ?>/js/curvycorners.js"></script> -->
     <script type="text/JavaScript" src="<?php echo $root; ?>/js/jquery.js"></script>
+    <!-- Google Analytics -->
     <script type="text/javascript">
 
       var _gaq = _gaq || [];
@@ -35,6 +36,16 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
 
+    </script>
+    <!-- Google Plus badge -->
+    <script type="text/javascript">
+      window.___gcfg = {lang: 'en'};
+      (function() 
+      {var po = document.createElement("script");
+      po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(po, s);
+      })();
     </script>
   </head>
   <body>

@@ -470,3 +470,15 @@ table.dues td {
   padding-left:0;
 }
   
+.social {
+  min-height: 150px;
+}
+
+.g-plus {
+  float: right;
+  vertical-align: bottom;
+}
+
+.facebook {
+  float: left;
+}
