@@ -48,7 +48,7 @@ include_once "header.inc";
  -->  
   <h5>Practice Schedule 2012</h5>
 
-  <p>Note that there is NO morning practice until Wednesday, June 20.</p>
+  <p>Note that there is NO morning practice until Thursday, June 21. <em>Note: that is one day later than previously scheduled.</em></p>
 
   <table class="schedule" width="100%">
     <tr>
@@ -69,7 +69,7 @@ include_once "header.inc";
       <td>7:00 - 8:00 pm</td>
     </tr>
     <tr>
-      <th colspan="6" class="divider">June 20 - July 29</th>
+      <th colspan="6" class="divider">June 21 - July 29</th>
     </tr>
     <tr>
       <td></td>
@@ -144,7 +144,7 @@ include_once "header.inc";
     <tbody>
       <tr>
         <td>June 16</td>
-        <td>Time Trials at Highland Park</td>
+        <td>Time Trials</td>
         <td>N/A</td>
         <td>HOME</td>
         <td></td>
