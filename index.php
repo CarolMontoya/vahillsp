@@ -12,8 +12,10 @@
                    "2011-07-11" => "closes early at 5:00pm for swim team meet",
                    "2011-07-16" => "opens late at 1:00pm for swim team meet",
                    "2011-07-18" => "closes early at 5:00pm for swim team meet",
-                   "2011-07-23" => "opens late at 1:00am for swim team meet",
+                   "2011-07-23" => "opens late at 1:00pm for swim team meet",
                    "2011-09-05" => "closes early at 2:00/6:00pm for labor day (last day for the season - cleanup from 2:00pm to 6:00pm)",
+                   "2012-06-16" => "opens late at 1:00pm for swim team meet",
+                   "2012-06-18" => "closes early at 5:00pm for swim team meet",
                   );
     $today = time();
 
@@ -45,51 +47,14 @@
     </div>
     <div class="collage-header">
       <ul class="collage-links">
-        <?php if(strtotime("2011-11-18") - time() < 0 && strtotime("2012-03-29") - time() > 0) { ?>
+        <?php if(strtotime("2011-06-21") - time() >= -86400) { ?>
         <li>
-          <a href="winter-swim-2012.php">Winter Swim is On - click here for more infos!</a>
-        </li>
-        <?php } ?>
-<!-- 
-        <?php if(strtotime("2011-09-06") - time() < 0) { ?>
-        <li class="red">
-          Pool is closed for the winter - see you next year!
-        </li>
-        <?php } ?>
- -->
-        <?php if(strtotime("2012-06-04") - time() > 0) { ?>
-        <li>
-          <a href="http://vahillspool.org/schedule.php#open-house">Open House June 3</a>
-        </li>
-        <?php } ?>
-        <?php if(strtotime("2012-05-26") - time() < 0) { ?>
-        <li>
-          <a href="http://vahillspool.org/membership.php">Pool is Open - Sign up now!</a>
-        </li>
-        <?php } ?>
-        <?php if(strtotime("2012-05-26") - time() > 0) { ?>
-        <li class="red">
-          <a href="http://vahillspool.org/membership.php">Pool Opens May 26 - Sign up now!</a>
-        </li>
-        <?php } ?>
-        <?php if(strtotime("2011-08-21") - time() > 0) { ?>
-        <li>
-          <a href="adult-socials.php">Pool Social August 21</a>
-        </li>
-        <?php } ?>
-        <?php if(strtotime("2011-09-01") - time() > 0) { ?>
-        <li>
-          <a href="membership.php">August share sale is on!</a>
+          <a href="docs/2011 Flier School's Out Party.pdf">Annual Last Day of School Party June 21 1:00 - 2:30</a>
         </li>
         <?php } ?>
         <?php if(strtotime("2011-06-24") - time() >= -86400) { ?>
         <li>
           <a href="swim-team-sched.php">Swim Team spaghetti dinner this Friday</a>
-        </li>
-        <?php } ?>
-        <?php if(strtotime("2011-06-21") - time() >= -86400) { ?>
-        <li>
-          <a href="docs/2011 Flier School's Out Party.pdf">Annual Last Day of School Party June 21 1:00 - 2:30</a>
         </li>
         <?php } ?>
         <?php if(strtotime("2011-07-15") - time() >= -86400) { ?>
@@ -102,10 +67,52 @@
           Afternoon swim practices through June 24
         </li>
         <?php } ?>
+        <?php if(strtotime("2011-08-21") - time() > 0) { ?>
+        <li>
+          <a href="adult-socials.php">Pool Social August 21</a>
+        </li>
+        <?php } ?>
+        <?php if(strtotime("2011-09-01") - time() > 0) { ?>
+        <li>
+          <a href="membership.php">August share sale is on!</a>
+        </li>
+        <?php } ?>
         <?php if(strtotime("2011-09-06") - time() > 0) { ?>
         <li>
           Baby Pool opens 10:00 a.m. DAILY (except Sundays)
         </li>
+        <?php } ?>
+<!-- 
+        <?php if(strtotime("2011-09-06") - time() < 0) { ?>
+        <li class="red">
+          Pool is closed for the winter - see you next year!
+        </li>
+        <?php } ?>
+ -->
+        <?php if(strtotime("2011-11-18") - time() < 0 && strtotime("2012-03-29") - time() > 0) { ?>
+        <li>
+          <a href="winter-swim-2012.php">Winter Swim is On - click here for more infos!</a>
+        </li>
+        <?php } ?>
+        <?php if(strtotime("2012-05-26") - time() < 0) { ?>
+        <li>
+          <a href="http://vahillspool.org/membership.php">Pool is Open - Sign up now!</a>
+        </li>
+        <?php } ?>
+        <?php if(strtotime("2012-05-26") - time() > 0) { ?>
+        <li class="red">
+          <a href="http://vahillspool.org/membership.php">Pool Opens May 26 - Sign up now!</a>
+        </li>
+        <?php if(strtotime("2012-06-04") - time() > 0) { ?>
+        <li>
+          <a href="http://vahillspool.org/schedule.php#open-house">Open House June 3</a>
+        </li>
+        <?php } ?>
+        <?php if(strtotime("2012-07-04") - time() > 0) { ?>
+        <li>
+          <a href="http://vahillspool.org/schedule.php#independence-day">Fourth of July Party</a>
+        </li>
+        <?php } ?>
         <?php } ?>
       </ul>
     </div>

@@ -65,7 +65,6 @@
     members during the season confirming these
     events:
   </p>
-
   <table class="events">
     <?php if(strtotime("2012-07-05") - time() > 0) { ?>
     <tr>
@@ -90,7 +89,7 @@
     <?php } ?>
     <tr>
       <th>
-        Raft nights &ndash;
+        <a name="raft-night"></a>Raft nights &ndash;
       </th>
       <td>
         bring your inflatables and
