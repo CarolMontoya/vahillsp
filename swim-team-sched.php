@@ -156,27 +156,19 @@ include_once "header.inc";
         <td>B meet</td>
         <td>Holin Meadows</td>
         <td>HOME</td>
-        <td></td>
+        <td><a href="docs/swim-team-results/2012-06-18-HM-results.pdf">Results</a></td>
         <td>N/A</td>
         <td>N/A</td>
-      </tr>
-      <tr>
-        <td>June 22</td>
-        <td>Fun!</td>
-        <td>Spaghetti Dinner</td>
-        <td>HOME</td>
-        <td></td>
-        <td class="nobr"></td>
-        <td></td>
       </tr>
       <tr>
         <td>June 23</td>
         <td>A meet</td>
         <td>Pinewood</td>
         <td>AWAY</td>
-        <td></td>
-        <td class="nobr"></td>
-        <td></td>
+        <td><a href="docs/swim-team-results/2012-06-23-PW-improvement.pdf">Improvements</a><br/>
+          <a href="docs/swim-team-results/2012-06-23-PW-results.pdf">Results</a></td>
+        <td class="nobr">285-122</td>
+        <td>W</td>
       </tr>
       <tr>
         <td>June 25</td>
@@ -186,6 +178,15 @@ include_once "header.inc";
         <td></td>
         <td class="nobr"></td>
         <td></td>
+      </tr>
+      <tr>
+        <td>June 29</td>
+        <td>Fun!</td>
+        <td>Spaghetti Dinner</td>
+        <td>HOME</td>
+        <td><a href="docs/2012SwimTeamSpaghettiDinner.pdf">RAIN DATE!</a></td>
+        <td class="nobr">N/A</td>
+        <td>N/A</td>
       </tr>
       <tr>
         <td>June 30</td>

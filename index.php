@@ -94,22 +94,32 @@
         <?php } ?>
         <?php if(strtotime("2012-05-26") - time() < 0) { ?>
         <li>
-          <a href="http://vahillspool.org/membership.php">Pool is Open - Sign up now!</a>
+          <a href="membership.php">Pool is Open - Sign up now!</a>
         </li>
         <?php } ?>
         <?php if(strtotime("2012-05-26") - time() > 0) { ?>
         <li class="red">
-          <a href="http://vahillspool.org/membership.php">Pool Opens May 26 - Sign up now!</a>
+          <a href="membership.php">Pool Opens May 26 - Sign up now!</a>
         </li>
         <?php } ?>
         <?php if(strtotime("2012-06-04") - time() > 0) { ?>
         <li>
-          <a href="http://vahillspool.org/schedule.php#open-house">Open House June 3</a>
+          <a href="schedule.php#open-house">Open House June 3</a>
+        </li>
+        <?php } ?>
+        <?php if(strtotime("2012-06-30") - time() > 0) { ?>
+        <li>
+          <a href="swim-team-sched.php">Swim Team Spaghetti Dinner 6/29</a>
         </li>
         <?php } ?>
         <?php if(strtotime("2012-07-04") - time() > 0) { ?>
         <li>
-          <a href="http://vahillspool.org/4th-july.php">Fourth of July Party</a>
+          <a href="4th-july.php">Fourth of July Party</a>
+        </li>
+        <?php } ?>
+        <?php if(strtotime("2012-07-14") - time() > 0) { ?>
+        <li>
+          <a href="record2.php">Swim Team News - New Pool Record!</a>
         </li>
         <?php } ?>
       </ul>

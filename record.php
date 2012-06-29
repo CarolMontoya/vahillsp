@@ -34,4 +34,6 @@ include_once "header.inc";
         Wave swim suit on Paige Collins! Congratulations again, Paige!
       </p>
     </div>
+  </div>
+</div>
 <?php include_once "footer.inc"; ?>

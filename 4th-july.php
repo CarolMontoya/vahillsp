@@ -27,7 +27,7 @@ include_once "header.inc";
 
 			<table>
 				<tr>
-					<td>
+					<td width="30%">
 						1:30 - 4:30
 					</td>
 					<td>
@@ -40,6 +40,21 @@ include_once "header.inc";
 					</td>
 					<td>
 						Relay Races (family, kids, individual - see sign up in guard house)
+					</td>
+				</tr>
+				<tr>
+					<td>
+						2:00
+					</td>
+					<td>
+						Pie tasting contest starts – bring in a pie to compete!
+					</td>
+				</tr>
+				<tr>
+					<td>
+					2:00 - 4:00</td>
+					<td>
+						Hot dogs, hamburgers, chips, lemonade - pie for dessert!
 					</td>
 				</tr>
 				<tr>
@@ -57,20 +72,6 @@ include_once "header.inc";
 						Lifeguard Competition - cheer for your favorite guard!
 					</td>
 				</tr>
-				<tr>
-					<td>
-					2:00 - 4:00</td>
-					<td>
-						Hot dogs, hamburgers, chips, lemonade - pie for dessert!
-					</td>
-				</tr>
-				<tr>
-					<td>
-					2:00</td>
-					<td>
-						Pie contest starts - bring in a pie to compete!
-					</td>
-				</tr>
 			</table>
 		</div>
 		<div class="yui-u" style="vertical-align:center;">
@@ -79,6 +80,8 @@ include_once "header.inc";
 	</div>
 	<div class="yui-g">
 		Please email <a href="mailto:&#109;&#105;&#116;&#99;&#104;&#101;&#108;&#108;&#97;&#110;&#100;&#115;&#117;&#122;&#121;&#64;&#106;&#117;&#110;&#111;&#46;&#99;&#111;&#109;">Suzy Thompson</a> or call 703-329-7854 if you are willing to help with any event or for any amount of time.  We need a few helpers to make these activities fun for all! See you at VA Hills Pool!
+		<p><a href="docs/2012Flier4thJuly.pdf">Download</a> the flier here.</p>
+		<p><a href="docs/2012PieContest4thJuly.pdf">Pie Contest</a> infos here.</p>
 	</div>
 </div>
 <?php include_once "footer.inc"; ?>
