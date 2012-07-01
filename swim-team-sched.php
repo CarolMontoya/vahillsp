@@ -148,7 +148,7 @@ include_once "header.inc";
         <td>N/A</td>
         <td>HOME</td>
         <td></td>
-        <td>N/A</td>
+        <td class="nobr">N/A</td>
         <td>N/A</td>
       </tr>
       <tr>
@@ -157,7 +157,7 @@ include_once "header.inc";
         <td>Holin Meadows</td>
         <td>HOME</td>
         <td><a href="docs/swim-team-results/2012-06-18-HM-results.pdf">Results</a></td>
-        <td>N/A</td>
+        <td class="nobr">N/A</td>
         <td>N/A</td>
       </tr>
       <tr>
@@ -175,7 +175,7 @@ include_once "header.inc";
         <td>B meet</td>
         <td>Little Hunting Park</td>
         <td>AWAY</td>
-        <td></td>
+        <td><a href="docs/swim-team-results/2012-06-25-LHP-results.pdf">Results</a></td>
         <td class="nobr"></td>
         <td></td>
       </tr>
@@ -193,9 +193,10 @@ include_once "header.inc";
         <td>A meet</td>
         <td>Ben Mar Edsall Park</td>
         <td>HOME</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><a href="docs/swim-team-results/2012-06-30-BEP-improvement.pdf">Improvements</a><br/>
+          <a href="docs/swim-team-results/2012-06-30-BEP-results.pdf">Results</a></td>
+        <td class="nobr">285-130</td>
+        <td>W</td>
       </tr>
       <tr>
         <td>July 2</td>
@@ -257,7 +258,7 @@ include_once "header.inc";
         <td>Hayfield</td>
         <td>HOME</td>
         <td></td>
-        <td></td>
+        <td class="nobr"></td>
         <td></td>
       </tr>
       <tr>

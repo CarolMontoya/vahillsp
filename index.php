@@ -118,9 +118,9 @@
           <a href="4th-july.php">Fourth of July Party</a>
         </li>
         <?php } ?>
-        <?php if(strtotime("2012-07-14") - time() > 0) { ?>
+        <?php if(strtotime("2012-07-20") - time() > 0) { ?>
         <li>
-          <a href="record2.php">Swim Team News - New Pool Record!</a>
+          <a href="record2.php#update">Swim Team News - <span style="color:red">Another</span> New Pool Record!</a>
         </li>
         <?php } ?>
       </ul>

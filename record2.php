@@ -26,5 +26,17 @@ include_once "header.inc";
       <img src="images/record.png" alt="Record swimmer">
     </div>
   </div>
+  <a name="update"></a>
+  <div class="yui-g">
+    <div class="yui-u first">
+      <h2>Update June 30th, 2012</h2>
+      <p>
+        Allie Puskar-Beckett AGAIN set another new pool record - this time for
+        the 13 - 15 year old girls 50m butterfly, finishing in 0:32:50.  Allie
+        lowered the record by an amazing 0:02.11!   Looks like Wonder Woman's
+        costume goes to Allie this year - congratulations again, Allie!
+      </p>
+    </div>
+  </div>  
 </div>
 <?php include_once "footer.inc"; ?>
