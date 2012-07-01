@@ -77,6 +77,9 @@ include_once "header.inc";
 		<div class="yui-u" style="vertical-align:center;">
 			<h4>All Events and Refreshments are Free!</h4>
 		</div>
+		<div class="yui-u" style="vertical-align:center;">
+			<h4>There will be DOOR PRIZES!</h4>
+		</div>
 	</div>
 	<div class="yui-g">
 		Please email <a href="mailto:&#109;&#105;&#116;&#99;&#104;&#101;&#108;&#108;&#97;&#110;&#100;&#115;&#117;&#122;&#121;&#64;&#106;&#117;&#110;&#111;&#46;&#99;&#111;&#109;">Suzy Thompson</a> or call 703-329-7854 if you are willing to help with any event or for any amount of time.  We need a few helpers to make these activities fun for all! See you at VA Hills Pool!
