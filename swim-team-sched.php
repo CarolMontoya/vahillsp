@@ -191,7 +191,7 @@ include_once "header.inc";
       <tr>
         <td>June 30</td>
         <td>A meet</td>
-        <td>Ben Mar Edsall Park</td>
+        <td>Bren Mar Edsall Park</td>
         <td>HOME</td>
         <td><a href="docs/swim-team-results/2012-06-30-BEP-improvement.pdf">Improvements</a><br/>
           <a href="docs/swim-team-results/2012-06-30-BEP-results.pdf">Results</a></td>
@@ -237,7 +237,7 @@ include_once "header.inc";
       <tr>
         <td>July 11</td>
         <td>Relay Carnival</td>
-        <td>Ben Mar Edsall Park</td>
+        <td>Bren Mar Edsall Park</td>
         <td>AWAY</td>
         <td></td>
         <td class="nobr"></td>
