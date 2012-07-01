@@ -16,7 +16,8 @@
                    "2011-09-05" => "closes early at 2:00/6:00pm for labor day (last day for the season - cleanup from 2:00pm to 6:00pm)",
                    "2012-06-16" => "opens late at 1:00pm for swim team meet",
                    "2012-06-18" => "closes early at 5:00pm for swim team meet",
-                   "2012-06-30" => "closed today due to phone outage - call (703) 329-2360 to see if service has been restored"
+                   "2012-06-30" => "closed today due to phone outage - call (703) 329-2360 to see if service has been restored",
+                   "2012-07-01" => "OPENS LATE today at 3:00pm to allow for clearing filters",
                   );
     $today = time();
 
