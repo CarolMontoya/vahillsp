@@ -145,11 +145,11 @@ include_once "header.inc";
       <tr>
         <td>June 16</td>
         <td>Time Trials</td>
-        <td>N/A</td>
+        <td>-</td>
         <td>HOME</td>
         <td></td>
-        <td class="nobr">N/A</td>
-        <td>N/A</td>
+        <td class="nobr">-</td>
+        <td>-</td>
       </tr>
       <tr>
         <td>June 18</td>
@@ -157,8 +157,8 @@ include_once "header.inc";
         <td>Holin Meadows</td>
         <td>HOME</td>
         <td><a href="docs/swim-team-results/2012-06-18-HM-results.pdf">Results</a></td>
-        <td class="nobr">N/A</td>
-        <td>N/A</td>
+        <td class="nobr">-</td>
+        <td>-</td>
       </tr>
       <tr>
         <td>June 23</td>
@@ -176,8 +176,8 @@ include_once "header.inc";
         <td>Little Hunting Park</td>
         <td>AWAY</td>
         <td><a href="docs/swim-team-results/2012-06-25-LHP-results.pdf">Results</a></td>
-        <td class="nobr"></td>
-        <td></td>
+        <td class="nobr">-</td>
+        <td>-</td>
       </tr>
       <tr>
         <td>June 29</td>
@@ -185,8 +185,8 @@ include_once "header.inc";
         <td>Spaghetti Dinner</td>
         <td>HOME</td>
         <td><a href="docs/2012SwimTeamSpaghettiDinner.pdf">RAIN DATE!</a></td>
-        <td class="nobr">N/A</td>
-        <td>N/A</td>
+        <td class="nobr">-</td>
+        <td>-</td>
       </tr>
       <tr>
         <td>June 30</td>
@@ -203,9 +203,9 @@ include_once "header.inc";
         <td>B meet</td>
         <td>Highland Park</td>
         <td>AWAY</td>
-        <td></td>
-        <td class="nobr"></td>
-        <td></td>
+        <td><a href="docs/swim-team-results/2012-07-02-HP-results.pdf">Results</a></td>
+        <td class="nobr">-</td>
+        <td>-</td>
       </tr>
       <tr>
         <td>July 4</td>
@@ -213,8 +213,8 @@ include_once "header.inc";
         <td>Possible IM Meet at Hayfield</td>
         <td>AWAY</td>
         <td></td>
-        <td class="nobr"></td>
-        <td></td>
+        <td class="nobr">-</td>
+        <td>-</td>
       </tr>
       <tr>
         <td>July 7</td>
@@ -222,17 +222,17 @@ include_once "header.inc";
         <td>Springfield - Campout</td>
         <td>HOME</td>
         <td></td>
-        <td class="nobr"></td>
-        <td></td>
+        <td class="nobr">332-72</td>
+        <td>W</td>
       </tr>
       <tr>
         <td>July 9</td>
         <td>B meet</td>
         <td>Lorton Station</td>
         <td>HOME</td>
-        <td></td>
-        <td class="nobr"></td>
-        <td></td>
+        <td><a href="docs/swim-team-results/2012-06-25-LHP-results.pdf">Results</a></td>
+        <td class="nobr">-</td>
+        <td>-</td>
       </tr>
       <tr>
         <td>July 11</td>
@@ -240,8 +240,8 @@ include_once "header.inc";
         <td>Bren Mar Edsall Park</td>
         <td>AWAY</td>
         <td></td>
-        <td class="nobr"></td>
-        <td></td>
+        <td class="nobr">-</td>
+        <td>W</td>
       </tr>
       <tr>
         <td>July 14</td>
@@ -249,17 +249,29 @@ include_once "header.inc";
         <td>Broyhill Crest</td>
         <td>AWAY</td>
         <td></td>
-        <td class="nobr"></td>
-        <td></td>
+        <td class="nobr">264-156</td>
+        <td>W</td>
+      </tr>
+      <tr>
+        <td>July 14</td>
+        <td>Divisional Relay Championships</td>
+        <td>Broyhill Crest</td>
+        <td>AWAY</td>
+        <td>
+          <a href="docs/swim-team-results/2012-07-15-RCD-results.pdf">Results&nbsp;(div.)</a>
+          <a href="docs/swim-team-results/2012-07-15-RCI-results.pdf">Results&nbsp;(ind.)</a>          
+        </td>
+        <td class="nobr">80</td>
+        <td>3rd</td>
       </tr>
       <tr>
         <td>July 16</td>
         <td>B meet</td>
         <td>Hayfield</td>
         <td>HOME</td>
-        <td></td>
-        <td class="nobr"></td>
-        <td></td>
+        <td><a href="docs/swim-team-results/2012-07-16-H-results.pdf">Results</a></td>
+        <td class="nobr">-</td>
+        <td>-</td>
       </tr>
       <tr>
         <td>July 21</td>

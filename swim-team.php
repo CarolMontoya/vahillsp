@@ -10,7 +10,7 @@
             Virginia Hills <em>Tidal Wave</em>
           </h2>
           <h3>
-            Division 17, Northern Virginia Swimming League
+            Division 17, Northern Virginia Swimming League <img class="middle" src="images/swimteam/nvsl_logo.png">
           </h3>
           <p align="center">
             <img src="images/site/tidalwave50years.png"

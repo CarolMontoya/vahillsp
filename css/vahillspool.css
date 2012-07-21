@@ -482,3 +482,7 @@ table.dues td {
 .facebook {
   float: left;
 }
+
+.middle {
+  vertical-align: middle;
+}
