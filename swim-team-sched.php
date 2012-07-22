@@ -278,9 +278,10 @@ include_once "header.inc";
         <td>A Meet</td>
         <td>North Springfield</td>
         <td>AWAY</td>
-        <td></td>
-        <td class="nobr"></td>
-        <td></td>
+        <td><a href="docs/swim-team-results/2012-07-21-NS-improvement.pdf">Improvements</a><br/>
+          <!--<a href="docs/swim-team-results/2012-06-30-BEP-results.pdf">Results</a>--></td>
+        <td class="nobr">245-170</td>
+        <td>W</td>
       </tr>
       <tr>
         <td>July 23</td>
