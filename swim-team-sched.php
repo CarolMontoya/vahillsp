@@ -297,9 +297,9 @@ include_once "header.inc";
         <td>Divisionals</td>
         <td>Pinewood</td>
         <td>AWAY</td>
-        <td></td>
-        <td class="nobr"></td>
-        <td></td>
+        <td><a href="docs/swim-team-results/2012-07-29-Div-results.pdf">Results</a></td>
+        <td class="nobr">-</td>
+        <td>-</td>
       </tr>
     </tbody>
   </table>
