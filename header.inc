@@ -17,6 +17,7 @@
     <meta name="ICBM" content="38.76639;-77.114311">
     <meta name="google-site-verification" content="oWVHaIbsW3g_HyzkSiUBJT6v3sHc2ECLIO9LSN0zhIE" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="stylesheet" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" type="text/css" media="screen">
     <link rel="stylesheet" href="<?php echo $root; ?>/css/vahillspool.min.css" type="text/css" media=
     "screen">
     <!-- <script type="text/JavaScript" src="<?php echo $root; ?>/js/curvycorners.js"></script> -->
