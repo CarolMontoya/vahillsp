@@ -16,12 +16,16 @@
     <meta name="geo.region" content="us-va">
     <meta name="ICBM" content="38.76639;-77.114311">
     <meta name="google-site-verification" content="oWVHaIbsW3g_HyzkSiUBJT6v3sHc2ECLIO9LSN0zhIE" />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="stylesheet" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" type="text/css" media="screen">
     <link rel="stylesheet" href="<?php echo $root; ?>/css/vahillspool.min.css" type="text/css" media=
     "screen">
     <!-- <script type="text/JavaScript" src="<?php echo $root; ?>/js/curvycorners.js"></script> -->
     <script type="text/JavaScript" src="<?php echo $root; ?>/js/jquery.js"></script>
+    <!-- Google Chrome Frame check -->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+
     <!-- Google Analytics -->
     <script type="text/javascript">
 
@@ -47,6 +51,14 @@
       var s = document.getElementsByTagName("script")[0];
       s.parentNode.insertBefore(po, s);
       })();
+    </script>
+    <!-- Google Chrome Frame -->
+    <script type="text/javascript">
+      $(document).ready(function() { 
+        CFInstall.check({
+          mode: "overlay"
+        });
+      });
     </script>
   </head>
   <body>
