@@ -85,7 +85,7 @@
           Baby Pool opens 10:00 a.m. DAILY (except Sundays)
         </li>
         <?php } ?>
-        <?php if(strtotime("2011-09-06") - time() < 0 && strtotime("2012-05-24") - time() > 0) { ?>
+        <?php if(strtotime("2012-09-03") - time() < 0 && strtotime("2013-05-24") - time() > 0) { ?>
         <li class="red">
           Pool is closed for the winter - see you next year!
         </li>
@@ -95,14 +95,14 @@
           <a href="winter-swim-2012.php">Winter Swim is On - click here for more infos!</a>
         </li>
         <?php } ?>
-        <?php if(strtotime("2012-05-26") - time() < 0) { ?>
+        <?php if(strtotime("2013-05-25") - time() < 0) { ?>
         <li>
           <a href="membership.php">Pool is Open - Sign up now!</a>
         </li>
         <?php } ?>
-        <?php if(strtotime("2012-05-26") - time() > 0) { ?>
+        <?php if(strtotime("2013-03-01") - time() < 0 && strtotime("2013-05-24") - time() > 0) { ?>
         <li class="red">
-          <a href="membership.php">Pool Opens May 26 - Sign up now!</a>
+          <a href="membership.php">Pool Opens May 25 - Sign up now!</a>
         </li>
         <?php } ?>
         <?php if(strtotime("2012-06-04") - time() > 0) { ?>
