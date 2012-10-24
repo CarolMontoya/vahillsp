@@ -9,7 +9,7 @@ include_once "header.inc";
   </h2>
   <p>
     The Virginia Hills pool is located in the Virginia
-    Hills development, at 6500 Robinson Drive. Robinson
+    Hills development, at 6500 Virginia Hills Pool Drive. Virginia Hills Pool
     is a short street just off Dorset Drive. Dorset Drive
     runs between Telegraph Road and Berkshire Drive
     within the community, crossing The Parkway, a major
@@ -22,9 +22,9 @@ include_once "header.inc";
     marginheight="0"
     marginwidth="0"
     src=
-  "http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Virginia+Hills+Club+Inc,+6500+Robinson+Drive,+Alexandria,+VA+22310&amp;sll=38.76639,-77.114311&amp;sspn=0.007796,0.015192&amp;ie=UTF8&amp;ll=38.782581,-77.100334&amp;spn=0.03011,0.053644&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br>
+  "http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Virginia+Hills+Club+Inc,+6500+Virginia+Hills+Pool+Drive,+Alexandria,+VA+22310&amp;sll=38.76639,-77.114311&amp;sspn=0.007796,0.015192&amp;ie=UTF8&amp;ll=38.782581,-77.100334&amp;spn=0.03011,0.053644&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br>
   <small><a href=
-    "http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Virginia+Hills+Club+Inc,+6500+Robinson+Drive,+Alexandria,+VA+22310&amp;sll=38.76639,-77.114311&amp;sspn=0.007796,0.015192&amp;ie=UTF8&amp;ll=38.779581,-77.100334&amp;spn=0.03011,0.053644&amp;z=14&amp;iwloc=A"
+    "http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Virginia+Hills+Club+Inc,+6500+Virginia+Hills+Pool+Drive,+Alexandria,+VA+22310&amp;sll=38.76639,-77.114311&amp;sspn=0.007796,0.015192&amp;ie=UTF8&amp;ll=38.779581,-77.100334&amp;spn=0.03011,0.053644&amp;z=14&amp;iwloc=A"
     style="color:#0000FF;text-align:left">View Larger
   Map</a></small>
   <h2>
@@ -39,8 +39,8 @@ include_once "header.inc";
     the Telegraph Road heading south. Proceed about two
     miles until Dorset Drive on your left. Turn left onto
     Dorset Drive, proceed up the hill. Beyond the crest of
-    the hill look for Robinson Drive on the right. Turn
-    right onto Robinson and take the first right into the
+    the hill look for Virginia Hills Pool Drive on the right. Turn
+    right onto Virginia Hills Pool and take the first right into the
     pool parking lot.
   </p>
   <h4>
@@ -56,7 +56,7 @@ include_once "header.inc";
     Highway. Proceed through the next stop light and bear
     right at the third light. Turn right onto The Parkway
     and then take the first left onto Dorset Drive. The
-    second left along Dorset Drive is Robinson Drive,
+    second left along Dorset Drive is Virginia Hills Pool Drive,
     where the pool is located. Enter the first entrance
     to the pool's parking lot.
   </p>
@@ -79,7 +79,7 @@ include_once "header.inc";
     light, the third right is Dorset Drive (nearly
     directly across from the small commercial electric
     office). Turn onto Dorset Drive and proceed up the
-    hill. Beyond the crest of the hill, look for Robinson
+    hill. Beyond the crest of the hill, look for Virginia Hills Pool
     Drive on your right and turn into it.
   </p>
   <h4>
@@ -89,7 +89,7 @@ include_once "header.inc";
     The pool has a parking lot which normally can hold
     enough cars for regular pool patrons. For swim meets,
     the parking lot normally fills up and parking along
-    one side of Robinson and Dorsett are used. Please do
+    one side of Virginia Hills Pool and Dorsett are used. Please do
     not park on both sides or block driveways. For major
     swim meets such as divisionals and relay carnivals,
     we suggest using as overflow parking either the lot
@@ -100,7 +100,7 @@ include_once "header.inc";
     Park. From there, walk down the gravel path away from
     the main park building, past the snack bar/toilet
     building at the far end of the parking lot. The
-    gravel path leads to Robinson Drive and the pool
+    gravel path leads to Virginia Hills Pool Drive and the pool
     parking lot.
   </p>
   <h4>

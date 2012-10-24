@@ -12,7 +12,7 @@
               Virginia Hills Swim Club ■ <a class="c8"
               href=
               "mailto:info@vahillspool.org">info@vahillspool.org</a><br>
-              6500 Robinson Drive ■ P.O. Box 10233<br>
+              6500 Virginia Hills Pool Drive ■ P.O. Box 10233<br>
               Alexandria, VA 22310<br>
               Guard Shack (during pool hours): (703) 329-2360
             </address>
