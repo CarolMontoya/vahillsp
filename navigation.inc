@@ -53,7 +53,7 @@
     <li><a href="<?php echo $root; ?>/swim-team.php"><span>Swim Team</span></a></li>
     <li><a href="<?php echo $root; ?>/swim-team-sched.php"><span>Swim Team Schedule</span></a></li>
     <li><a href="<?php echo $root; ?>/board.php"><span>Board</span></a></li>
-    <li><a href="<?php echo $root; ?>/rentals.php"><span>Rentals &amp; Parties</span></a></li>
+    <li><a href="javascript:alert('Coming soon!');"><span>Rentals &amp; Parties</span></a></li>
     <li><a href="<?php echo $root; ?>/project.php"><span>2009 Construction</span></a></li>
     <li><a href="http://blog.vahillspool.org/"><span>Tidal Wave Blog</span></a></li>
   </ul>

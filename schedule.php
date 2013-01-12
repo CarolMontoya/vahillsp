@@ -10,24 +10,46 @@
         Hours (<?php echo date('Y'); ?>)
       </h2>
       <h4>
-        Hours of operation:
+        Hours of operation (new for 2013!):
       </h4>
       <p>
         <b>Opening Day <?php echo date('Y'); ?> is <?php echo date('l, F j', strtotime("last Saturday", mktime(0, 0, 0, 6, 1, date('Y')))); ?>.</b>
       </p>
       <p>
-        Noon to 8 p.m. daily
+        <table>
+          <tr>
+            <td>May 25, 2013 – June 18</td>
+            <td>Weekends</td>
+            <td>11 a.m. to 8 p.m. daily (including Memorial Day)</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>Weekdays</td>
+            <td>4 p.m. to 9 p.m.</td>
+          </tr>
+          <tr>
+            <td>June 19 – September 2</td>
+            <td>Daily</td>
+            <td>
+              11 a.m. – 8:30 p.m. (no break at 7:45 p.m.)<br>
+              Baby pool opens at 10:00 a.m. daily except Sunday<br>
+              Wednesdays in July & August Pool Closes at 9:00 p.m.
+            </td>
+        </table>
       </p>
       <h4>
         Exceptions:
       </h4>
       <p>
-        While school is in session, the pool will
-        open at 4:00 p.m. on weekdays
+        4th of July and Labor Day - close at 6:00pm
       </p>
       <p>
-        On Wednesdays in July and August, the pool is
-        open until 9 p.m. for raft nights.
+        Closing time of 8:30 p.m. means the front gate will close at 8:30 p.m.
+      </p>
+      <p>
+        Pool operating hours are subject to change for weather or special events.  
+        See pool calendar for details.
+      </p>
       </p>
     </div>
     <div class="yui-u">

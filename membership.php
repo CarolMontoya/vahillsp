@@ -65,6 +65,14 @@
             </tr>
             <tr>
               <td>
+                Application Fee (new members):
+              </td>
+              <td>
+                <strong>$50.00</strong>
+              </td>
+            </tr>
+            <tr>
+              <td>
                 One Time Share Price:
               </td>
               <td>
@@ -76,7 +84,7 @@
                 Annual Family Dues:
               </td>
               <td>
-                <strong>$525.00</strong>
+                <strong>$550.00</strong>
               </td>
             </tr>
             <tr>
@@ -84,7 +92,7 @@
                 Annual Single Dues:
               </td>
               <td>
-                <strong>$280.00</strong>
+                <strong>$295.00</strong>
               </td>
             </tr>
             <tr>
@@ -97,7 +105,7 @@
                 Family or Single:
               </td>
               <td>
-                <strong>$760.00</strong>
+                <strong>$790.00</strong>
               </td>
             </tr>
             <tr>
@@ -105,7 +113,7 @@
                 Active Duty Military:
               </td>
               <td>
-                <strong>$525.00</strong> (Two Season Maximum)
+                <strong>$550.00</strong> (Two Season Maximum)
               </td>
             </tr>
             <tr>
@@ -121,10 +129,16 @@
                 Guest passes
               </td>
               <td>
-                <strong>$5.00</strong> or 10 for <strong>$35.00</strong><br>
-                <strong>Note:</strong>15 Guest passes included with membership to start the season
+                <strong>$4.00</strong> or 10 for <strong>$35.00</strong><br>
               </td>
             </tr>
+            <tr>
+              <td>
+                Work fee
+              </td>
+              <td>
+                <strong>$0.00</strong>
+              </td>
           </table>
           <p>
             <strong>To join or get more information, please <a href=
@@ -211,8 +225,8 @@
             before the start of every season. The due date
             for <?php echo date('Y'); ?> fees is <?php echo date('F j, Y', strtotime("first Sunday", mktime(0, 0, 0, 5, 1, date('Y')))); ?>. The membership
             fee for Family Membership in <?php echo date('Y'); ?> is
-            <strong>$525</strong>. The membership fee for a 
-            Single Membership in <?php echo date('Y'); ?> is <strong>$280</strong>. Payments may
+            <strong>$550</strong>. The membership fee for a 
+            Single Membership in <?php echo date('Y'); ?> is <strong>$295</strong>. Payments may
             be spaced out in advance of that date. New members
             should also pay seasonal dues. New members whose
             households include extended family members should
@@ -223,7 +237,7 @@
             Two classes of associate (non-shareholding)
             memberships are available: associate and military.
             Associate Members pay a single-season fee of
-            <strong>$760</strong> (no share purchase). If you
+            <strong>$790</strong> (no share purchase). If you
             anticipate being in the area or using the pool for
             more than one season, however, it makes sense to
             become a shareholder from the beginning. Associate
@@ -237,7 +251,7 @@
             The Virginia Hills Club also welcomes military
             families, who only may be in our community for a few
             years. The membership fee for an Active Duty Military 
-            Membership in <?php echo date('Y'); ?> is <strong>$525</strong> (no share 
+            Membership in <?php echo date('Y'); ?> is <strong>$550</strong> (no share 
             purchase). This benefit can be used for two consecutive 
             seasons. If a duty tour is extended or is expected to 
             last for more than two swim seasons, active duty personnel 
@@ -256,9 +270,8 @@
             Guest Passes
           </h5>
           <p>
-            Family and single memberships include 15 guest passes
-            per season. Additional guest passes can be purchased
-            for <strong>$5 each or $35 for 10 passes</strong>.
+            Guest passes can be purchased for <strong>$4 each or $35 for 10 
+            passes</strong>.
           </p>
         </div>
         <div class="rounded">
