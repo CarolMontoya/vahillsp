@@ -145,51 +145,60 @@
             "mailto:&#105;&#110;&#102;&#111;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">write
             to us!</a></strong>
           </p>
-	  <p>
+      	  <p>
             You can pay for your membership or share dues by using one of the buttons below.
-            You will be taken to Paypal's website where you will have the opportunity to enter
-            the amount you would like to pay today. If you choose not to pay in full, please
+            The preferred method is through Intuit. Click the image below and you will be
+            taken to the Intuit website to pay.
+          </p>
+          <p>
+            <a href="https://ipn.intuit.com/pay/VirginiaHillsClub">
+              <img src="images/site/img_IPN_logotype.png">
+            </a>
+          </p>
+          <p>
+            You may also pay through PayPal. You will be taken to Paypal's website 
+            where you will have the opportunity to enter the amount you would like 
+            to pay today. If you choose not to pay in full, please
             remember to pay the remainder before the due date.
           </p>
- 	  <table>
+       	  <table>
             <tr>
               <th style="border:0px;">
-		Membership Dues
+            		Membership Dues
               </th style="border:0px;">
               <th style="border:0px;">
-		Share Payment
+            		Share Payment
               </th>
-	    </tr>
-	    <tr>
+      	    </tr>
+      	    <tr>
               <td class="center" style="border:0px;">
-		<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-			<input type="hidden" name="cmd" value="_xclick">
-			<input type="hidden" name="business" value="treasurer@stoneybrooke.org">
-			<input type="hidden" name="lc" value="US">
-			<input type="hidden" name="item_name" value="Membership Dues Payment">
-			<input type="hidden" name="button_subtype" value="services">
-			<input type="hidden" name="no_note" value="0">
-			<input type="hidden" name="currency_code" value="USD">
-			<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
-			<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-			<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-		</form>
+            		<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            			<input type="hidden" name="cmd" value="_xclick">
+            			<input type="hidden" name="business" value="treasurer@stoneybrooke.org">
+            			<input type="hidden" name="lc" value="US">
+            			<input type="hidden" name="item_name" value="Membership Dues Payment">
+            			<input type="hidden" name="button_subtype" value="services">
+            			<input type="hidden" name="no_note" value="0">
+            			<input type="hidden" name="currency_code" value="USD">
+            			<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
+            			<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            			<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+            		</form>
               </td>
               <td class="center" style="border:0px;">
- 		<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-			<input type="hidden" name="cmd" value="_xclick">
-			<input type="hidden" name="business" value="treasurer@stoneybrooke.org">
-			<input type="hidden" name="lc" value="US">
-			<input type="hidden" name="item_name" value="Share Purchase Payment">
-			<input type="hidden" name="button_subtype" value="services">
-			<input type="hidden" name="no_note" value="0">
-			<input type="hidden" name="currency_code" value="USD">
-			<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
-			<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-			<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-		</form>
+             		<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            			<input type="hidden" name="cmd" value="_xclick">
+            			<input type="hidden" name="business" value="treasurer@stoneybrooke.org">
+            			<input type="hidden" name="lc" value="US">
+            			<input type="hidden" name="item_name" value="Share Purchase Payment">
+            			<input type="hidden" name="button_subtype" value="services">
+            			<input type="hidden" name="no_note" value="0">
+            			<input type="hidden" name="currency_code" value="USD">
+            			<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
+            			<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            			<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+            		</form>
               </td>
-           </tr>
             </tr>
           </table>
           <h4>

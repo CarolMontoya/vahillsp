@@ -72,6 +72,7 @@ h1,h2,h3 {
 h1,h2,h3,h4,h5,h6,strong,dt {
   /* Bringing boldness back to headers and the strong element. */
   font-weight: bold;
+  margin-bottom: 1em;
 }
 optgroup {
   font-weight:normal;
