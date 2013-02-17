@@ -34,18 +34,18 @@
                 Board of Directors <?php echo date('Y'); ?>
               </h3>
               <p>
-                <em>President:</em> Mike Jurkowski<br>
-                <em>Vice-President</em>: Jim Norvell<br>
-                <em>Secretary</em>: Melissa Smrz<br>
+                <em>President:</em> Norman Speicher<br>
+                <em>Vice-President</em>: Brian Fiore<br>
+                <em>Secretary</em>: Caitlin Irvin and Mark Luther<br>
                 <em>Treasurer:</em> Cindy Travia<br>
-                <em>Asst. Sec-Treasurer</em>: <br>
+                <em>Asst. Sec-Treasurer</em>: Norman Speicher<br>
                 <em>Member-at-large</em>: Paula Dillard<br>
+                <em>Member-at-large</em>: Brenda Dreesbach<br>
                 <em>Member-at-large</em>: Lloyd Dugan<br>
-                <em>Member-at-large</em>: Mark Luther<br>
-                <em>Member-at-large</em>: Kim Muelbauer<br>
-                <em>Member-at-large</em>: Norman Speicher<br>
+                <em>Member-at-large</em>: Jeff Govert<br>
+                <em>Member-at-large</em>: Regina Mohr<br>
                 <em>Member-at-large</em>: Suzy Thompson<br>
-                <em>Member-at-large</em>: Jerry Walsh<br>
+                <em>Member-at-large</em>: Niki Wanner<br>
                 <em>Ex Officio/Swim Team</em>: Jan Inguatiato
               </p>
             </div>
@@ -61,12 +61,11 @@
             Committees
           </h3>
           <p>
-            <em>Membership and Marketing</em>: Mike Jurkowski,
-            Chair<br>
+            <em>Membership and Marketing</em>: Caitlin Irvin, Chair<br>
             <em>Finance</em>: Cindy Travia, Chair<br>
             <em>Operations</em>: Suzy Thompson, Chair<br>
-            <em>Facilities</em>: Chair Vacant<br>
-            <em>Social</em>: Chair Vacant<br>
+            <em>Facilities</em>: Lloyd Dugan, Chair<br>
+            <em>Social</em>: Paula Dillard, Chair<br>
             <em>Swim Team</em>: Jan Inguatiato<br>
           </p>
 </div>
