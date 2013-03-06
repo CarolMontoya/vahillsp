@@ -2,7 +2,7 @@
   global $siteTitle;
   $siteTitle = "403 - Access denied";
   include_once "header.inc"; 
-  require_once dirname(__FILE__).'/script-kiddie.php';
+  require_once dirname(__FILE__).'/../script-kiddie/script-kiddie.php';
   
   // Generate email with error - suggestion from http://members.cox.net/midian/tutorials/php404.htm
   $from_header = "From: web_server@vahillspool.org\r\n";

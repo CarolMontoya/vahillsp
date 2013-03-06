@@ -1,6 +1,8 @@
 RewriteEngine on
 # Use PHP5 as default
 # AddHandler application/x-httpd-php5 .php .htm .html .shtml
+ErrorDocument 404 /404.php
+ErrorDocument 403 /403.php
 
 IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
 
@@ -141,7 +143,7 @@ RewriteRule ^images\/TidalWave2007\.jpg$ "http\:\/\/www\.vahillspool\.org\/image
 
 # insert denies here
 
-<Files "css/vahillspool.css">
+<Files "css/vahillspool.min.css">
   Order Deny,Allow
   Allow from all
 </Files>
@@ -149,12 +151,12 @@ RewriteRule ^images\/TidalWave2007\.jpg$ "http\:\/\/www\.vahillspool\.org\/image
   Order Deny,Allow
   Allow from all
 </FilesMatch>
-<FilesMatch \.(?i:png|gif|jpe?g)$>
+<FilesMatch "\.(?i:png|gif|jpe?g)$">
   Order Deny,Allow
   Allow from all
 </FilesMatch>
 <FilesMatch "iwghw/*">
-  Order Allow,Deny
+  Order Deny,Allow
   Deny from all
 </FilesMatch>
 <Files "403.shtml">
