@@ -13,7 +13,7 @@
         Members only may host birthday parties, team parties and other similar 
         events, during regular pool hours or by special arrangements at other 
         times. Arrangements must be made in advance by contacting the Club  <a 
-        href="mailto:&#105;&#110;&#102;&#111;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">here</a>. 
+        href="mailto:&#112;&#97;&#114;&#116;&#121;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">here</a>. 
         Use of picnic tables, the patio lounge, and access to the pool and all 
         other facilities are included. The fee charged is against the member's 
         guest passes; guests are marked off against the member's passes. 
@@ -41,6 +41,10 @@
           alt="">
     </div>
     <div class="yui-u">
+      For scheduling parties, please fill out <a href="docs/VA Hills Pool Party Request.pdf">this form</a>
+      and send it to the email address given in the form. Also, please remember
+      to send the <a href="docs/VA Hills Swim Club Party Guest Form.pdf">guest list</a>
+      to the same email address 2 days prior to the party.
     </div>
   </div>
 </div>
