@@ -36,18 +36,18 @@ include_once "header.inc";
   <h3>2012 Tidal Wave Schedule<br>
   Division 17</h3>
 
-<!--
-  <h4>Important Dates in 2012</h4>
+  <h4>Important Dates in 2013</h4>
   <ul>
-    <li><em>Saturday, May 14, 4:00 pm</em> Kick-off Meeting/Ice Cream Social</li>
-    <li><em>Tuesday, May 31, 6:00 pm</em> Orientation meeting for parents new to swim team</li>
-    <li><em>Friday, June 17, 5-7 pm</em> Team suit sale</li>
-    <li><em>Friday, June 24, 6:00 pm</em> Spaghetti dinner</li>
-    <li><em>Saturday, July 30, 6:00 pm</em> End of season banquet</li>
+    <li><em>Tuesday, May 28</em> First day of practice</li>
+    <li><em>Tuesday, May 28, 6:00 pm</em> Orientation meeting for parents new to swim team</li>
+    <li><em>Friday, June 7, 5-7 pm</em> Team suit sale</li>
+    <!-- <li><em>Friday, June 24, 6:00 pm</em> Spaghetti dinner</li> -->
+    <li><em>Friday, July 6</em> Campout and team picture</li>
+    <!-- <li><em>Saturday, July 30, 6:00 pm</em> End of season banquet</li> -->
   </ul>
- -->  
   <h5>Practice Schedule 2012</h5>
-
+  <p>TBA</p>
+<!--
   <p>Note that there is NO morning practice until Thursday, June 21. <em>Note: that is one day later than previously scheduled.</em></p>
 
   <table class="schedule" width="100%">
@@ -97,7 +97,7 @@ include_once "header.inc";
       <td>6:15 - 7:00 pm</td>
       <td>7:00 - 8:00 pm</td>
     </tr>
-<!--     <tr>
+    <tr>
       <td></td>
       <th>"Ripples"</th>
       <th>Ages 8 and under</th>
@@ -117,12 +117,12 @@ include_once "header.inc";
       <td>6:00 - 6:45pm</td>
       <td>7:00 - 8:00pm</td>
     </tr>
- -->  
+  
   </table>
   <p>* Please note the Tuesday, Wednesday and Thursday afternoon practices are 
     only for those families who cannot make it to morning practice.</p>
-  
-<h5>Meet Schedule</h5>
+ -->  
+<h5>Meet Schedule 213</h5>
   <p>Details will be posted each week for upcoming events.  Saturday "A" Meets typically run from 8:00 am (warm-ups) to 11:30 am.  Monday "B" Meets typically run from 
 5:00 pm (warm-ups) to 8:30 pm.</p>
   <ul>
@@ -143,161 +143,128 @@ include_once "header.inc";
     </thead>
     <tbody>
       <tr>
-        <td>June 16</td>
-        <td>Time Trials</td>
+        <td>June 15</td>
+        <td>Practice Meet</td>
+        <td>Highland Park</td>
+        <td>AWAY</td>
+        <td></td>
+        <td class="nobr">-</td>
         <td>-</td>
+      </tr>
+      <tr>
+        <td>June 17</td>
+        <td>B meet</td>
+        <td>Holin Meadows</td>
+        <td>AWAY</td>
+        <td></td>
+        <td class="nobr">-</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>June 22</td>
+        <td>A meet</td>
+        <td>Pleasant Valley</td>
         <td>HOME</td>
         <td></td>
         <td class="nobr">-</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>June 18</td>
-        <td>B meet</td>
-        <td>Holin Meadows</td>
-        <td>HOME</td>
-        <td><a href="docs/swim-team-results/2012-06-18-HM-results.pdf">Results</a></td>
-        <td class="nobr">-</td>
-        <td>-</td>
-      </tr>
-      <tr>
-        <td>June 23</td>
-        <td>A meet</td>
-        <td>Pinewood</td>
-        <td>AWAY</td>
-        <td><a href="docs/swim-team-results/2012-06-23-PW-improvement.pdf">Improvements</a><br/>
-          <a href="docs/swim-team-results/2012-06-23-PW-results.pdf">Results</a></td>
-        <td class="nobr">285-122</td>
-        <td>W</td>
-      </tr>
-      <tr>
-        <td>June 25</td>
+        <td>June 24</td>
         <td>B meet</td>
         <td>Little Hunting Park</td>
-        <td>AWAY</td>
-        <td><a href="docs/swim-team-results/2012-06-25-LHP-results.pdf">Results</a></td>
+        <td>HOME</td>
+        <td></td>
         <td class="nobr">-</td>
         <td>-</td>
       </tr>
       <tr>
         <td>June 29</td>
-        <td>Fun!</td>
-        <td>Spaghetti Dinner</td>
-        <td>HOME</td>
-        <td><a href="docs/2012SwimTeamSpaghettiDinner.pdf">RAIN DATE!</a></td>
+        <td>A meet</td>
+        <td>Parklawn</td>
+        <td>AWAY</td>
+        <td></td>
         <td class="nobr">-</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>June 30</td>
-        <td>A meet</td>
-        <td>Bren Mar Edsall Park</td>
-        <td>HOME</td>
-        <td><a href="docs/swim-team-results/2012-06-30-BEP-improvement.pdf">Improvements</a><br/>
-          <a href="docs/swim-team-results/2012-06-30-BEP-results.pdf">Results</a></td>
-        <td class="nobr">285-130</td>
-        <td>W</td>
-      </tr>
-      <tr>
-        <td>July 2</td>
+        <td>July 1</td>
         <td>B meet</td>
         <td>Highland Park</td>
-        <td>AWAY</td>
-        <td><a href="docs/swim-team-results/2012-07-02-HP-results.pdf">Results</a></td>
-        <td class="nobr">-</td>
-        <td>-</td>
-      </tr>
-      <tr>
-        <td>July 4</td>
-        <td>IM</td>
-        <td>Possible IM Meet at Hayfield</td>
-        <td>AWAY</td>
-        <td></td>
-        <td class="nobr">-</td>
-        <td>-</td>
-      </tr>
-      <tr>
-        <td>July 7</td>
-        <td>A Meet</td>
-        <td>Springfield - Campout</td>
         <td>HOME</td>
         <td></td>
-        <td class="nobr">332-72</td>
-        <td>W</td>
+        <td class="nobr">-</td>
+        <td>-</td>
       </tr>
       <tr>
-        <td>July 9</td>
-        <td>B meet</td>
+        <td>July 6</td>
+        <td>A meet</td>
+        <td>Somerset Olde Creek</td>
+        <td>HOME</td>
+        <td></td>
+        <td class="nobr">-</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>July 6</td>
+        <td>Fun!</td>
+        <td>Campout and team picture</td>
+        <td>HOME</td>
+        <td></td>
+        <td class="nobr">-</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>July 8</td>
+        <td>B Meet</td>
         <td>Lorton Station</td>
         <td>HOME</td>
-        <td><a href="docs/swim-team-results/2012-06-25-LHP-results.pdf">Results</a></td>
+        <td></td>
         <td class="nobr">-</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>July 11</td>
+        <td>July 10</td>
         <td>Relay Carnival</td>
-        <td>Bren Mar Edsall Park</td>
+        <td>Pleasant Valley</td>
         <td>AWAY</td>
         <td></td>
-        <td class="nobr">-</td>
-        <td>W</td>
-      </tr>
-      <tr>
-        <td>July 14</td>
-        <td>A meet</td>
-        <td>Broyhill Crest</td>
-        <td>AWAY</td>
-        <td></td>
-        <td class="nobr">264-156</td>
-        <td>W</td>
-      </tr>
-      <tr>
-        <td>July 14</td>
-        <td>Divisional Relay Championships</td>
-        <td>Broyhill Crest</td>
-        <td>AWAY</td>
-        <td>
-          <a href="docs/swim-team-results/2012-07-15-RCD-results.pdf">Results&nbsp;(div.)</a>
-          <a href="docs/swim-team-results/2012-07-15-RCI-results.pdf">Results&nbsp;(ind.)</a>          
-        </td>
-        <td class="nobr">80</td>
-        <td>3rd</td>
-      </tr>
-      <tr>
-        <td>July 16</td>
-        <td>B meet</td>
-        <td>Hayfield</td>
-        <td>HOME</td>
-        <td><a href="docs/swim-team-results/2012-07-16-H-results.pdf">Results</a></td>
         <td class="nobr">-</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>July 21</td>
-        <td>A Meet</td>
-        <td>North Springfield</td>
-        <td>AWAY</td>
-        <td><a href="docs/swim-team-results/2012-07-21-NS-improvement.pdf">Improvements</a><br/>
-          <!--<a href="docs/swim-team-results/2012-06-30-BEP-results.pdf">Results</a>--></td>
-        <td class="nobr">245-170</td>
-        <td>W</td>
-      </tr>
-      <tr>
-        <td>July 23</td>
-        <td>IM Invitational?</td>
-        <td>TBA</td>
-        <td>TBA</td>
+        <td>July 13</td>
+        <td>A meet</td>
+        <td>Lincolnia Park</td>
+        <td>HOME</td>
         <td></td>
         <td class="nobr"></td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>July 15</td>
+        <td>B Meet</td>
+        <td>Hayfield</td>
+        <td>AWAY</td>
         <td></td>
+        <td class="nobr">-</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>July 20</td>
+        <td>A meet</td>
+        <td>Herndon</td>
+        <td>AWAY</td>
+        <td></td>
+        <td class="nobr">-</td>
+        <td>-</td>
       </tr>
       <tr>
         <td>July 28</td>
         <td>Divisionals</td>
-        <td>Pinewood</td>
+        <td>Parklawn</td>
         <td>AWAY</td>
-        <td><a href="docs/swim-team-results/2012-07-29-Div-results.pdf">Results</a></td>
+        <td></td>
         <td class="nobr">-</td>
         <td>-</td>
       </tr>
