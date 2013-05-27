@@ -17,10 +17,10 @@
     <meta name="ICBM" content="38.76639;-77.114311">
     <meta name="google-site-verification" content="oWVHaIbsW3g_HyzkSiUBJT6v3sHc2ECLIO9LSN0zhIE" />
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-ipad.png" />
-    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-iphone-retina.png" />
-    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-ipad-retina.png" />
+    <link rel="apple-touch-icon" href="/images/site/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/site/apple-touch-icon-ipad.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/site/apple-touch-icon-iphone-retina.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/site/apple-touch-icon-ipad-retina.png" />
     <link rel="stylesheet" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="<?php echo $root; ?>/css/vahillspool.min.css" type="text/css" media="screen" />
     <!-- <script type="text/JavaScript" src="<?php echo $root; ?>/js/curvycorners.js"></script> -->
