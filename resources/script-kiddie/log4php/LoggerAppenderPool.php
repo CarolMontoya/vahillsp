@@ -27,32 +27,32 @@
 class LoggerAppenderPool {
 	/* Appender Pool */
 	public static $appenderPool =  array();
-	
+
 	/**
-	 * 
 	 *
-	 * @param string $name 
-	 * @param string $class 
+	 *
+	 * @param string $name
+	 * @param string $class
 	 * @return LoggerAppender
 	 */
 	public static function getAppenderFromPool($name, $class = '') {
 		if(isset(self::$appenderPool[$name])) {
 			return self::$appenderPool[$name];
 		}
-		
+
 		if(empty($class)) {
 			return null;
 		}
-		
+
 		$appender = LoggerReflectionUtils::createObject($class);
 		$appender->setName($name);
-		if($appender !== null) { 
+		if($appender !== null) {
 			self::$appenderPool[$name] = $appender;
 			return self::$appenderPool[$name];
 		}
-		return null;		
+		return null;
 	}
-	
+
 	public static function clear()
 	{
 		 self::$appenderPool =  array();

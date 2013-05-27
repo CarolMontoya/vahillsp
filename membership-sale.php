@@ -1,7 +1,7 @@
 <?php
   global $siteTitle;
   $siteTitle = "Membership Sale";
-  include_once "header.inc"; 
+  include_once "header.inc";
 ?>
 <div class="rounded">
 <h2>Membership</h2>

@@ -1,7 +1,7 @@
 <?php
   global $siteTitle;
   $siteTitle = "Grand Opening";
-  include_once "header.inc"; 
+  include_once "header.inc";
 ?>
 <div class="rounded">
           <h2>

@@ -37,6 +37,6 @@ include_once "header.inc";
         costume goes to Allie this year - congratulations again, Allie!
       </p>
     </div>
-  </div>  
+  </div>
 </div>
 <?php include_once "footer.inc"; ?>

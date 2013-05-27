@@ -20,26 +20,26 @@
 
 /**
  * Implemented by classes capable of configuring log4php using a URL.
- *	
+ *
  * @version $Revision: 822448 $
  * @package log4php
  */
 interface LoggerConfigurator {
-	
+
 	/**
 	 * Special level value signifying inherited behaviour. The current
-	 * value of this string constant is <b>inherited</b>. 
-	 * {@link CONFIGURATOR_NULL} is a synonym.  
+	 * value of this string constant is <b>inherited</b>.
+	 * {@link CONFIGURATOR_NULL} is a synonym.
 	 */
 	const CONFIGURATOR_INHERITED = 'inherited';
-	
+
 	/**
-	 * Special level signifying inherited behaviour, same as 
-	 * {@link CONFIGURATOR_INHERITED}. 
-	 * The current value of this string constant is <b>null</b>. 
+	 * Special level signifying inherited behaviour, same as
+	 * {@link CONFIGURATOR_INHERITED}.
+	 * The current value of this string constant is <b>null</b>.
 	 */
 	const CONFIGURATOR_NULL = 'null';
-		
+
 	/**
 	 * Interpret a resource pointed by a <var>url</var> and configure accordingly.
 	 *
@@ -49,5 +49,5 @@ interface LoggerConfigurator {
 	 * @param string $url The URL to parse
 	 */
 	public function configure(LoggerHierarchy $hierarchy, $url = null);
-	
+
 }

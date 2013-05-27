@@ -1,7 +1,7 @@
-<?php 
+<?php
 	global $siteTitle;
 	$siteTitle = "Steakout 2008";
-	include_once "header.inc"; 
+	include_once "header.inc";
 ?>
 <div class="rounded">
           <img src="images/steakout2008.gif"

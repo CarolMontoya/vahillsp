@@ -20,42 +20,42 @@
 
 /**
  * The LoggerMDC class provides <i>mapped diagnostic contexts</i>.
- * 
+ *
  * <p>A <i>Mapped Diagnostic Context</i>, or
  * MDC in short, is an instrument for distinguishing interleaved log
  * output from different sources. Log output is typically interleaved
  * when a server handles multiple clients near-simultaneously.
- * 
- * <p>This class is similar to the {@link LoggerNDC} class except that 
+ *
+ * <p>This class is similar to the {@link LoggerNDC} class except that
  * it is based on a map instead of a stack.
- * 
+ *
  * <p><b>The MDC is managed on a per thread basis</b>.
- * 
+ *
  * <p>Example:
- * 
+ *
  * {@example ../../examples/php/mdc.php 19}<br>
  *
  * With the properties file:
- * 
+ *
  * {@example ../../examples/resources/mdc.properties 18}<br>
- * 
+ *
  * Will result in the following (notice the username "knut" in the output):
- * 
+ *
  * <pre>
  * 2009-09-13 18:48:28 DEBUG root knut: Testing MDC in src/examples/php/mdc.php at 23
  * </pre>
- * 
+ *
  * @version $Revision: 998444 $
  * @since 0.3
  * @package log4php
  */
 class LoggerMDC {
-	
+
 	/**
 	 * This is the repository of user mappings
 	 */
 	private static $map = array();
-		
+
 	/**
 	 * Put a context value as identified with the key parameter into the current thread's
 	 *	context map.
@@ -72,11 +72,11 @@ class LoggerMDC {
 	public static function put($key, $value) {
 		self::$map[$key] = $value;
 	}
-  
+
 	/**
 	 * Get the context identified by the key parameter.
 	 *
-	 * <p>You can use special key identifiers to map values in 
+	 * <p>You can use special key identifiers to map values in
 	 * PHP $_SERVER and $_ENV vars. Just put a 'server.' or 'env.'
 	 * followed by the var name you want to refer.</p>
 	 *
@@ -104,7 +104,7 @@ class LoggerMDC {
 	}
 
 	/**
-	 * Remove the the context identified by the key parameter. 
+	 * Remove the the context identified by the key parameter.
 	 *
 	 * It only affects user mappings, not $_ENV or $_SERVER.
 	 *

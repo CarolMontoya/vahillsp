@@ -32,7 +32,7 @@
  * @since 0.5
  */
 class LoggerLevel {
-	
+
 	const OFF = 2147483647;
 	const FATAL = 50000;
 	const ERROR = 40000;
@@ -43,13 +43,13 @@ class LoggerLevel {
 	const ALL = -2147483647;
 
 	/**
-	 * TODO: check if still necessary or to be refactored 
+	 * TODO: check if still necessary or to be refactored
 	 * @var integer
 	 */
 	private $level;
-	
+
 	/**
-	 * Contains a list of instantiated levels 
+	 * Contains a list of instantiated levels
 	 */
 	private static $levelMap;
 
@@ -80,7 +80,7 @@ class LoggerLevel {
 	 * Two priorities are equal if their level fields are equal.
 	 *
 	 * @param object $o
-	 * @return boolean 
+	 * @return boolean
 	 */
 	public function equals($o) {
 		if($o instanceof LoggerLevel) {
@@ -91,7 +91,7 @@ class LoggerLevel {
 			return false;
 		}
 	}
-	
+
 	/**
 	 * Returns an Off Level
 	 * @static
@@ -115,7 +115,7 @@ class LoggerLevel {
 		}
 		return self::$levelMap[LoggerLevel::FATAL];
 	}
-	
+
 	/**
 	 * Returns an Error Level
 	 * @static
@@ -127,7 +127,7 @@ class LoggerLevel {
 		}
 		return self::$levelMap[LoggerLevel::ERROR];
 	}
-	
+
 	/**
 	 * Returns a Warn Level
 	 * @static
@@ -163,7 +163,7 @@ class LoggerLevel {
 		}
 		return self::$levelMap[LoggerLevel::DEBUG];
 	}
-	
+
 	/**
 	 * Returns a Trace Level
 	 * @static
@@ -174,7 +174,7 @@ class LoggerLevel {
 			self::$levelMap[LoggerLevel::TRACE] = new LoggerLevel(LoggerLevel::TRACE, 'TRACE', 7);
 		}
 		return self::$levelMap[LoggerLevel::TRACE];
-	}	
+	}
 
 	/**
 	 * Returns an All Level
@@ -187,7 +187,7 @@ class LoggerLevel {
 		}
 		return self::$levelMap[LoggerLevel::ALL];
 	}
-	
+
 	/**
 	 * Return the syslog equivalent of this priority as an integer.
 	 * @final
@@ -201,7 +201,7 @@ class LoggerLevel {
 	 * Returns <i>true</i> if this level has a higher or equal
 	 * level than the level passed as argument, <i>false</i>
 	 * otherwise.
-	 * 
+	 *
 	 * <p>You should think twice before overriding the default
 	 * implementation of <i>isGreaterOrEqual</i> method.
 	 *
@@ -219,7 +219,7 @@ class LoggerLevel {
 	public function toString() {
 		return $this->levelStr;
 	}
-	
+
 	/**
 	 * Returns the string representation of this level.
 	 * @return string
@@ -242,7 +242,7 @@ class LoggerLevel {
 	 *
 	 * @param mixed $arg
 	 * @param LoggerLevel $default
-	 * @static 
+	 * @static
 	 */
 	public static function toLevel($arg, $defaultLevel = null) {
 		if($defaultLevel === null) {

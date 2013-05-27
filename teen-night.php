@@ -1,7 +1,7 @@
 <?php
   global $siteTitle;
   $siteTitle = "Teen Night";
-  include_once "header.inc"; 
+  include_once "header.inc";
 ?>
 <div class="rounded">
 <p>Come and hang out for another</p>

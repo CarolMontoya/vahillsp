@@ -1,7 +1,7 @@
 <?php
   global $siteTitle;
   $siteTitle = "Board";
-  include_once "header.inc"; 
+  include_once "header.inc";
 ?>
 <div class="rounded">
           <h2>
@@ -14,7 +14,7 @@
                 Board of Directors of the club, with the assistance
                 of various committees. Member participation on the
                 board and the committees is encouraged. Communicate
-                with the board or individual members by 
+                with the board or individual members by
                 <a href=
                 "mailto:&#105;&#110;&#102;&#111;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">e-mailing them</a>.
               </p>

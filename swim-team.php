@@ -1,7 +1,7 @@
-<?php 
+<?php
   global $siteTitle;
   $siteTitle = "Tidal Wave Swim Team";
-  include_once "header.inc"; 
+  include_once "header.inc";
 ?>
 <link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
 <script src="js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>

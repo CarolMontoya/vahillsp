@@ -1,7 +1,7 @@
 <?php
   global $siteTitle;
   $siteTitle = "Members";
-  include_once "header.inc"; 
+  include_once "header.inc";
 ?>
 <div class="rounded">
           <h2>

@@ -1,7 +1,7 @@
-<?php 
+<?php
   global $siteTitle;
   $siteTitle = "Tidal Wave Swim Team 101";
-  include_once "header.inc"; 
+  include_once "header.inc";
 ?>
         <div class="rounded">
           <img src="images/site/VHTidalWaveLogo.jpg" style="float:right;">
@@ -501,7 +501,7 @@
           <table border="1"
                  align="center"
                  class="meet"
-                 summary="Listing of Saturday Meet Evens and 
+                 summary="Listing of Saturday Meet Evens and
                   Distances by age group.">
             <tr>
               <th>
@@ -801,7 +801,7 @@
           <p>
             A swimmer will be disqualified (or DQd) if he/she
             does not follow the rules of the stroke or false
-            starts. These are covered in more detail in <a href= 
+            starts. These are covered in more detail in <a href=
             "#ch7">Chapter 7</a>.
           </p>
           <h5>

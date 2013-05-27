@@ -1,7 +1,7 @@
 <?php
   global $siteTitle;
   $siteTitle = "Membership";
-  include_once "header.inc"; 
+  include_once "header.inc";
 ?>
 <div class="rounded">
   <div class="yui-g">
@@ -11,11 +11,11 @@
             August Share sale
           </h2>
           <p>
-            We are again conducting our August Share Sale.  
-            If you are sitting on the fence on whether 
-            or not to join the pool, this is a great way to join.  
-            The sale allows new members to join as of August 1 
-            for the cost of the share, only.  
+            We are again conducting our August Share Sale.
+            If you are sitting on the fence on whether
+            or not to join the pool, this is a great way to join.
+            The sale allows new members to join as of August 1
+            for the cost of the share, only.
             Please <a href=
             "mailto:&#105;&#110;&#102;&#111;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">contact our president</a>
             or call (703) 329-2360, and a representative of the
@@ -29,7 +29,7 @@
             Membership in the Virginia Hills Club, Inc. is
             competitive with other pool memberships in the area.
             In 2009, the club opened with <a href=
-            "plans.php">two new pools</a>. The main pool was 
+            "plans.php">two new pools</a>. The main pool was
             enlarged, with a diving well, slide, and large shallow
             area; the baby pool got fun new water features.
           </p>
@@ -40,7 +40,7 @@
             from any community in the area. We have welcomed
             members from as far away as the City of Alexandria,
             Beulah Street, Lorton and Hayfield. After reviewing
-            the information here, please 
+            the information here, please
             <a href=
             "mailto:&#105;&#110;&#102;&#111;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">send a message to us</a>
             or call (703) 329-2360, and a representative of the
@@ -156,8 +156,8 @@
             </a>
           </p>
           <p>
-            You may also pay through PayPal. You will be taken to Paypal's website 
-            where you will have the opportunity to enter the amount you would like 
+            You may also pay through PayPal. You will be taken to Paypal's website
+            where you will have the opportunity to enter the amount you would like
             to pay today. If you choose not to pay in full, please
             remember to pay the remainder before the due date.
           </p>
@@ -211,7 +211,7 @@
             The Virginia Hills Club, Inc. is owned by its
             members, who are the shareholders in the Club. To
             become a member, either a family or single, pay a
-            one-time fee to purchase a share. The share price 
+            one-time fee to purchase a share. The share price
             for the <?php echo date('Y'); ?> season will be <strong>$500</strong>. New
             shareholders can pay this amount all at once, or make
             a down payment on the share and membership dues with
@@ -230,11 +230,11 @@
             Seasonal Dues
           </h5>
           <p>
-            Shareholders are required to pay membership fees 
+            Shareholders are required to pay membership fees
             before the start of every season. The due date
             for <?php echo date('Y'); ?> fees is <?php echo date('F j, Y', strtotime("first Sunday", mktime(0, 0, 0, 5, 1, date('Y')))); ?>. The membership
             fee for Family Membership in <?php echo date('Y'); ?> is
-            <strong>$550</strong>. The membership fee for a 
+            <strong>$550</strong>. The membership fee for a
             Single Membership in <?php echo date('Y'); ?> is <strong>$295</strong>. Payments may
             be spaced out in advance of that date. New members
             should also pay seasonal dues. New members whose
@@ -259,14 +259,14 @@
           <p>
             The Virginia Hills Club also welcomes military
             families, who only may be in our community for a few
-            years. The membership fee for an Active Duty Military 
-            Membership in <?php echo date('Y'); ?> is <strong>$550</strong> (no share 
-            purchase). This benefit can be used for two consecutive 
-            seasons. If a duty tour is extended or is expected to 
-            last for more than two swim seasons, active duty personnel 
-            are encouraged to consider becoming shareholders. 
-            Special consideration will be given when such military 
-            shareholders rotate out of the area. 
+            years. The membership fee for an Active Duty Military
+            Membership in <?php echo date('Y'); ?> is <strong>$550</strong> (no share
+            purchase). This benefit can be used for two consecutive
+            seasons. If a duty tour is extended or is expected to
+            last for more than two swim seasons, active duty personnel
+            are encouraged to consider becoming shareholders.
+            Special consideration will be given when such military
+            shareholders rotate out of the area.
           </p>
           <h5>
             Nanny/Granny Fee
@@ -279,7 +279,7 @@
             Guest Passes
           </h5>
           <p>
-            Guest passes can be purchased for <strong>$4 each or $35 for 10 
+            Guest passes can be purchased for <strong>$4 each or $35 for 10
             passes</strong>.
           </p>
         </div>

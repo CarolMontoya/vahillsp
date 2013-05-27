@@ -1,7 +1,7 @@
-<?php 
+<?php
   global $siteTitle;
   $siteTitle = "Home";
-  include_once "header.inc"; 
+  include_once "header.inc";
 ?>
 <div class="rounded">
   <?php
@@ -154,7 +154,7 @@
   ?>
   </ul>
 </div>
--->  
+-->
 <div class="rounded">
   <p align="center">
     <img src="images/site/tidalwave50years.png" alt="Tidal Wave 50 year anniversary" width="400px" height="372px">

@@ -1,7 +1,7 @@
-<?php 
+<?php
   global $siteTitle;
   $siteTitle = "404 - Page not found";
-  include_once "header.inc"; 
+  include_once "header.inc";
   require_once dirname(__FILE__) . '/../script-kiddie/script-kiddie.php';
 
   // Generate email with error - suggestion from http://members.cox.net/midian/tutorials/php404.htm

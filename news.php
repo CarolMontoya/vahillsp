@@ -1,7 +1,7 @@
 <?php
   global $siteTitle;
   $siteTitle = "Newsletter";
-  include_once "header.inc"; 
+  include_once "header.inc";
 ?>
 <div class="rounded">
           <h2>

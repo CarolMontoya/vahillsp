@@ -25,39 +25,39 @@
  * @package log4php
  */
 abstract class LoggerAppender {
-	
+
 	/**
 	 * @var boolean closed appender flag
 	 */
 	protected $closed = false;
-	
+
 	/**
 	 * The first filter in the filter chain
 	 * @var LoggerFilter
 	 */
 	protected $filter = null;
-			
+
 	/**
 	 * LoggerLayout for this appender. It can be null if appender has its own layout
 	 * @var LoggerLayout
 	 */
-	protected $layout = null; 
-	
+	protected $layout = null;
+
 	/**
 	 * @var string Appender name
 	 */
 	protected $name;
-	
+
 	/**
 	 * @var LoggerLevel There is no level threshold filtering by default.
 	 */
 	protected $threshold = null;
-	
+
 	/**
 	 * @var boolean needs a layout formatting ?
 	 */
 	protected $requiresLayout = true;
-	
+
 	/**
 	 * Constructor
 	 *
@@ -79,7 +79,7 @@ abstract class LoggerAppender {
 			$this->filter->addNext($newFilter);
 		}
 	}
-	
+
 	/**
 	 * Clear the list of filters by removing all the filters in it.
 	 * @abstract
@@ -90,24 +90,24 @@ abstract class LoggerAppender {
 	}
 
 	/**
-	 * Return the first filter in the filter chain for this Appender. 
+	 * Return the first filter in the filter chain for this Appender.
 	 * The return value may be <i>null</i> if no is filter is set.
 	 * @return LoggerFilter
 	 */
 	public function getFilter() {
 		return $this->filter;
-	} 
-	
-	/** 
-	 * Return the first filter in the filter chain for this Appender. 
+	}
+
+	/**
+	 * Return the first filter in the filter chain for this Appender.
 	 * The return value may be <i>null</i> if no is filter is set.
 	 * @return LoggerFilter
 	 */
 	public function getFirstFilter() {
 		return $this->filter;
 	}
-	
-	
+
+
 	/**
 	 * This method performs threshold checks and invokes filters before
 	 * delegating actual logging to the subclasses specific <i>append()</i> method.
@@ -118,7 +118,7 @@ abstract class LoggerAppender {
 		if($this->closed) {
 			return;
 		}
-		
+
 		if(!$this->isAsSevereAsThreshold($event->getLevel())) {
 			return;
 		}
@@ -132,7 +132,7 @@ abstract class LoggerAppender {
 			}
 		}
 		$this->append($event);
-	}	 
+	}
 
 	/**
 	 * Set the Layout for this appender.
@@ -143,8 +143,8 @@ abstract class LoggerAppender {
 		if($this->requiresLayout()) {
 			$this->layout = $layout;
 		}
-	} 
-	
+	}
+
 	/**
 	 * Returns this appender layout.
 	 * @see LoggerAppender::getLayout()
@@ -153,14 +153,14 @@ abstract class LoggerAppender {
 	public function getLayout() {
 		return $this->layout;
 	}
-	
+
 	/**
 	 * Configurators call this method to determine if the appender
-	 * requires a layout. 
+	 * requires a layout.
 	 *
-	 * <p>If this method returns <i>true</i>, meaning that layout is required, 
-	 * then the configurator will configure a layout using the configuration 
-	 * information at its disposal.	 If this method returns <i>false</i>, 
+	 * <p>If this method returns <i>true</i>, meaning that layout is required,
+	 * then the configurator will configure a layout using the configuration
+	 * information at its disposal.	 If this method returns <i>false</i>,
 	 * meaning that a layout is not required, then layout configuration will be
 	 * skipped even if there is available layout configuration
 	 * information at the disposal of the configurator.</p>
@@ -168,14 +168,14 @@ abstract class LoggerAppender {
 	 * <p>In the rather exceptional case, where the appender
 	 * implementation admits a layout but can also work without it, then
 	 * the appender should return <i>true</i>.</p>
-	 * 
+	 *
 	 * @see LoggerAppender::requiresLayout()
 	 * @return boolean
 	 */
 	public function requiresLayout() {
 		return $this->requiresLayout;
 	}
-	
+
 	/**
 	 * Get the name of this appender.
 	 * @see LoggerAppender::getName()
@@ -184,28 +184,28 @@ abstract class LoggerAppender {
 	public function getName() {
 		return $this->name;
 	}
-	
+
 /**
 	 * Set the name of this appender.
 	 *
 	 * The name is used by other components to identify this appender.
 	 *
-	 * 
+	 *
 	 * @param string $name
 	 */
 	public function setName($name) {
-		$this->name = $name;	
+		$this->name = $name;
 	}
-	
+
 	/**
-	 * Returns this appenders threshold level. 
+	 * Returns this appenders threshold level.
 	 * See the {@link setThreshold()} method for the meaning of this option.
 	 * @return LoggerLevel
 	 */
-	public function getThreshold() { 
+	public function getThreshold() {
 		return $this->threshold;
 	}
-	
+
 	/**
 	 * Set the threshold level of this appender.
 	 *
@@ -219,14 +219,14 @@ abstract class LoggerAppender {
 			$this->threshold = $threshold;
 		}
 	}
-	
+
 	/**
-	 * Check whether the message level is below the appender's threshold. 
+	 * Check whether the message level is below the appender's threshold.
 	 *
 	 *
 	 * If there is no threshold set, then the return value is always <i>true</i>.
 	 * @param LoggerLevel $level
-	 * @return boolean true if priority is greater or equal than threshold	
+	 * @return boolean true if priority is greater or equal than threshold
 	 */
 	public function isAsSevereAsThreshold($level) {
 		if($this->threshold === null) {
@@ -240,20 +240,20 @@ abstract class LoggerAppender {
 	 * requires it.
 	 */
 	abstract public function activateOptions();
-	
+
 	/**
-	 * Subclasses of {@link LoggerAppender} should implement 
+	 * Subclasses of {@link LoggerAppender} should implement
 	 * this method to perform actual logging.
 	 *
 	 * @param LoggerLoggingEvent $event
 	 * @see doAppend()
 	 * @abstract
 	 */
-	abstract protected function append(LoggerLoggingEvent $event); 
+	abstract protected function append(LoggerLoggingEvent $event);
 
 	/**
 	 * Release any resources allocated.
-	 * Subclasses of {@link LoggerAppender} should implement 
+	 * Subclasses of {@link LoggerAppender} should implement
 	 * this method to perform proper closing procedures.
 	 * @abstract
 	 */

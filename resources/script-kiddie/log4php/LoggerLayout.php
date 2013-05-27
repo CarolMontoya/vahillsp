@@ -20,7 +20,7 @@
 
 /**
  * Extend this abstract class to create your own log layout format.
- *	
+ *
  * @version $Revision: 822415 $
  * @package log4php
  * @abstract
@@ -42,23 +42,23 @@ abstract class LoggerLayout {
 	 */
 	public function format(LoggerLoggingEvent $event) {
 		return $event->getRenderedMessage();
-	} 
-	
+	}
+
 	/**
 	 * Returns the content type output by this layout.
 	 * @return string
 	 */
 	public function getContentType() {
 		return "text/plain";
-	} 
-			
+	}
+
 	/**
 	 * Returns the footer for the layout format.
 	 * @return string
 	 */
 	public function getFooter() {
 		return null;
-	} 
+	}
 
 	/**
 	 * Returns the header for the layout format.

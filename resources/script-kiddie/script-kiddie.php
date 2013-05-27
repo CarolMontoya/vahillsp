@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 date_default_timezone_set('America/New_York');
 require_once dirname(__FILE__).'/log4php/Logger.php';
@@ -8,7 +8,7 @@ Logger::configure(dirname(__FILE__).'/resources/log4php.properties');
  * Class to manage IP bans in .htaccess automatically
  */
 class ScriptKiddie {
-  
+
   const DATAFILE = '/home/vahillsp/script-kiddie/BadAttemptList.txt';
   const KEEP_CACHE_ENTRIES_SEC = 900;
   const MAX_BAD_ATTEMPT_IN_15_MINS = 5;
@@ -44,8 +44,8 @@ class ScriptKiddie {
 
   static private function addBadAttempt($ip) {
     self::$logger->debug("Adding IP $ip to list");
-    if (empty(self::$badAttempts[$ip])) { 
-      self::$badAttempts[$ip] = array(); 
+    if (empty(self::$badAttempts[$ip])) {
+      self::$badAttempts[$ip] = array();
     }
     array_push(self::$badAttempts[$ip], time());
     self::saveBadAttempts(self::$badAttempts);
@@ -116,7 +116,7 @@ class ScriptKiddie {
           }
           // need to keep processing file to make sure we remove old bans, otherwise we could return here
         }
-      } 
+      }
       if (preg_match("/^# insert denies here/", $line)) {
         $insertPoint = $cnt;
         self::$logger->debug("Found insert point at line $insertPoint");
@@ -124,7 +124,7 @@ class ScriptKiddie {
       $result[] = $line;
       $cnt++;
     }
-    if ($insertPoint == 0) { 
+    if ($insertPoint == 0) {
       $insertPoint = $cnt;
       self::$logger->debug("No specific insert point found, adding line at and of " . self::HTACCESS . " (line $insertPoint)");
     }

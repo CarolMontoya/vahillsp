@@ -1,7 +1,7 @@
-<?php 
+<?php
 	global $siteTitle;
 	$siteTitle = "Rentals";
-	include_once "header.inc"; 
+	include_once "header.inc";
 ?>
 <div class="rounded">
   <h2>
@@ -46,8 +46,8 @@
         the same email address 2 days prior to the party.
       </p>
       <p>
-        For additional questions regarding party rentals, please click <a 
-        href="mailto:&#112;&#97;&#114;&#116;&#121;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">here</a>.        
+        For additional questions regarding party rentals, please click <a
+        href="mailto:&#112;&#97;&#114;&#116;&#121;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">here</a>.
       </p>
     </div>
   </div>

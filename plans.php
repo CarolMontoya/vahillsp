@@ -1,10 +1,10 @@
 <?php
   global $siteTitle;
   $siteTitle = "Pool Renovation 2008-09";
-  include_once "header.inc"; 
+  include_once "header.inc";
 ?>
 <!-- Make this one page wider to accomodate large construction plans -->
-<style> 
+<style>
 #doc {
   margin:auto;text-align:left; /* leave unchanged */
   width:81.5385em;/* 1060px non-IE */

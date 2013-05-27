@@ -1,7 +1,7 @@
-<?php 
+<?php
 	global $siteTitle;
 	$siteTitle = "Schedule";
-	include_once "header.inc"; 
+	include_once "header.inc";
 ?>
 <div class="rounded">
   <div class="yui-g">
@@ -50,7 +50,7 @@
       Closing time of 8:30 p.m. means the front gate will close at 8:30 p.m.
     </p>
     <p>
-      Pool operating hours are subject to change for weather or special events.  
+      Pool operating hours are subject to change for weather or special events.
       See pool calendar for details.
     </p>
     </p>

@@ -12,12 +12,12 @@ include_once "header.inc";
     min-width:600px;/* optional but recommended */
   }
 </style>
-<!-- 
+<!--
 <div class="rounded">
   <h2 class="announce">Coming soon!</h2>
 </div>
  -->
-<!-- 
+<!--
 <?php if(strtotime("2011-06-24") - time() >= -86400) { ?>
 <div class="rounded">
   <h2 class="announce">Important schedule change</h2>
@@ -97,11 +97,11 @@ include_once "header.inc";
       <td>7:00 - 8:00 pm</td>
     </tr>
   </table>
-  <p>* Please note the Tuesday, Wednesday and Thursday afternoon practices are 
+  <p>* Please note the Tuesday, Wednesday and Thursday afternoon practices are
     only for those families who cannot make it to morning practice.</p>
-   
+
 <h5>Meet Schedule 2013</h5>
-  <p>Details will be posted each week for upcoming events.  Saturday "A" Meets typically run from 8:00 am (warm-ups) to 11:30 am.  Monday "B" Meets typically run from 
+  <p>Details will be posted each week for upcoming events.  Saturday "A" Meets typically run from 8:00 am (warm-ups) to 11:30 am.  Monday "B" Meets typically run from
 5:00 pm (warm-ups) to 8:30 pm.</p>
   <ul>
     <li>Remember that warm-ups start before meet times!</li>
