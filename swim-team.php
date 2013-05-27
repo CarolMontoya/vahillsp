@@ -10,7 +10,7 @@
             Virginia Hills <em>Tidal Wave</em>
           </h2>
           <h3>
-            Division 17, Northern Virginia Swimming League <img class="middle" src="images/swimteam/nvsl_logo.png">
+            Division <?php echo $division ?>, Northern Virginia Swimming League <img class="middle" src="images/swimteam/nvsl_logo.png">
           </h3>
           <p align="center">
             <img src="images/site/tidalwave50years.png"
@@ -49,11 +49,11 @@
                 101</strong></a>: learn the basics!
               </li>
 
-              <li>2012 swim season <a href="swim-team-sched.php"><strong>
+              <li>2013 swim season <a href="swim-team-sched.php"><strong>
                 practice and meet schedule online</strong></a>
               </li>
-              <li><strong><a href="docs/2012InformationLetter.pdf">Information Letter</a></strong></li>
-              <li><strong><a href="docs/2012SummerRegForm.pdf">Registration Form</a></strong></li>
+              <li><strong><a href="docs/2013InformationLetter.pdf">Information Letter</a></strong></li>
+              <li><strong><a href="http://www.active.com/swimming-team/alexandria-va/virginia-hills-swim-team-summer-2013">Registration Form</a></strong></li>
 <!--               <li><strong><a href="docs/2011AvailabilityForm.pdf">Availability Form</a></strong></li>
               <li><strong><a href="docs/2011VirginiaHillsTShirts.pdf">T-Shirt Form</a></strong></li>
  -->

@@ -1,6 +1,6 @@
 <?php
 global $siteTitle;
-$siteTitle = "Swim Team Schedule 2012";
+$siteTitle = "Swim Team Schedule 2013";
 include_once "header.inc";
 ?>
 <style type="text/css" title="currentStyle">
@@ -33,22 +33,21 @@ include_once "header.inc";
 
   <h2>Swim Team Schedule</h2>
   <p align="center"><img src="images/swteam1.jpg" width="365" height="274" alt="Swimmers at the start"></p>
-  <h3>2012 Tidal Wave Schedule<br>
-  Division 17</h3>
+  <h3>2013 Tidal Wave Schedule<br>
+  Division <?php echo $division ?></h3>
 
   <h4>Important Dates in 2013</h4>
   <ul>
     <li><em>Tuesday, May 28</em> First day of practice</li>
     <li><em>Tuesday, May 28, 6:00 pm</em> Orientation meeting for parents new to swim team</li>
-    <li><em>Friday, June 7, 5-7 pm</em> Team suit sale</li>
-    <!-- <li><em>Friday, June 24, 6:00 pm</em> Spaghetti dinner</li> -->
+    <li><em>Friday, June 7, 5:30-7:30 pm</em> Team suit sale</li>
+    <li><em>Friday, June 21, 6:00 pm</em> Spaghetti dinner</li>
     <li><em>Friday, July 6</em> Campout and team picture</li>
-    <!-- <li><em>Saturday, July 30, 6:00 pm</em> End of season banquet</li> -->
+    <li><em>Saturday, July 27, 6:00 pm</em> End of season banquet</li>
   </ul>
-  <h5>Practice Schedule 2012</h5>
-  <p>TBA</p>
-<!--
-  <p>Note that there is NO morning practice until Thursday, June 21. <em>Note: that is one day later than previously scheduled.</em></p>
+  <h5>Practice Schedule 2013</h5>
+
+  <p>Note that there is NO morning practice until Thursday, June 20.</p>
 
   <table class="schedule" width="100%">
     <tr>
@@ -69,7 +68,7 @@ include_once "header.inc";
       <td>7:00 - 8:00 pm</td>
     </tr>
     <tr>
-      <th colspan="6" class="divider">June 21 - July 29</th>
+      <th colspan="6" class="divider">June 20 - July 29</th>
     </tr>
     <tr>
       <td></td>
@@ -97,32 +96,11 @@ include_once "header.inc";
       <td>6:15 - 7:00 pm</td>
       <td>7:00 - 8:00 pm</td>
     </tr>
-    <tr>
-      <td></td>
-      <th>"Ripples"</th>
-      <th>Ages 8 and under</th>
-      <th>Ages 9-12</th>
-      <th>Ages 13-18</th>
-    </tr>
-    <tr>
-      <th>Mon-Fri mornings</th>
-      <td>10:00 - 10:30am</td>
-      <td colspan="2" align="center">9:00 - 10:00am</td>
-      <td>7:45 - 9:00am</td>
-    </tr>
-    <tr>
-      <th>Tue/Thu afternoons</th>
-      <td></td>
-      <td>5:30 - 6:00pm</td>
-      <td>6:00 - 6:45pm</td>
-      <td>7:00 - 8:00pm</td>
-    </tr>
-  
   </table>
   <p>* Please note the Tuesday, Wednesday and Thursday afternoon practices are 
     only for those families who cannot make it to morning practice.</p>
- -->  
-<h5>Meet Schedule 213</h5>
+   
+<h5>Meet Schedule 2013</h5>
   <p>Details will be posted each week for upcoming events.  Saturday "A" Meets typically run from 8:00 am (warm-ups) to 11:30 am.  Monday "B" Meets typically run from 
 5:00 pm (warm-ups) to 8:30 pm.</p>
   <ul>
