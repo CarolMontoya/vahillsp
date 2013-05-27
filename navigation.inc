@@ -1,7 +1,7 @@
 <?php
   include_once "../vahillspool.conf.php";
 ?>
-<!-- 
+<!--
   Not really the cleanest thing to do, putting the JavaScript right here,
   but it's logically the place for it since it deals with the menu structure,
   so it's staying here for now. ToDo: figure out whether this should go in its
@@ -27,7 +27,7 @@
       var anchors = document.getElementsByTagName("a");
       for (var i=0; i < anchors.length; i++) {
         var anchor = anchors[i];
-        if (anchor.getAttribute("href") &&  
+        if (anchor.getAttribute("href") &&
             anchor.getAttribute("rel") == "external") {
           anchor.target = "_blank";
         }
@@ -57,4 +57,4 @@
     <li><a href="<?php echo $root; ?>/project.php"><span>2009 Construction</span></a></li>
     <li><a href="http://blog.vahillspool.org/"><span>Tidal Wave Blog</span></a></li>
   </ul>
-</div> 
+</div>

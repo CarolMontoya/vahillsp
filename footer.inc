@@ -27,7 +27,7 @@
               <geo:Point>
                 <geo:lat>38.76639</geo:lat>
                 <geo:long>-77.114311</geo:long>
-              </geo:Point> 
+              </geo:Point>
             </rdf:RDF>
           </span>
           <a class="webmaster"
@@ -35,7 +35,7 @@
              "mailto:webmaster@vahillspool.org">webmaster@vahillspool.org</a><br>
         </div>
       </div>
-    </div>  
+    </div>
     <script type="text/javascript">
       (function() {
         var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
@@ -45,9 +45,9 @@
     </script>
     <!-- Start of StatCounter Code for Default Guide -->
     <script type="text/javascript">
-      var sc_project=7455206; 
-      var sc_invisible=1; 
-      var sc_security="3236c735"; 
+      var sc_project=7455206;
+      var sc_invisible=1;
+      var sc_security="3236c735";
     </script>
     <script type="text/javascript"
       src="http://www.statcounter.com/counter/counter.js"></script>

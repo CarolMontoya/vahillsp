@@ -1,8 +1,8 @@
 <?php
   include_once "../vahillspool.conf.php";
 ?>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" 
-"http://www.w3.org/TR/html4/strict.dtd"> 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
 <html>
   <head>
     <meta name="generator" content=
@@ -36,7 +36,7 @@
       _gaq.push(['_setDomainName', 'vahillspool.org']);
       _gaq.push(['_trackPageview']);
       _gaq.push(['_trackPageLoadTime']);
-      
+
       (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -47,7 +47,7 @@
     <!-- Google Plus badge -->
     <script type="text/javascript">
       window.___gcfg = {lang: 'en'};
-      (function() 
+      (function()
       {var po = document.createElement("script");
       po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
       var s = document.getElementsByTagName("script")[0];
@@ -56,7 +56,7 @@
     </script>
     <!-- Google Chrome Frame -->
     <script type="text/javascript">
-      $(document).ready(function() { 
+      $(document).ready(function() {
         CFInstall.check({
           mode: "overlay"
         });
