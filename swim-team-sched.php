@@ -238,7 +238,7 @@ include_once "header.inc";
         <td>-</td>
       </tr>
       <tr>
-        <td>July 28</td>
+        <td>July 27</td>
         <td>Divisionals</td>
         <td>Parklawn</td>
         <td>AWAY</td>
