@@ -8,7 +8,7 @@
             Virginia Hills <em>Tidal Wave</em>
           </h2>
           <h3>
-            Division 16, Northern Virginia Swimming League
+            Division <?php echo $division; ?>, Northern Virginia Swimming League
           </h3>
           <h4 align="center">
             2009 NVSL Annual Scholarship
