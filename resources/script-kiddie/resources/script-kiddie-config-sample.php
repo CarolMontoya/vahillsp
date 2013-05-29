@@ -1,3 +1,3 @@
 <?php
-const HTACCESS_DIR = '../../../'
+$HTACCESS_DIR = '../www/'
 ?>

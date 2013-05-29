@@ -96,7 +96,7 @@ class ScriptKiddie {
   }
 
   static private function addIPtoDenyList($ip) {
-    $htaccess = file(HTACCESS_DIR . self::HTACCESS);
+    $htaccess = file($HTACCESS_DIR . self::HTACCESS);
     $cnt = 0;
     $insertPoint = 0;
     $alreadyThere = false;
