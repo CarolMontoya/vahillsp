@@ -24,8 +24,8 @@ class ScriptKiddie {
    */
   public static function init() {
     self::$logger = Logger::getLogger('ScriptKiddie');
-    self::$badAttempts = self::loadBadAttempts();
     self::$DATAFILE = dirname(__FILE__).'/BadAttemptList.txt';
+    self::$badAttempts = self::loadBadAttempts();
   }
 
   static private function loadBadAttempts() {
