@@ -1,0 +1,171 @@
+RewriteEngine on
+# Use PHP5 as default
+# AddHandler application/x-httpd-php5 .php .htm .html .shtml
+ErrorDocument 404 /404.php
+ErrorDocument 403 /403.php
+
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+<Limit GET POST>
+#The next line modified by DenyIP
+order allow,deny
+#The next line modified by DenyIP
+#deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+</Limit>
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^AdultSocials\.html$ "http\:\/\/www\.vahillspool\.org\/adult\-socials\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^board\.html$ "http\:\/\/www\.vahillspool\.org\/board\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^directions\.html$ "http\:\/\/www\.vahillspool\.org\/directions\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^fiesta\-night\.html$ "http\:\/\/www\.vahillspool\.org\/fiesta\-night\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^GrandOpening\.html$ "http\:\/\/www\.vahillspool\.org\/grand\-opening\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^location\.html$ "http\:\/\/www\.vahillspool\.org\/location\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^membership\.html$ "http\:\/\/www\.vahillspool\.org\/membership\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^News\.html$ "http\:\/\/www\.vahillspool\.org\/news\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^Plans\.html$ "http\:\/\/www\.vahillspool\.org\/plans\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^pressrelease\.html$ "http\:\/\/www\.vahillspool\.org\/pressrelease\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^project\.html$ "http\:\/\/www\.vahillspool\.org\/project\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^rentals\.html$ "http\:\/\/www\.vahillspool\.org\/rentals\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^schedule\.html$ "http\:\/\/www\.vahillspool\.org\/schedule\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^Scholarship\.html$ "http\:\/\/www\.vahillspool\.org\/scholarship\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^season\.html$ "http\:\/\/www\.vahillspool\.org\/season\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^steakout\.html$ "http\:\/\/www\.vahillspool\.org\/steakout\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^SwimTeam101\.html$ "http\:\/\/www\.vahillspool\.org\/swim\-team\-101\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^SwimTeamSched\.html$ "http\:\/\/www\.vahillspool\.org\/swim\-team\-sched\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^swim_team\.html$ "http\:\/\/www\.vahillspool\.org\/swim\-team\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^index\.html$ "http\:\/\/www\.vahillspool\.org\/index\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^membership08\.html$ "http\:\/\/www\.vahillspool\.org\/membership\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^membership2009\.html$ "http\:\/\/www\.vahillspool\.org\/membership\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^TWBlog$ "http\:\/\/blog\.vahillspool\.org\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^TWBlog\/?$ "http\:\/\/blog\.vahillspool\.org\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^adultsocials\.html$ "http\:\/\/www\.vahillspool\.org\/adult\-socials\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^season\.php$ "http\:\/\/www\.vahillspool\.org\/swim\-team\-sched\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^swim\-team$ "http\:\/\/www\.vahillspool\.org\/swim\-team\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^docs\/swimteam$ "http\:\/\/www\.vahillspool\.org\/swim\-team\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^swim\%E2\%80\%90team\.php$ "http\:\/\/www\.vahillspool\.org\/swim\-team\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^swim\%E2\%80\%90team\%E2\%80\%90sched\.php$ "http\:\/\/www\.vahillspool\.org\/swim\-team\-sched\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^vahillspool.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.vahillspool.org$
+RewriteRule ^images\/TidalWave2007\.jpg$ "http\:\/\/www\.vahillspool\.org\/images\/TW2007TeamPic\.jpg" [R=301,L]
+
+# insert denies here
+deny from 192.168.1.2
+
+<Files "css/vahillspool.min.css">
+  Order Deny,Allow
+  Allow from all
+</Files>
+<FilesMatch "js/\.(?i:js)$">
+  Order Deny,Allow
+  Allow from all
+</FilesMatch>
+<FilesMatch "\.(?i:png|gif|jpe?g)$">
+  Order Deny,Allow
+  Allow from all
+</FilesMatch>
+<FilesMatch "iwghw/*">
+  Order Deny,Allow
+  Deny from all
+</FilesMatch>
+<Files "403.shtml">
+  Order Deny,Allow
+  Allow from all
+</Files>
+<Files "BadAttemptList.txt">
+  Order Allow,Deny
+  Deny from all
+</Files>
+

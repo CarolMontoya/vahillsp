@@ -3,13 +3,14 @@
 date_default_timezone_set('America/New_York');
 require_once dirname(__FILE__).'/log4php/Logger.php';
 Logger::configure(dirname(__FILE__).'/resources/log4php.properties');
+require_once dirname(__FILE__).'/resources/script-kiddie-config.php';
 
 /**
  * Class to manage IP bans in .htaccess automatically
  */
 class ScriptKiddie {
 
-  const DATAFILE = '/home/vahillsp/script-kiddie/BadAttemptList.txt';
+  const DATAFILE = 'BadAttemptList.txt';
   const KEEP_CACHE_ENTRIES_SEC = 900;
   const MAX_BAD_ATTEMPT_IN_15_MINS = 5;
   const HTACCESS = '.htaccess';
@@ -33,6 +34,7 @@ class ScriptKiddie {
     if (empty($data)) { $data = array(); }
     self::$logger->debug("Loaded " . count($data) . " IP addresses from cache in " . self::DATAFILE);
     return self::expireOldEntries($data);
+    echo self::$badAttempts;
   }
 
   static private function saveBadAttempts($data) {
@@ -94,7 +96,7 @@ class ScriptKiddie {
   }
 
   static private function addIPtoDenyList($ip) {
-    $htaccess = file(self::HTACCESS);
+    $htaccess = file(HTACCESS_DIR . self::HTACCESS);
     $cnt = 0;
     $insertPoint = 0;
     $alreadyThere = false;
