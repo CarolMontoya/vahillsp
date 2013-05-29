@@ -17,6 +17,7 @@ class ScriptKiddie {
 
   private static $badAttempts = array();
   private static $logger;
+  private static $DATAFILE;
 
   /**
    * init function to be called at startup to make sure the static class is set up correctly.
@@ -24,24 +25,25 @@ class ScriptKiddie {
   public static function init() {
     self::$logger = Logger::getLogger('ScriptKiddie');
     self::$badAttempts = self::loadBadAttempts();
+    self::$DATAFILE = dirname(__FILE__).'/BadAttemptList.txt';
   }
 
   static private function loadBadAttempts() {
-    if (file_exists(self::DATAFILE)) {
-      $data = file_get_contents(self::DATAFILE);
+    if (file_exists(self::$DATAFILE)) {
+      $data = file_get_contents(self::$DATAFILE);
       $data = unserialize($data);
     }
     if (empty($data)) { $data = array(); }
-    self::$logger->debug("Loaded " . count($data) . " IP addresses from cache in " . self::DATAFILE);
+    self::$logger->debug("Loaded " . count($data) . " IP addresses from cache in " . self::$DATAFILE);
     return self::expireOldEntries($data);
     echo self::$badAttempts;
   }
 
   static private function saveBadAttempts($data) {
-    self::$logger->debug('Writing data file ' . self::DATAFILE);
+    self::$logger->debug('Writing data file ' . self::$DATAFILE);
     // TODO: check for empty data
     $data = self::expireOldEntries($data);
-    file_put_contents(self::DATAFILE,serialize($data));
+    file_put_contents(self::$DATAFILE,serialize($data));
   }
 
   static private function addBadAttempt($ip) {
