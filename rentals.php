@@ -47,7 +47,7 @@
       </p>
       <p>
         For additional questions regarding party rentals, please click <a
-        href="mailto:&#112;&#97;&#114;&#116;&#121;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">here</a>.
+        href="mailto:party@vahillspool.org">here</a>.
       </p>
     </div>
   </div>
