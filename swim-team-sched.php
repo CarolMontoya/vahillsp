@@ -40,7 +40,7 @@ include_once "header.inc";
   <ul>
     <li><em>Tuesday, May 28</em> First day of practice</li>
     <li><em>Tuesday, May 28, 6:00 pm</em> Orientation meeting for parents new to swim team</li>
-    <li><em>Friday, June 7, 5:30-7:30 pm</em> Team suit sale</li>
+    <li><em>Friday, June 14, 5:30-7:30 pm</em> Team suit sale <em>NEW DATE!</em></li>
     <li><em>Friday, June 21, 6:00 pm</em> Spaghetti dinner</li>
     <li><em>Friday, July 6</em> Campout and team picture</li>
     <li><em>Saturday, July 27, 6:00 pm</em> End of season banquet</li>

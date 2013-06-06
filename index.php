@@ -131,6 +131,11 @@
           <a href="record2.php#update">Swim Team News - <span style="color:red">Another</span> New Pool Record!</a>
         </li>
         <?php } ?>
+        <?php if(strtotime("2013-06-14") - time() > 0) { ?>
+        <li>
+          <a href="swim-team-sched.php">Swim Team News - swim suit sale moved to June 14</a>
+        </li>
+        <?php } ?>
       </ul>
     </div>
     <div class="collage-blurb">
