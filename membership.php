@@ -299,8 +299,7 @@
           </p>
           <ul>
             <li>
-              <a href="http://www.bbhca.org/"
-                  >Brookland/Bush Hill</a>
+              <a href="http://www.bbhca.org/">Brookland/Bush Hill</a>
             </li>
             <li>Burgundy Farms
             </li>
@@ -309,51 +308,35 @@
             <li>Hayfield
             </li>
             <li>
-              <a href="http://huntingtononline.org/"
-                  >Huntington</a>
+              <a href="http://huntingtononline.org/">Huntington</a>
             </li>
             <li>
-              <a href="http://www.woodstonehoa.org/"
-                  ></a><a href=
-                  "http://www.lakedevereux.com/"
-                  >Lake D'evereux</a>
+              <a href= "http://www.lakedevereux.com/">Lake D'evereux</a>
             </li>
             <li>
-              <a href="http://www.myrosehill.com"
-                  ></a><a href=
-                  "http://racewayfarms.org/"
-                  >Raceway Farms</a>
-            </li>
-          </ul>
-          <ul>
-            <li>
-              <a href="http://www.myrosehill.com"
-                  >Rose Hill</a>
+              <a href="http://www.myrosehill.com">Rose Hill</a>
             </li>
             <li>
-              <a href="http://www.stoneybrooke.org"
-                  >Stoneybrooke</a>
+              <a href= "http://racewayfarms.org/">Raceway Farms</a>
+            </li>
+            <li>
+              <a href="http://www.stoneybrooke.org">Stoneybrooke</a>
             </li>
             <li>Tartan Village
             </li>
             <li>Vantage
             </li>
             <li>
-              <a href="http://deerruncrossing.org/"
-                  >Deer Run Crossing</a>
+              <a href="http://deerruncrossing.org/">Deer Run Crossing</a>
             </li>
             <li>
-              <a href="http://virginiahills.org/"
-                  >Virginia Hills</a>
+              <a href="http://virginiahills.org/">Virginia Hills</a>
             </li>
             <li>
-              <a href=
-              "http://gwwca.org/v1/index.shtml"
-                  >Wilton Woods</a>
+              <a href= "http://gwwca.org/v1/index.shtml">Wilton Woods</a>
             </li>
             <li>
-              <a href="http://www.woodstonehoa.org/"
-                  >Woodstone</a>
+              <a href="http://www.woodstonehoa.org/">Woodstone</a>
             </li>
           </ul>
 </div>

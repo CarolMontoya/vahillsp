@@ -41,7 +41,7 @@
     <!--
     <script src="http://www.gmodules.com/ig/ifr?url=http://hosting.gmodules.com/ig/gadgets/file/113344792581211145083/PWS.xml&amp;up_pref_station=KVAALEXA29&amp;up_pref_units=english&amp;up_pref_camurl=&amp;up_pref_updatefreq=120&amp;synd=open&amp;w=200&amp;h=100&amp;title=&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
     -->
-    <a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:22301.1.99999&bannertypeclick=wu_clean2day"><img src="http://weathersticker.wunderground.com/weathersticker/cgi-bin/banner/ban/wxBanner?bannertype=wu_clean2day_cond&pwscode=KVAALEXA29&ForcedCity=Alexandria&ForcedState=VA&zipcode=22301&language=EN" alt="Click for Alexandria, Virginia Forecast" height="100" width="300" /></a>
+    <a class="no-external" href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:22301.1.99999&bannertypeclick=wu_clean2day"><img src="http://weathersticker.wunderground.com/weathersticker/cgi-bin/banner/ban/wxBanner?bannertype=wu_clean2day_cond&pwscode=KVAALEXA29&ForcedCity=Alexandria&ForcedState=VA&zipcode=22301&language=EN" alt="Click for Alexandria, Virginia Forecast" height="100" width="300"></a>
   </div>
   <div class="posrel">
     <div>
@@ -134,6 +134,16 @@
         <?php if(strtotime("2013-06-14") - time() > 0) { ?>
         <li>
           <a href="swim-team-sched.php">Swim Team News - swim suit sale moved to June 14</a>
+        </li>
+        <?php } ?>
+        <?php if(strtotime("2013-09-02") - time() > 0) { ?>
+        <li>
+          <a href="http://www.signupgenius.com/go/60B0C4FA8A62E5-pool/9578530">Snack Bar needs Volunteers - sign up here</a>
+        </li>
+        <?php } ?>
+        <?php if(strtotime("2013-07-15") - time() > 0) { ?>
+        <li>
+          <a href="http://www.surveymonkey.com/s/F3TXKCQ">Snack Bar Survey - tell us what you'd like to see</a>
         </li>
         <?php } ?>
       </ul>

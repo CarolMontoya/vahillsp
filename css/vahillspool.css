@@ -12,7 +12,7 @@ version: 2.7.0
  * @requires reset, fonts
 */
 
-/* 
+/*
 Extra reset for address element that has styling in IE8.
 YUI reset has one for address, but sets it to inherit, which
 it appears not to do in IE8?
@@ -28,7 +28,7 @@ html {
     background-color: #DCF7FF;
     background-image: url(../images/site/backgwaves.jpg);
     font-family:arial,helvetica,sans-serif;
-    color:#333333;  
+    color:#333333;
 }
 
 body {
@@ -238,7 +238,7 @@ div.nav-short {
   width:185px;
   height: 35px;
   display: table-cell;
-  vertical-align: middle; 
+  vertical-align: middle;
   text-align:center;
 }
 
@@ -288,9 +288,9 @@ ul.collage-links a {
 }
 
 .footer {
-  color: #36B0FF; 
-  font-size: 77%; 
-  font-weight: bold; 
+  color: #36B0FF;
+  font-size: 77%;
+  font-weight: bold;
   text-align: center
 }
 
@@ -359,10 +359,21 @@ a.webmaster {
 }
 
 /* PDF links */
-a[href$=".pdf"] {  
-  background: url(../images/pdf.gif) no-repeat;  
-  padding-left: 20px;  
-}  
+a[href$=".pdf"] {
+  background: url(../images/pdf.gif) no-repeat;
+  padding-left: 20px;
+}
+
+/* External links */
+a[href^="http://"], a[href^="https://"] {
+  background: url(../images/site/external_link.png) no-repeat;
+  padding-left: 20px;
+}
+
+.no-external {
+  background: none !important;
+  padding-left: 0 !important;
+}
 
 table.schedule {
   border-width:1px;
@@ -411,7 +422,7 @@ table.meet th {
   font-size:100%;
 }
 
-.rounded { 
+.rounded {
   background-color:lightblue;
   padding:1em;
   margin:0.5em;
@@ -469,7 +480,7 @@ table.dues td {
   border-width:0;
   padding-left:0;
 }
-  
+
 .social {
   min-height: 150px;
 }
