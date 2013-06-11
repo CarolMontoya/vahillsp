@@ -9,6 +9,10 @@
           </h2>
           <div class="yui-g">
             <div class="yui-u first">
+              <h3>General information</h3>
+              <p>
+                Contact us: <a href="snackbar@vahillspool.org">snackbar@vahillspool.org</a>
+              </p>
               <h3>Volunteers</h3>
               <p>
                 The Snack Bar needs volunteers! Please sign up
