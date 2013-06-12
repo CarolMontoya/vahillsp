@@ -38,7 +38,7 @@
           <a href="images/swimteam/2009/swimteam-2009-18.jpg" rel="prettyPhoto[pp_gal]" title="Waiting for their first event"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-18.jpg" width="60" height="60" alt="Waiting for their first event" /></a>
           <a href="images/swimteam/2009/swimteam-2009-19.jpg" rel="prettyPhoto[pp_gal]" title="Splash!"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-19.jpg" width="60" height="60" alt="Splash" /></a>
           <a href="images/swimteam/2009/swimteam-2009-20.jpg" rel="prettyPhoto[pp_gal]" title="On your marks... GO!"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-20.jpg" width="60" height="60" alt="On your marks... GO!" /></a>
-          <a href="http://www.youtube.com/watch?v=NK1ZMMsJgVg" rel="prettyPhoto[pp_gal]"><img src="images/swimteam/2010/thumbnails/t-tidal-wave-vs-rolling-valley-dolphins.jpg" alt="Tidal Wave vs. Rolling Valley Dolphins, July 22, 2010" width="50" /></a>
+          <a class="no-external" href="http://www.youtube.com/watch?v=NK1ZMMsJgVg" rel="prettyPhoto[pp_gal]"><img src="images/swimteam/2010/thumbnails/t-tidal-wave-vs-rolling-valley-dolphins.jpg" alt="Tidal Wave vs. Rolling Valley Dolphins, July 22, 2010" width="50" /></a>
           <div>
             <h4>
               Go Tidal Wave!

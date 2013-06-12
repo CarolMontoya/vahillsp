@@ -370,6 +370,12 @@ a[href^="http://"], a[href^="https://"] {
   padding-left: 20px;
 }
 
+/* email links */
+a[href^="mailto:"] {
+  background: url(../images/site/email-icon-small.png) no-repeat;
+  padding-left: 20px;
+}
+
 .no-external {
   background: none !important;
   padding-left: 0 !important;

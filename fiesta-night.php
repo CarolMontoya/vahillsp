@@ -27,7 +27,7 @@ include_once "header.inc";
       The pool will be available for swimming
     </div>
     <div class="yui-u">
-      <img src="images/margherita.gif">
+      <img src="images/margherita.png">
     </div>
   </div>
 </div>

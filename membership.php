@@ -151,7 +151,7 @@
             taken to the Intuit website to pay.
           </p>
           <p>
-            <a href="https://ipn.intuit.com/pay/VirginiaHillsClub">
+            <a class="no-external" href="https://ipn.intuit.com/pay/VirginiaHillsClub">
               <img src="images/site/img_IPN_logotype.png">
             </a>
           </p>
