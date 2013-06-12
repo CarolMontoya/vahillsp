@@ -98,8 +98,7 @@
             join a practice and let your child "test the waters."
             For more information, read <a href=
             "swim-team-101.php">Swim Team 101</a>, or
-            <a href=
-            "mailto:&#115;&#119;&#105;&#109;&#116;&#101;&#97;&#109;&#64;&#118;&#97;&#104;&#105;&#108;&#108;&#115;&#112;&#111;&#111;&#108;&#46;&#111;&#114;&#103;">e-mail</a>
+            <a href="mailto:swimteam@vahillspool.org">e-mail</a>
             us.
           </p>
         </div>
