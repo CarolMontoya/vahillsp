@@ -1,6 +1,6 @@
             <div class="center rounded social">
+              <div class="facebook"><!-- Facebook Badge START --><a class="no-external" href="https://www.facebook.com/VirginiaHillsPool" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Virginia Hills Pool">Virginia Hills Pool</a><br/><a href="https://www.facebook.com/VirginiaHillsPool" target="_TOP" title="Virginia Hills Pool"><img src="https://www.facebook.com/badge/358066327590666.2254.217512803.png" style="border: 0px;" /></a><!-- Facebook Badge END --></div>
               <div class="g-plus" data-href="https://plus.google.com/104376173446857539292?rel=publisher" data-width="200" data-height="131" data-theme="light"></div>
-              <div class="facebook"><!-- Facebook Badge START --><a href="https://www.facebook.com/VirginiaHillsPool" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Virginia Hills Pool">Virginia Hills Pool</a><br/><a href="https://www.facebook.com/VirginiaHillsPool" target="_TOP" title="Virginia Hills Pool"><img src="https://www.facebook.com/badge/358066327590666.2254.217512803.png" style="border: 0px;" /></a><!-- Facebook Badge END --></div>
             </div>
           </div>
         </div>
