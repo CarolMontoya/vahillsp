@@ -146,6 +146,16 @@
           <a href="http://www.surveymonkey.com/s/F3TXKCQ">Snack Bar Survey - tell us what you'd like to see</a>
         </li>
         <?php } ?>
+        <?php if(strtotime("2013-07-28") - time() > 0) { ?>
+        <li>
+          <a href="http://www.signupgenius.com/go/70A044EA9A6229-availability">Swim Team A-Meet availability sign-up sheet</a>
+        </li>
+        <?php } ?>
+        <?php if(strtotime("2013-07-18") - time() > 0) { ?>
+        <li>
+          <a href="end-of-school-party.php">End of School Party!</a>
+        </li>
+        <?php } ?>
       </ul>
     </div>
     <div class="collage-blurb">

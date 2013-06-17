@@ -107,6 +107,10 @@ include_once "header.inc";
     <li>Remember that warm-ups start before meet times!</li>
   </ul>
   <p>A meets are competitive; B meets are developmental.</p>
+<h5>A Meet Availability sign-up</h5>
+  <p>Please sign up <a href="http://www.signupgenius.com/go/70A044EA9A6229-availability">here</a>
+    for the A Meets. Remember to update your availability as it changes, please.
+  </p>
   <table id="MeetSchedule" width="90%" border="1" align="center" class="display">
     <thead>
       <tr>
