@@ -46,8 +46,8 @@
         the same email address 2 days prior to the party.
       </p>
       <p>
-        For additional questions regarding party rentals, please click <a
-        href="mailto:party@vahillspool.org">here</a>.
+        For additional questions regarding party rentals, please <a
+        href="mailto:party@vahillspool.org">email us</a>.
       </p>
     </div>
   </div>
