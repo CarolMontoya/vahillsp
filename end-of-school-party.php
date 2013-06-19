@@ -10,9 +10,10 @@ include_once "header.inc";
       <img src="images/beach-ball1-small.jpg">
     </div>
     <div class="yui-u first">
+      <p class="announce">Note the new date!</p>
       <table>
         <tr>
-          <th>Date:</th><td>Tuesday, June 18</td>
+          <th>Date:</th><td>Wednesday, June 19</td>
         </tr>
         <tr>
           <th>Time:</th><td>4:00 – 6:00 pm (games at  +4:00 pm, pizza at 5:00 pm)<br/>

@@ -151,7 +151,7 @@
           <a href="http://www.signupgenius.com/go/70A044EA9A6229-availability">Swim Team A-Meet availability sign-up sheet</a>
         </li>
         <?php } ?>
-        <?php if(strtotime("2013-07-18") - time() > 0) { ?>
+        <?php if(strtotime("2013-06-20") - time() > 0) { ?>
         <li>
           <a href="end-of-school-party.php">End of School Party!</a>
         </li>
