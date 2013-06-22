@@ -19,12 +19,12 @@
                    "2012-06-30" => "closed today due to phone outage - call (703) 329-2360 to see if service has been restored",
                    "2012-07-01" => "WILL NOT OPEN today due to issues with the pumps",
                    "2012-07-02" => "is operating normally today - come on by to try and beat the heat",
-                   "2013-06-22" => "opens late at 1:00pm for swim team meet",
+                   "2013-06-22" => "opens late at 12:00pm for swim team meet",
                    "2013-06-24" => "closes early at 5:00pm for swim team meet",
                    "2013-07-01" => "closes early at 5:00pm for swim team meet",
-                   "2013-07-06" => "opens late at 1:00pm for swim team meet",
+                   "2013-07-06" => "opens late at 12:00pm for swim team meet",
                    "2013-07-08" => "closes early at 5:00pm for swim team meet",
-                   "2013-07-13" => "opens late at 1:00pm for swim team meet",
+                   "2013-07-13" => "opens late at 12:00pm for swim team meet",
                   );
     $today = time();
 
