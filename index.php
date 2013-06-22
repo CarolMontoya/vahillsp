@@ -41,7 +41,7 @@
     <!--
     <script src="http://www.gmodules.com/ig/ifr?url=http://hosting.gmodules.com/ig/gadgets/file/113344792581211145083/PWS.xml&amp;up_pref_station=KVAALEXA29&amp;up_pref_units=english&amp;up_pref_camurl=&amp;up_pref_updatefreq=120&amp;synd=open&amp;w=200&amp;h=100&amp;title=&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
     -->
-    <a class="no-external" href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:22301.1.99999&bannertypeclick=wu_clean2day"><img src="http://weathersticker.wunderground.com/weathersticker/cgi-bin/banner/ban/wxBanner?bannertype=wu_clean2day_cond&pwscode=KVAALEXA29&ForcedCity=Alexandria&ForcedState=VA&zipcode=22301&language=EN" alt="Click for Alexandria, Virginia Forecast" height="100" width="300"></a>
+    <a class="no-external" href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:22315.2.99999&bannertypeclick=wu_clean2day" title="Kingstowne, Virginia Weather Forecast" target="_blank"><img src="http://weathersticker.wunderground.com/weathersticker/cgi-bin/banner/ban/wxBanner?bannertype=wu_clean2day_cond&airportcode=KDAA&ForcedCity=Kingstowne&ForcedState=VA&zip=22315&language=EN" alt="Find more about Weather in Kingstowne, VA" width="300" /></a><br><a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:22315.2.99999&bannertypeclick=wu_clean2day" title="Get latest Weather Forecast updates" style="font-family: sans-serif; font-size: 12px" target="_blank">Click for weather forecast</a>
   </div>
   <div class="posrel">
     <div>
