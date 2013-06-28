@@ -44,6 +44,17 @@
       })();
 
     </script>
+    <script>
+        var _prum = [['id', '51cd8004abe53d3b0e000000'],
+	             ['mark', 'firstbyte', (new Date()).getTime()]];
+        (function() {
+            var s = document.getElementsByTagName('script')[0]
+              , p = document.createElement('script');
+            p.async = 'async';
+            p.src = '//rum-static.pingdom.net/prum.min.js';
+            s.parentNode.insertBefore(p, s);
+        })();
+    </script>
     <!-- Google Plus badge -->
     <script type="text/javascript">
       window.___gcfg = {lang: 'en'};
