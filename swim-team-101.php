@@ -1297,7 +1297,7 @@
             park and other fun events.
           </p>
           <p>
-            <strong>Swim banquet:</strong> We cap of the season
+            <strong>Swim banquet:</strong> We cap off the season
             with a swim banquet, which is a pot luck dinner held
             at the pool the evening of divisionals. We give out
             awards for season accomplishments and end the evening
