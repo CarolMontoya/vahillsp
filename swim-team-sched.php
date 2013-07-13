@@ -148,8 +148,8 @@ include_once "header.inc";
         <td>Pleasant Valley</td>
         <td>HOME</td>
         <td></td>
-        <td class="nobr">-</td>
-        <td>-</td>
+        <td class="nobr"><a href="http://nvsl.nvblu.com/results.html?sched=60373">212-201</a></td>
+        <td>W</td>
       </tr>
       <tr>
         <td>June 24</td>
@@ -166,8 +166,8 @@ include_once "header.inc";
         <td>Parklawn</td>
         <td>AWAY</td>
         <td></td>
-        <td class="nobr">-</td>
-        <td>-</td>
+        <td class="nobr"><a href="http://nvsl.nvblu.com/results.html?sched=60374">200-214</a></td>
+        <td>L</td>
       </tr>
       <tr>
         <td>July 1</td>
@@ -184,8 +184,8 @@ include_once "header.inc";
         <td>Somerset Olde Creek</td>
         <td>HOME</td>
         <td></td>
-        <td class="nobr">-</td>
-        <td>-</td>
+        <td class="nobr"><a href="http://nvsl.nvblu.com/results.html?sched=60378">200-219</a></td>
+        <td>W</td>
       </tr>
       <tr>
         <td>July 6</td>
@@ -211,8 +211,8 @@ include_once "header.inc";
         <td>Pleasant Valley</td>
         <td>AWAY</td>
         <td></td>
-        <td class="nobr">-</td>
-        <td>-</td>
+        <td class="nobr"><a href="http://nvsl.nvblu.com/results.html?sched=60380">158</a></td>
+        <td>2nd place</td>
       </tr>
       <tr>
         <td>July 13</td>
@@ -220,8 +220,8 @@ include_once "header.inc";
         <td>Lincolnia Park</td>
         <td>HOME</td>
         <td></td>
-        <td class="nobr"></td>
-        <td>-</td>
+        <td class="nobr"><a href="http://nvsl.nvblu.com/results.html?sched=60383">235-182</a></td>
+        <td>W</td>
       </tr>
       <tr>
         <td>July 15</td>
