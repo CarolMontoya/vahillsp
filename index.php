@@ -174,6 +174,7 @@
     </div>
   </div>
 </div>
+
 <!--
 <div class="rounded">
   <h2>Early Closings</h2>
@@ -183,14 +184,18 @@
   <ul>
   <?php
     foreach ($closures as $closure => $time) {
-      $closure = strtotime($closure);
-      $datediff = $closure - $today;
-      echo "<li>" . strftime("%A, %B %d, %Y", $closure) . ": $time</li>";
+      if(date("Y", $time) == date("Y", time())) {
+        $closure = strtotime($closure);
+        $datediff = $closure - $today;
+        echo "<li>" . strftime("%A, %B %d, %Y", $closure) . ": $time</li>";
+      }
     }
   ?>
   </ul>
 </div>
 -->
+
+<!--
 <div class="rounded">
   <p align="center">
     <img src="images/site/tidalwave50years.png" alt="Tidal Wave 50 year anniversary" width="400px" height="372px">
@@ -202,4 +207,13 @@
     and here's to another 50 years!
   </p>
 </div>
+-->
+
+<?php if(strtotime("2013-07-25") - time() > 0) { ?>
+<div class="rounded">
+  <h2>Pictures</h2>
+  <p>
+    Swim Team pictures from 2013 are <a href="swim-team.php">on the main swim team page</a>
+</div>
+<?php } ?>
 <?php include_once "footer.inc"; ?>

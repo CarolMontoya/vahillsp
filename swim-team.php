@@ -18,6 +18,7 @@
                height="372"
                alt="Tidal Wave 50 year anniversary">
           </p><br>
+          <h4>2009</h4>
           <a href="images/swimteam/2009/swimteam-2009-1.jpg" rel="prettyPhoto[pp_gal]" title="Little girl freestyle"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-1.jpg" width="60" height="60" alt="Little girl freestyle" /></a>
           <a href="images/swimteam/2009/swimteam-2009-2.jpg" rel="prettyPhoto[pp_gal]" title="Tidal Wave Banner"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-2.jpg" width="60" height="60" alt="Tidal Wave Banner" /></a>
           <a href="images/swimteam/2009/swimteam-2009-3.jpg" rel="prettyPhoto[pp_gal]" title="Team area"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-3.jpg" width="60" height="60" alt="Team area" /></a>
@@ -38,8 +39,42 @@
           <a href="images/swimteam/2009/swimteam-2009-18.jpg" rel="prettyPhoto[pp_gal]" title="Waiting for their first event"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-18.jpg" width="60" height="60" alt="Waiting for their first event" /></a>
           <a href="images/swimteam/2009/swimteam-2009-19.jpg" rel="prettyPhoto[pp_gal]" title="Splash!"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-19.jpg" width="60" height="60" alt="Splash" /></a>
           <a href="images/swimteam/2009/swimteam-2009-20.jpg" rel="prettyPhoto[pp_gal]" title="On your marks... GO!"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-20.jpg" width="60" height="60" alt="On your marks... GO!" /></a>
+          <h4>2010</h4>
           <a class="no-external" href="http://www.youtube.com/watch?v=NK1ZMMsJgVg" rel="prettyPhoto[pp_gal]"><img src="images/swimteam/2010/thumbnails/t-tidal-wave-vs-rolling-valley-dolphins.jpg" alt="Tidal Wave vs. Rolling Valley Dolphins, July 22, 2010" width="50" /></a>
-          <div>
+          <h4>2013</h4>
+          <a href="images/swimteam/2013/Jayde_Fly.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/Jayde_Fly.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0013.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0013.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0016.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0016.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0024.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0024.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0031.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0031.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0048.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0048.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0051.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0051.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0061.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0061.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0062.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0062.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0076.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0076.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0078.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0078.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0079.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0079.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0085.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0085.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0086.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0086.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0087.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0087.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0089.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0089.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0107.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0107.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0116.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0116.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0122.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0122.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0129.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0129.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0137.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0137.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0145.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0145.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0146.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0146.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0148.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0148.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0149.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0149.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0153.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0153.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0168.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0168.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0171.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0171.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0182.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0182.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0184.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0184.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0189.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0189.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0190.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0190.jpg" width="60" height="60" alt="Swim team pictures" /></a>
+          <a href="images/swimteam/2013/MMFC0214.jpg" rel="prettyPhoto[pp_gal]" title="Swim team pictures"><img src="images/swimteam/2013/thumbnails/MMFC0214.jpg" width="60" height="60" alt="Swim team pictures" /></a>          <div>
             <h4>
               Go Tidal Wave!
             </h4>
