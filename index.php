@@ -158,7 +158,7 @@
         <?php } ?>
         <?php if(strtotime("2013-07-18") - time() > 0) { ?>
         <li>
-          Movie night moved to Wed 7/17, <a href="http://vols.pt/8W8ZLD">sign up here</a>
+          Movie night moved to Wed 7/17 due to weather, <a href="http://vols.pt/8W8ZLD">sign up here</a>
         </li>
         <?php } ?>
       </ul>
