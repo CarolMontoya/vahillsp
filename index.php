@@ -141,7 +141,7 @@
           <a href="http://www.signupgenius.com/go/60B0C4FA8A62E5-pool/9578530">Snack Bar needs Volunteers - sign up here</a>
         </li>
         <?php } ?>
-        <?php if(strtotime("2013-07-15") - time() > 0) { ?>
+        <?php if(strtotime("2013-07-13") - time() > 0) { ?>
         <li>
           <a href="http://www.surveymonkey.com/s/F3TXKCQ">Snack Bar Survey - tell us what you'd like to see</a>
         </li>
@@ -154,6 +154,11 @@
         <?php if(strtotime("2013-06-20") - time() > 0) { ?>
         <li>
           <a href="end-of-school-party.php">End of School Party!</a>
+        </li>
+        <?php } ?>
+        <?php if(strtotime("2013-07-18") - time() > 0) { ?>
+        <li>
+          Movie night moved to Wed 7/17, <a href="http://vols.pt/8W8ZLD">sign up here</a>
         </li>
         <?php } ?>
       </ul>
