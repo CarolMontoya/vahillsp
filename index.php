@@ -25,6 +25,7 @@
                    "2013-07-06" => "opens late at 12:00pm for swim team meet",
                    "2013-07-08" => "closes early at 5:00pm for swim team meet",
                    "2013-07-13" => "opens late at 12:00pm for swim team meet",
+                   "2013-07-17" => "closes early at 7:30pm for moview night",
                   );
     $today = time();
 
