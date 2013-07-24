@@ -35,18 +35,17 @@
               </h3>
               <p>
                 <em>President:</em> Norman Speicher<br>
-                <em>Vice-President</em>: Brian Fiore<br>
-                <em>Secretary</em>: Caitlin Irvin and Mark Luther<br>
+                <em>Vice-President:</em> Brian Fiore<br>
+                <em>Secretary:</em> Caitlin Irvin<br>
                 <em>Treasurer:</em> Cindy Travia<br>
-                <em>Asst. Sec-Treasurer</em>: Norman Speicher<br>
-                <em>Member-at-large</em>: Paula Dillard<br>
-                <em>Member-at-large</em>: Brenda Dreesbach<br>
-                <em>Member-at-large</em>: Lloyd Dugan<br>
-                <em>Member-at-large</em>: Jeff Govert<br>
-                <em>Member-at-large</em>: Regina Mohr<br>
-                <em>Member-at-large</em>: Suzy Thompson<br>
-                <em>Member-at-large</em>: Niki Wanner<br>
-                <em>Ex Officio/Swim Team</em>: Jan Inguatiato
+                <em>Asst. Sec-Treasurer:</em> Norman Speicher<br>
+                <em>Member-at-large:</em> Brenda Dreesbach<br>
+                <em>Member-at-large:</em> Lloyd Dugan<br>
+                <em>Member-at-large:</em> Jeff Govert<br>
+                <em>Member-at-large:</em> Regina Mohr<br>
+                <em>Member-at-large:</em> Suzy Thompson<br>
+                <em>Member-at-large:</em> Niki Wanner<br>
+                <em>Ex Officio/Swim Team:</em> Jan Inguatiato
               </p>
             </div>
             <div class="yui-u first">
@@ -64,8 +63,8 @@
             <em>Membership and Marketing</em>: Caitlin Irvin, Chair<br>
             <em>Finance</em>: Cindy Travia, Chair<br>
             <em>Operations</em>: Suzy Thompson, Chair<br>
-            <em>Facilities</em>: Lloyd Dugan, Chair<br>
-            <em>Social</em>: Paula Dillard, Chair<br>
+            <em>Facilities</em>: Jeff Govert, Chair<br>
+            <em>Social</em>: Regina Mohr, Chair<br>
             <em>Swim Team</em>: Jan Inguatiato<br>
           </p>
 </div>
