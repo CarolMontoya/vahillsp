@@ -103,7 +103,7 @@
           <a href="winter-swim-2012.php">Winter Swim is On - click here for more infos!</a>
         </li>
         <?php } ?>
-        <?php if(strtotime("2013-05-25") - time() < 0) { ?>
+        <?php if(strtotime("2013-05-25") - time() < 0 && strtotime("2013-09-01") - time() > 0) { ?>
         <li>
           <a href="membership.php">Pool is Open - Sign up now!</a>
         </li>
@@ -161,6 +161,11 @@
         <?php if(strtotime("2013-07-18") - time() > 0) { ?>
         <li>
           Movie night moved to Wed 7/17 due to weather, <a href="http://vols.pt/8W8ZLD">sign up here</a>
+        </li>
+        <?php } ?>
+        <?php if(strtotime("2013-09-02") - time() < 0 && strtotime("2014-05-24") - time() > 0) { ?>
+        <li class="red">
+          Pool is closed for the winter - see you next year!
         </li>
         <?php } ?>
       </ul>
