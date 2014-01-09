@@ -358,6 +358,14 @@ a.webmaster {
   font-size:60%
 }
 
+img.btn-white {
+  background-color: #EEF;
+  padding: 5px;
+  border-style: outset;
+  border-width: 5px;
+  border-color: lightskyblue;
+}
+
 /* PDF links */
 a[href$=".pdf"] {
   background: url(../images/pdf.gif) no-repeat;

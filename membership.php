@@ -152,7 +152,7 @@
           </p>
           <p>
             <a class="no-external" href="https://ipn.intuit.com/pay/VirginiaHillsClub">
-              <img src="images/site/img_IPN_logotype.png">
+              <img class="btn-white" src="images/site/img_IPN_logotype.png">
             </a>
           </p>
           <p>
