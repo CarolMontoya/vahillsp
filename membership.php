@@ -166,38 +166,28 @@
               <th style="border:0px;">
             		Membership Dues
               </th style="border:0px;">
-              <th style="border:0px;">
-            		Share Payment
-              </th>
       	    </tr>
       	    <tr>
               <td class="center" style="border:0px;">
-            		<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-            			<input type="hidden" name="cmd" value="_xclick">
-            			<input type="hidden" name="business" value="treasurer@stoneybrooke.org">
-            			<input type="hidden" name="lc" value="US">
-            			<input type="hidden" name="item_name" value="Membership Dues Payment">
-            			<input type="hidden" name="button_subtype" value="services">
-            			<input type="hidden" name="no_note" value="0">
-            			<input type="hidden" name="currency_code" value="USD">
-            			<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
-            			<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-            			<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-            		</form>
-              </td>
-              <td class="center" style="border:0px;">
-             		<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-            			<input type="hidden" name="cmd" value="_xclick">
-            			<input type="hidden" name="business" value="treasurer@stoneybrooke.org">
-            			<input type="hidden" name="lc" value="US">
-            			<input type="hidden" name="item_name" value="Share Purchase Payment">
-            			<input type="hidden" name="button_subtype" value="services">
-            			<input type="hidden" name="no_note" value="0">
-            			<input type="hidden" name="currency_code" value="USD">
-            			<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
-            			<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-            			<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-            		</form>
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                  <input type="hidden" name="cmd" value="_s-xclick">
+                  <input type="hidden" name="hosted_button_id" value="7N48GC6GPBG52">
+                  <table>
+                    <tr><td><input type="hidden" name="on0" value="Membership types">Membership types</td></tr><tr><td><select name="os0">
+                    <option value="Family Membership">Family Membership $565.00 USD</option>
+                    <option value="Single Membership">Single Membership $310.00 USD</option>
+                    <option value="Military Membership">Military Membership $565.00 USD</option>
+                    <option value="Associate Membership">Associate Membership $805.00 USD</option>
+                    <option value="10 Guest Passes">10 Guest Passes $35.00 USD</option>
+                    <option value="Share Purchase">Share Purchase $515.00 USD</option>
+                    <option value="Application Fee">Application Fee $50.00 USD</option>
+                    <option value="Nanny/Granny Pass">Nanny/Granny Pass $50.00 USD</option>
+                    </select> </td></tr>
+                  </table>
+                  <input type="hidden" name="currency_code" value="USD">
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                </form>
               </td>
             </tr>
           </table>
