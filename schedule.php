@@ -12,7 +12,7 @@
       Hours of operation (new for 2013!):
     </h4>
     <p>
-      <b>Opening Day <?php echo date('Y'); ?> is <?php echo date('l, F j', strtotime("last Saturday", mktime(0, 0, 0, 6, 1, date('Y')))); ?>.</b>
+      <b>Opening Day <?php echo date('Y'); ?> is <?php echo "Saturday, May 24" # date('l, F j', strtotime("last Saturday", mktime(0, 0, 0, 6, 1, date('Y')))); ?>.</b>
     </p>
     <p>
       <table>
