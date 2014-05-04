@@ -45,7 +45,7 @@
                 <em>Member-at-large:</em> Regina Mohr<br>
                 <em>Member-at-large:</em> Suzy Thompson<br>
                 <em>Member-at-large:</em> Niki Wanner<br>
-                <em>Ex Officio/Swim Team:</em> Jan Inguatiato
+                <em>Ex Officio/Swim Team:</em> Anne Govert
               </p>
             </div>
             <div class="yui-u first">
@@ -65,7 +65,7 @@
             <em>Operations</em>: Suzy Thompson, Chair<br>
             <em>Facilities</em>: Jeff Govert, Chair<br>
             <em>Social</em>: Regina Mohr, Chair<br>
-            <em>Swim Team</em>: Jan Inguatiato<br>
+            <em>Swim Team</em>: Anne Govert<br>
           </p>
 </div>
 <?php include_once "footer.inc"; ?>

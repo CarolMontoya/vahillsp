@@ -84,16 +84,16 @@
                 101</strong></a>: learn the basics!
               </li>
 
-              <li>2013 swim season <a href="swim-team-sched.php"><strong>
+              <li>2014 swim season <a href="swim-team-sched.php"><strong>
                 practice and meet schedule online</strong></a>
               </li>
-              <li><strong><a href="docs/2013InformationLetter.pdf">Information Letter</a></strong></li>
+              <li><strong><a href="docs/2014SwimTeamInformationLetter.pdf">Information Letter</a></strong></li>
               <li><strong><a href="http://www.active.com/swimming-team/alexandria-va/virginia-hills-swim-team-summer-2013">Registration Form</a></strong></li>
 <!--               <li><strong><a href="docs/2011AvailabilityForm.pdf">Availability Form</a></strong></li>
               <li><strong><a href="docs/2011VirginiaHillsTShirts.pdf">T-Shirt Form</a></strong></li>
  -->
               <li>Contact <a href=
-              "mailto:swimteam@vahillspool.org">Jan Inguagiato</a>,
+              "mailto:swimteam@vahillspool.org">Anne Govert</a>,
               Team Representative, with questions
               </li>
             </ul>
@@ -119,8 +119,7 @@
             together to enjoy each others' company and the
             camaraderie of a great team sport. <strong>Pep
             rallies</strong> are held Friday evenings before A
-            meets. <strong>Ice cream socials</strong> are held on
-            Sunday evenings following away A meets. Other team
+            meets. Other team
             events include the <strong>team campout</strong>; a
             trip to <strong>King's Dominion</strong>; and the
             <strong>team banquet.</strong>

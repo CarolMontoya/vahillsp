@@ -1,6 +1,6 @@
 <?php
 global $siteTitle;
-$siteTitle = "Swim Team Schedule 2013";
+$siteTitle = "Swim Team Schedule 2014";
 include_once "header.inc";
 ?>
 <style type="text/css" title="currentStyle">
@@ -33,19 +33,25 @@ include_once "header.inc";
 
   <h2>Swim Team Schedule</h2>
   <p align="center"><img src="images/swteam1.jpg" width="365" height="274" alt="Swimmers at the start"></p>
-  <h3>2013 Tidal Wave Schedule<br>
+  <h3>2014 Tidal Wave Schedule<br>
   Division <?php echo $division ?></h3>
 
-  <h4>Important Dates in 2013</h4>
+  <p>Download a <a href="docs/SwimCalendar2014.pdf">printable schedule</a>.</p>
+
+  <h4>Important Dates in 2014</h4>
   <ul>
-    <li><em>Tuesday, May 28</em> First day of practice</li>
-    <li><em>Tuesday, May 28, 6:00 pm</em> Orientation meeting for parents new to swim team</li>
-    <li><em>Friday, June 14, 5:30-7:30 pm</em> Team suit sale <em>NEW DATE!</em></li>
-    <li><em>Friday, June 21, 6:00 pm</em> Spaghetti dinner</li>
-    <li><em>Friday, July 6</em> Campout and team picture</li>
-    <li><em>Saturday, July 27, 6:00 pm</em> End of season banquet</li>
+    <li><em>Tuesday, May 27:</em> First day of practice</li>
+    <li><em>Tuesday, May 27, 6:00 pm:</em> Orientation meeting for parents new to swim team</li>
+    <li><em>Friday, June 6, 5:30-7:30 pm:</em> Team suit sale</li>
+    <li><em>Friday, June 20, 6:00 pm:</em> Spaghetti dinner</li>
+    <li><em>Friday, June 27 &amp; July 11, 7:00pm:</em> Pep Rally/ice cream</li>
+    <li><em>Monday, June 30th:</em> Morning practice begins</li>
+    <li><em>Friday, July 4:</em> Pancake breakfast</li>
+    <li><em>Friday, July 5:</em> Campout and team pictures</li>
+    <li><em>Tuesday, July 15:</em> Kings Dominion Day</li>
+    <li><em>Saturday, July 26, 6:00 pm:</em> End of season banquet & awards</li>
   </ul>
-  <h5>Practice Schedule 2013</h5>
+  <h5>Practice Schedule 2014</h5>
 
   <p>Note that there is NO morning practice until Thursday, June 20.</p>
 
@@ -58,49 +64,38 @@ include_once "header.inc";
       <th>Ages 13-18</th>
     </tr>
     <tr>
-      <th colspan="6" class="divider">May 29 - June 19</th>
+      <th colspan="5" class="divider">May 27 - June 27</th>
     </tr>
     <tr>
-      <th>Monday thru Friday<br>Afternoon practice only</th>
+      <th>Monday thru Friday<br>evening practice only</th>
       <td>5:00 - 5:30 pm</td>
       <td>5:30 - 6:15 pm</td>
       <td>6:15 - 7:00 pm</td>
       <td>7:00 - 8:00 pm</td>
     </tr>
     <tr>
-      <th colspan="6" class="divider">June 20 - July 29</th>
-    </tr>
-    <tr>
-      <td></td>
-      <th>New Swimmers</th>
-      <th colspan="2">Ages 12 and under</th>
-      <th>Ages 13-18</th>
+      <th colspan="5" class="divider">June 30 - July 25</th>
     </tr>
     <tr>
       <th>Monday thru Friday<br/>Morning practice</th>
-      <td>10:00 - 10:30 am
-      <td colspan="2">9:00 - 10:00 am</td>
-      <td>7:45 - 9:00 am</td>
+      <td>10:15 - 10:45 am
+      <td>9:30 - 10:15 am</td>
+      <td>8:45 - 9:30 am</td>
+      <td>7:30 - 8:45 am</td>
     </tr>
     <tr>
-      <td></td>
-      <th>New Swimmers</th>
-      <th>Ages 8 and under</th>
-      <th>Ages 9-12</th>
-      <th>Ages 13-18</th>
-    </tr>
-    <tr>
-      <th>Tuesday, Wednesday and Thursday<br>Afternoon practice*</th>
+      <th>Tuesday - Thursday<br>Evening practice*</th>
       <td>5:00 - 5:30 pm</td>
       <td>5:30 - 6:15 pm</td>
       <td>6:15 - 7:00 pm</td>
       <td>7:00 - 8:00 pm</td>
     </tr>
   </table>
-  <p>* Please note the Tuesday, Wednesday and Thursday afternoon practices are
-    only for those families who cannot make it to morning practice.</p>
+  <p>* Once morning practice starts on June 30th please attend in the mornings
+  if possible.  Evening practices will only be for swimmers unable to attend
+  mornings.</p>
 
-<h5>Meet Schedule 2013</h5>
+<h5>Meet Schedule 2014</h5>
   <p>Details will be posted each week for upcoming events.  Saturday "A" Meets typically run from 8:00 am (warm-ups) to 11:30 am.  Monday "B" Meets typically run from
 5:00 pm (warm-ups) to 8:30 pm.</p>
   <ul>
@@ -125,79 +120,70 @@ include_once "header.inc";
     </thead>
     <tbody>
       <tr>
-        <td>June 15</td>
-        <td>Practice Meet</td>
+        <td>June 14</td>
+        <td>Practice Meet (Time Trials)</td>
         <td>Highland Park</td>
-        <td>AWAY</td>
+        <td>HOME</td>
         <td></td>
         <td class="nobr">-</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>June 17</td>
+        <td>June 16</td>
         <td>B meet</td>
         <td>Holin Meadows</td>
+        <td>HOME</td>
+        <td></td>
+        <td class="nobr">-</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>June 21</td>
+        <td>A meet</td>
+        <td>Rolling Hills</td>
         <td>AWAY</td>
         <td></td>
         <td class="nobr">-</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>June 22</td>
-        <td>A meet</td>
-        <td>Pleasant Valley</td>
-        <td>HOME</td>
-        <td></td>
-        <td class="nobr"><a href="http://nvsl.nvblu.com/results.html?sched=60373">212-201</a></td>
-        <td>W</td>
-      </tr>
-      <tr>
-        <td>June 24</td>
+        <td>June 23</td>
         <td>B meet</td>
-        <td>Little Hunting Park</td>
-        <td>HOME</td>
+        <td>Bren Mar - Edsall Park</td>
+        <td>AWAY</td>
         <td></td>
         <td class="nobr">-</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>June 29</td>
+        <td>June 28</td>
         <td>A meet</td>
-        <td>Parklawn</td>
+        <td>Commonwealth</td>
         <td>AWAY</td>
         <td></td>
-        <td class="nobr"><a href="http://nvsl.nvblu.com/results.html?sched=60374">200-214</a></td>
-        <td>L</td>
+        <td class="nobr"></td>
+        <td>-</td>
       </tr>
       <tr>
-        <td>July 1</td>
+        <td>June 30</td>
         <td>B meet</td>
         <td>Highland Park</td>
-        <td>HOME</td>
+        <td>AWAY</td>
         <td></td>
         <td class="nobr">-</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>July 6</td>
+        <td>July 5</td>
         <td>A meet</td>
-        <td>Somerset Olde Creek</td>
-        <td>HOME</td>
-        <td></td>
-        <td class="nobr"><a href="http://nvsl.nvblu.com/results.html?sched=60378">200-219</a></td>
-        <td>W</td>
-      </tr>
-      <tr>
-        <td>July 6</td>
-        <td>Fun!</td>
-        <td>Campout and team picture</td>
+        <td>Fairfax Club</td>
         <td>HOME</td>
         <td></td>
         <td class="nobr">-</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>July 8</td>
+        <td>July 7</td>
         <td>B Meet</td>
         <td>Lorton Station</td>
         <td>HOME</td>
@@ -206,45 +192,81 @@ include_once "header.inc";
         <td>-</td>
       </tr>
       <tr>
-        <td>July 10</td>
+        <td>July 9</td>
         <td>Relay Carnival</td>
-        <td>Pleasant Valley</td>
+        <td>Newington Forest</td>
         <td>AWAY</td>
         <td></td>
-        <td class="nobr"><a href="http://nvsl.nvblu.com/results.html?sched=60380">158</a></td>
-        <td>2nd place</td>
+        <td class="nobr"></td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>July 12</td>
+        <td>A meet</td>
+        <td>Ilda</td>
+        <td>HOME</td>
+        <td></td>
+        <td class="nobr">-</td>
+        <td>-</td>
       </tr>
       <tr>
         <td>July 13</td>
-        <td>A meet</td>
-        <td>Lincolnia Park</td>
-        <td>HOME</td>
+        <td>Relay Championships</td>
+        <td>(qualifying relay teams only)</td>
+        <td>AWAY</td>
         <td></td>
-        <td class="nobr"><a href="http://nvsl.nvblu.com/results.html?sched=60383">235-182</a></td>
-        <td>W</td>
+        <td class="nobr">-</td>
+        <td>-</td>
       </tr>
       <tr>
-        <td>July 15</td>
+        <td>July 14</td>
         <td>B Meet</td>
         <td>Hayfield</td>
+        <td>HOME</td>
+        <td></td>
+        <td class="nobr">-</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>July 16</td>
+        <td>All Star Relay Meet</td>
+        <td>(qualifying relay teams only)</td>
         <td>AWAY</td>
         <td></td>
         <td class="nobr">-</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>July 20</td>
+        <td>July 19</td>
         <td>A meet</td>
-        <td>Herndon</td>
+        <td>Newington Forest</td>
         <td>AWAY</td>
         <td></td>
         <td class="nobr">-</td>
         <td>-</td>
       </tr>
       <tr>
-        <td>July 27</td>
+        <td>July 21</td>
+        <td>IM Invitational</td>
+        <td>TBD</td>
+        <td>AWAY</td>
+        <td></td>
+        <td class="nobr">-</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>July 26</td>
         <td>Divisionals</td>
-        <td>Parklawn</td>
+        <td>VA Hills</td>
+        <td>HOME</td>
+        <td></td>
+        <td class="nobr">-</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>August 2</td>
+        <td>Individual All Stars</td>
+        <td>(qualifying swimmers only)</td>
         <td>AWAY</td>
         <td></td>
         <td class="nobr">-</td>
