@@ -53,7 +53,7 @@ include_once "header.inc";
   </ul>
   <h5>Practice Schedule 2014</h5>
 
-  <p>Note that there is NO morning practice until Thursday, June 20.</p>
+  <p>Note that there is NO morning practice until Monday, June 30.</p>
 
   <table class="schedule" width="100%">
     <tr>

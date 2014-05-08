@@ -88,7 +88,7 @@
                 practice and meet schedule online</strong></a>
               </li>
               <li><strong><a href="docs/2014SwimTeamInformationLetter.pdf">Information Letter</a></strong></li>
-              <li><strong><a href="http://www.active.com/swimming-team/alexandria-va/virginia-hills-swim-team-summer-2013">Registration Form</a></strong></li>
+              <li><strong><a href="http://www.active.com/swimming-team/alexandria-va/virginia-hills-swim-team-summer-2014">Registration Form</a></strong></li>
 <!--               <li><strong><a href="docs/2011AvailabilityForm.pdf">Availability Form</a></strong></li>
               <li><strong><a href="docs/2011VirginiaHillsTShirts.pdf">T-Shirt Form</a></strong></li>
  -->
