@@ -17,7 +17,7 @@
     <p>
       <table>
         <tr>
-          <td>May 25, 2013 – June 18</td>
+          <td>May 25, 2013 – June 24</td>
           <td>Weekends</td>
           <td>11 a.m. to 8 p.m. daily (including Memorial Day)</td>
         </tr>
@@ -27,7 +27,7 @@
           <td>4 p.m. to 8 p.m.</td>
         </tr>
         <tr>
-          <td>June 19 – September 2</td>
+          <td>June 25 – September 1</td>
           <td>Daily</td>
           <td>
             11 a.m. – 8:30 p.m. (no break at 7:45 p.m.)
