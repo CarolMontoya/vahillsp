@@ -168,6 +168,11 @@
           Pool is closed for the winter - see you next year!
         </li>
         <?php } ?>
+        <?php if(strtotime("2014-06-21") - time() > 0) { ?>
+        <li>
+          <a href="adult-socials.php">Happy Hour June 21</a>
+        </li>
+        <?php } ?>
       </ul>
     </div>
     <div class="collage-blurb">

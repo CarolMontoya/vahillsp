@@ -80,13 +80,26 @@
               <a href="docs/2011PoolSocialEvent.pdf">Download flyer</a>
             </li>
             <?php } ?>
+            <?php if(strtotime("2014-06-21") - time() > 0) { ?>
+            <li>
+              <h4>Happy Hour (Adults Only) Saturday June 21</h4>
+              <h4>Time:   7:30 - 10:00 pm</h4>
+              <p>Cost:  $5 per person which covers light finger foods AND bring your own beverage to share (beer or wine).</p>
+              <p>RSVP by June 18th to <a href="mailto:party@vahillspool.org">party@vahillspool.org</a><br/>
+              (Need minimum of 20 people)</p>
+              <p>Flyer available for <a href="docs/2014AdultSocialFlyer.pdf">download/print</a></p>
+            </li>
+            <?php } ?>
           </ul>
-          <p>
+          <!-- some extra specing to keep image from overflowing -->
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+<!--           <p>
             If you would volunteer to help with this or other
             social events, please contact <a href=
             "mailto:&#106;&#101;&#99;&#115;&#114;&#99;&#64;&#109;&#115;&#110;&#46;&#99;&#111;&#109;">Suzy Coffey</a>,
             (703) 329-9271.
           </p>
-          <p>&nbsp;</p>
+ -->
 </div>
 <?php include_once "footer.inc"; ?>
