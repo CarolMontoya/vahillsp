@@ -27,6 +27,13 @@
                    "2013-07-13" => "opens late at 12:00pm for swim team meet",
                    "2013-07-17" => "closes early at 7:30pm for movie night",
                    "2013-08-13" => "closed until 6:00pm for disinfecting",
+                   "2014-06-14" => "opens late at 2:00pm for swim team meet",
+                   "2014-06-16" => "closes early at 4:45pm for swim team meet",
+                   "2014-07-05" => "opens late at 12:00pm for swim team meet",
+                   "2014-07-07" => "closes early at 5:00pm for swim team meet",
+                   "2014-07-12" => "opens late at 12:00pm for swim team meet",
+                   "2014-07-14" => "closes early at 5:00pm for swim team meet",
+                   "2014-07-26" => "opens late at 3:00pm for divisional swim team meet",
                   );
     $today = time();
 
