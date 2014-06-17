@@ -135,7 +135,7 @@ include_once "header.inc";
         <td>HOME</td>
         <td></td>
         <td class="nobr">-</td>
-        <td>-</td>
+        <td><a href="docs/swim-team-results/2014-06-16-HM-improvement.pdf">Improvements</a></td>
       </tr>
       <tr>
         <td>June 21</td>
