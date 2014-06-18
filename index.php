@@ -175,9 +175,19 @@
           Pool is closed for the winter - see you next year!
         </li>
         <?php } ?>
-        <?php if(strtotime("2014-06-21") - time() > 0) { ?>
+        <?php if(strtotime("2014-06-22") - time() > 0) { ?>
         <li>
           <a href="adult-socials.php">Happy Hour June 21</a>
+        </li>
+        <?php } ?>
+        <?php if(strtotime("2014-06-23") - time() > 0) { ?>
+        <li>
+          <a href="aqua-zumba.php">Aqua Zumba June 22</a>
+        </li>
+        <?php } ?>
+        <?php if(strtotime("2014-06-26") - time() > 0) { ?>
+        <li>
+          <a href="end-of-school-party.php">End of School Year Party June 25</a>
         </li>
         <?php } ?>
       </ul>
