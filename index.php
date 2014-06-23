@@ -195,7 +195,7 @@
           <a href="end-of-school-party.php">End of School Year Party June 25</a>
         </li>
         <?php } ?>
-        <?php if(rand(0, 100) > 50) { ?>
+        <?php if(rand(0, 100) > 50 && strtotime("2014-09-01") - time() > 0) { ?>
         <li>
           <a href="http://vols.pt/mE2kJ8" class="red">Sign up for Snackbar!</a>
         </li>
