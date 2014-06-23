@@ -64,7 +64,7 @@ include_once "header.inc";
       <th>Ages 13-18</th>
     </tr>
     <tr>
-      <th colspan="5" class="divider">May 27 - June 27</th>
+      <th colspan="5" class="divider">May 27 - June 26</th>
     </tr>
     <tr>
       <th>Monday thru Friday<br>evening practice only</th>
@@ -74,7 +74,7 @@ include_once "header.inc";
       <td>7:00 - 8:00 pm</td>
     </tr>
     <tr>
-      <th colspan="5" class="divider">June 30 - July 25</th>
+      <th colspan="5" class="divider">June 27 - July 25</th>
     </tr>
     <tr>
       <th>Monday thru Friday<br/>Morning practice</th>
@@ -140,25 +140,25 @@ include_once "header.inc";
       <tr>
         <td>June 21</td>
         <td>A meet</td>
-        <td>Rolling Hills</td>
+        <td><a href="https://www.google.com/maps/preview?gl=us&hq=rolling+hills+swim+club&daddr=8301+Carrleigh+Pkwy,+Springfield,+VA+22152&panel=1&f=d&fb=1&geocode=FbHVTwIdj5Jl-ylJ8sEpfU22iTGtive3dqtthg&cid=9686586899924748973">Rolling Hills</a></td>
         <td>AWAY</td>
         <td><a href="http://www.signupgenius.com/go/10c0c44a8a62aa57-vahills1">Volunteer</a></td>
-        <td class="nobr">-</td>
-        <td>-</td>
+        <td class="nobr"><a href="http://www.mynvsl.com/results/73/?back=dt">221-198</a></td>
+        <td>W</td>
       </tr>
       <tr>
         <td>June 23</td>
         <td>B meet</td>
-        <td>Bren Mar - Edsall Park</td>
+        <td><a href="https://www.google.com/maps/dir//5505+Montgomery+St,+Springfield,+VA+22151/@38.8020239,-77.1784212,19z/data=!4m8!4m7!1m0!1m5!1m1!1s0x89b7b2c6cf153761:0x6d942a4871c2316d!2m2!1d-77.1778999!2d38.802198">Bren Mar - Edsall Park</a></td>
         <td>AWAY</td>
-        <td></td>
+        <td><a href="http://www.signupgenius.com/go/10c0c44a8a62aa57-virginia1">Volunteer</a></td>
         <td class="nobr">-</td>
         <td>-</td>
       </tr>
       <tr>
         <td>June 28</td>
         <td>A meet</td>
-        <td>Commonwealth</td>
+        <td><a href="https://www.google.com/maps/dir//9800+Commonwealth+Blvd,+Fairfax,+VA+22032/@38.813909,-77.3177598,13z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b64ddee3cd02b1:0x8467eb9bb906eb38!2m2!1d-77.283427!2d38.813914">Commonwealth</a></td>
         <td>AWAY</td>
         <td></td>
         <td class="nobr"></td>
@@ -167,7 +167,7 @@ include_once "header.inc";
       <tr>
         <td>June 30</td>
         <td>B meet</td>
-        <td>Highland Park</td>
+        <td><a href="https://www.google.com/maps/preview?gl=us&hq=highland+park+pool&daddr=6406+Telegraph+Rd,+Alexandria,+VA+22310&panel=1&f=d&fb=1&geocode=FRq4TwId_W5n-yn7PNa4BLK3iTEOt36Dvn9Hcw&cid=8306748493934802702">Highland Park</a></td>
         <td>AWAY</td>
         <td></td>
         <td class="nobr">-</td>
@@ -194,7 +194,7 @@ include_once "header.inc";
       <tr>
         <td>July 9</td>
         <td>Relay Carnival</td>
-        <td>Newington Forest</td>
+        <td><a href="https://www.google.com/maps/dir//8201+Southrun+Rd,+Springfield,+VA+22153/@38.7352561,-77.225947,1448m/data=!3m1!1e3!4m13!1m4!3m3!1s0x89b6531ba633ec07:0x1ad7919cdfcce87c!2s8201+Southrun+Rd!3b1!4m7!1m0!1m5!1m1!1s0x89b6531ba633ec07:0x1ad7919cdfcce87c!2m2!1d-77.2259474!2d38.7352556?hl=en-US">Newington Forest</a></td>
         <td>AWAY</td>
         <td></td>
         <td class="nobr"></td>
@@ -239,7 +239,7 @@ include_once "header.inc";
       <tr>
         <td>July 19</td>
         <td>A meet</td>
-        <td>Newington Forest</td>
+        <td><a href="https://www.google.com/maps/dir//8201+Southrun+Rd,+Springfield,+VA+22153/@38.7352561,-77.225947,1448m/data=!3m1!1e3!4m13!1m4!3m3!1s0x89b6531ba633ec07:0x1ad7919cdfcce87c!2s8201+Southrun+Rd!3b1!4m7!1m0!1m5!1m1!1s0x89b6531ba633ec07:0x1ad7919cdfcce87c!2m2!1d-77.2259474!2d38.7352556?hl=en-US">Newington Forest</a></td>
         <td>AWAY</td>
         <td></td>
         <td class="nobr">-</td>
