@@ -142,7 +142,7 @@ include_once "header.inc";
         <td>A meet</td>
         <td>Rolling Hills</td>
         <td>AWAY</td>
-        <td></td>
+        <td><a href="http://www.signupgenius.com/go/10c0c44a8a62aa57-vahills1">Volunteer</a></td>
         <td class="nobr">-</td>
         <td>-</td>
       </tr>
