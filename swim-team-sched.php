@@ -103,8 +103,8 @@ include_once "header.inc";
   </ul>
   <p>A meets are competitive; B meets are developmental.</p>
 <h5>A Meet Availability sign-up</h5>
-  <p>Please sign up <a href="http://www.signupgenius.com/go/70A044EA9A6229-availability">here</a>
-    for the A Meets. Remember to update your availability as it changes, please.
+  <p>Please sign up <a href="http://www.signupgenius.com/go/10c0c44a8a62aa57-tidal">here</a>
+    if you are <strong>NOT</strong> available for one of the A Meets. Remember to update your availability as it changes, please.
   </p>
   <table id="MeetSchedule" width="90%" border="1" align="center" class="display">
     <thead>
@@ -134,15 +134,15 @@ include_once "header.inc";
         <td>Holin Meadows</td>
         <td>HOME</td>
         <td></td>
-        <td class="nobr">-</td>
-        <td><a href="docs/swim-team-results/2014-06-16-HM-improvement.pdf">Improvements</a></td>
+        <td class="nobr"><a href="docs/swim-team-results/2014-06-16-HM-improvement.pdf">Improvements</a></td>
+        <td>-</td>
       </tr>
       <tr>
         <td>June 21</td>
         <td>A meet</td>
         <td><a href="https://www.google.com/maps/preview?gl=us&hq=rolling+hills+swim+club&daddr=8301+Carrleigh+Pkwy,+Springfield,+VA+22152&panel=1&f=d&fb=1&geocode=FbHVTwIdj5Jl-ylJ8sEpfU22iTGtive3dqtthg&cid=9686586899924748973">Rolling Hills</a></td>
         <td>AWAY</td>
-        <td><a href="http://www.signupgenius.com/go/10c0c44a8a62aa57-vahills1">Volunteer</a></td>
+        <td><?php if(strtotime("2014-06-22") - time() > 0) { ?><a href="http://www.signupgenius.com/go/10c0c44a8a62aa57-vahills1">Volunteer</a><?php } ?></td>
         <td class="nobr"><a href="http://www.mynvsl.com/results/73/?back=dt">221-198</a></td>
         <td>W</td>
       </tr>
@@ -151,8 +151,8 @@ include_once "header.inc";
         <td>B meet</td>
         <td><a href="https://www.google.com/maps/dir//5505+Montgomery+St,+Springfield,+VA+22151/@38.8020239,-77.1784212,19z/data=!4m8!4m7!1m0!1m5!1m1!1s0x89b7b2c6cf153761:0x6d942a4871c2316d!2m2!1d-77.1778999!2d38.802198">Bren Mar - Edsall Park</a></td>
         <td>AWAY</td>
-        <td><a href="http://www.signupgenius.com/go/10c0c44a8a62aa57-virginia1">Volunteer</a></td>
-        <td class="nobr">-</td>
+        <td><?php if(strtotime("2014-06-24") - time() > 0) { ?><a href="http://www.signupgenius.com/go/10c0c44a8a62aa57-virginia1">Volunteer</a><?php } ?></td>
+        <td class="nobr"><a href="docs/swim-team-results/2014-06-23-BM-improvement.pdf">Improvements</a></td>
         <td>-</td>
       </tr>
       <tr>
