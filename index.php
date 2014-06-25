@@ -190,9 +190,9 @@
           <a href="aqua-zumba.php">Aqua Zumba June 22</a>
         </li>
         <?php } ?>
-        <?php if(strtotime("2014-06-26") - time() > 0) { ?>
+        <?php if(strtotime("2014-06-27") - time() > 0) { ?>
         <li>
-          <a href="end-of-school-party.php">End of School Year Party June 25</a>
+          <a href="end-of-school-party.php">End of School Year Party <span class="announce">June 26</span></a>
         </li>
         <?php } ?>
         <?php if(rand(0, 100) > 50 && strtotime("2014-09-01") - time() > 0) { ?>

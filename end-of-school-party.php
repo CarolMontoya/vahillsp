@@ -13,7 +13,7 @@ include_once "header.inc";
       <p class="announce">We need volunteers to assist with the games and serve pizza for the End of School Year Party.  If you are able to help out for a little bit, please <a href="http://vols.pt/sNpdVU">click here</a></p>
       <table>
         <tr>
-          <th>Date:</th><td>Wednesday, June 25</td>
+          <th>Date:</th><td>Thursday, June 26</td>
         </tr>
         <tr>
           <th>Time:</th><td>4:30 – 6:00 pm (games at  +4:00 pm, pizza at 5:00 pm)<br/>
