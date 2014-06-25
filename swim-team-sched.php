@@ -160,7 +160,7 @@ include_once "header.inc";
         <td>A meet</td>
         <td><a href="https://www.google.com/maps/dir//9800+Commonwealth+Blvd,+Fairfax,+VA+22032/@38.813909,-77.3177598,13z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b64ddee3cd02b1:0x8467eb9bb906eb38!2m2!1d-77.283427!2d38.813914">Commonwealth</a></td>
         <td>AWAY</td>
-        <td></td>
+        <td><?php if(strtotime("2014-06-29") - time() > 0) { ?><a href="http://www.signupgenius.com/go/10c0c44a8a62aa57-vahills2">Volunteer</a><?php } ?></td>
         <td class="nobr"></td>
         <td>-</td>
       </tr>
