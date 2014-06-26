@@ -9,7 +9,7 @@
       Hours (<?php echo date('Y'); ?>)
     </h2>
     <h4>
-      Hours of operation (new for 2013!):
+      Hours of operation:
     </h4>
     <p>
       <b>Opening Day <?php echo date('Y'); ?> is <?php echo "Saturday, May 24" # date('l, F j', strtotime("last Saturday", mktime(0, 0, 0, 6, 1, date('Y')))); ?>.</b>
