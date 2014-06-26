@@ -200,6 +200,11 @@
           <a href="http://vols.pt/mE2kJ8" class="red">Sign up for Snackbar!</a>
         </li>
         <?php } ?>
+        <?php if(strtotime("2014-07-05") - time() > 0) { ?>
+        <li>
+          <a href="4th-july.php">Fourth of July Party</a>
+        </li>
+        <?php } ?>
       </ul>
     </div>
     <div class="collage-blurb">

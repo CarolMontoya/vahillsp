@@ -36,10 +36,17 @@ include_once "header.inc";
 				</tr>
 				<tr>
 					<td>
-						2:00
+						1:45 - 3:45
 					</td>
 					<td>
 						Relay Races (family, kids, individual - see sign up in guard house)
+					</td>
+				</tr>
+				<tr>
+					<td>
+					2:00 - 4:00</td>
+					<td>
+						Hot dogs, hamburgers, chips, lemonade - pie for dessert!
 					</td>
 				</tr>
 				<tr>
@@ -52,24 +59,10 @@ include_once "header.inc";
 				</tr>
 				<tr>
 					<td>
-					2:00 - 4:00</td>
-					<td>
-						Hot dogs, hamburgers, chips, lemonade - pie for dessert!
-					</td>
-				</tr>
-				<tr>
-					<td>
 						3:00
 					</td>
 					<td>
 						Coin Toss for kids by age groups in various parts of the pool
-					</td>
-				</tr>
-				<tr>
-					<td>
-					3:30</td>
-					<td>
-						Lifeguard Competition - cheer for your favorite guard!
 					</td>
 				</tr>
 			</table>
@@ -82,9 +75,11 @@ include_once "header.inc";
 		</div>
 	</div>
 	<div class="yui-g">
-		Please email <a href="mailto:&#109;&#105;&#116;&#99;&#104;&#101;&#108;&#108;&#97;&#110;&#100;&#115;&#117;&#122;&#121;&#64;&#106;&#117;&#110;&#111;&#46;&#99;&#111;&#109;">Suzy Thompson</a> or call 703-329-7854 if you are willing to help with any event or for any amount of time.  We need a few helpers to make these activities fun for all! See you at VA Hills Pool!
-		<p><a href="docs/2012Flier4thJuly.pdf">Download</a> the flier here.</p>
-		<p><a href="docs/2012PieContest4thJuly.pdf">Pie Contest</a> infos here.</p>
+		<p>Please email <a href="mailto:&#109;&#105;&#116;&#99;&#104;&#101;&#108;&#108;&#97;&#110;&#100;&#115;&#117;&#122;&#121;&#64;&#106;&#117;&#110;&#111;&#46;&#99;&#111;&#109;">Suzy Thompson</a> or call 703-329-7854 if you are willing to help with any event or for any amount of time.  We need a few helpers to make these activities fun for all! See you at VA Hills Pool!</p>
+		<p>There is also a <a href="http://www.SignUpGenius.com/go/10C044FACAA23A13-july3">Sign-up Genius link</a> for volunteering.</p>
+
+		<p><a href="docs/2014July4thFlyer.pdf">Download</a> the flier here.</p>
+		<p><a href="docs/2014July4thPieContest.pdf">Pie Contest</a> infos here.</p>
 	</div>
 </div>
 <?php include_once "footer.inc"; ?>
