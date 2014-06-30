@@ -46,7 +46,7 @@ include_once "header.inc";
     <li><em>Friday, June 20, 6:00 pm:</em> Spaghetti dinner</li>
     <li><em>Friday, June 27 &amp; July 11, 7:00pm:</em> Pep Rally/ice cream</li>
     <li><em>Monday, June 30th:</em> Morning practice begins</li>
-    <li><em>Friday, July 4:</em> Pancake breakfast <a href="http://www.signupgenius.com/go/10c0b45afaf29a57-july">Volunteer</a></li>
+    <li><em>Friday, July 4:</em> Pancake breakfast<?php if(strtotime("2014-07-05") - time() > 0) { ?> <a href="http://www.signupgenius.com/go/10c0b45afaf29a57-july">Volunteer</a><?php } ?></li>
     <li><em>Friday, July 5:</em> Campout and team pictures</li>
     <li><em>Tuesday, July 15:</em> Kings Dominion Day</li>
     <li><em>Saturday, July 26, 6:00 pm:</em> End of season banquet & awards</li>
