@@ -46,7 +46,7 @@ include_once "header.inc";
     <li><em>Friday, June 20, 6:00 pm:</em> Spaghetti dinner</li>
     <li><em>Friday, June 27 &amp; July 11, 7:00pm:</em> Pep Rally/ice cream</li>
     <li><em>Monday, June 30th:</em> Morning practice begins</li>
-    <li><em>Friday, July 4:</em> Pancake breakfast</li>
+    <li><em>Friday, July 4:</em> Pancake breakfast <a href="http://www.signupgenius.com/go/10c0b45afaf29a57-july">Volunteer</a></li>
     <li><em>Friday, July 5:</em> Campout and team pictures</li>
     <li><em>Tuesday, July 15:</em> Kings Dominion Day</li>
     <li><em>Saturday, July 26, 6:00 pm:</em> End of season banquet & awards</li>
@@ -161,15 +161,15 @@ include_once "header.inc";
         <td><a href="https://www.google.com/maps/dir//9800+Commonwealth+Blvd,+Fairfax,+VA+22032/@38.813909,-77.3177598,13z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b64ddee3cd02b1:0x8467eb9bb906eb38!2m2!1d-77.283427!2d38.813914">Commonwealth</a></td>
         <td>AWAY</td>
         <td><?php if(strtotime("2014-06-29") - time() > 0) { ?><a href="http://www.signupgenius.com/go/10c0c44a8a62aa57-vahills2">Volunteer</a><?php } ?></td>
-        <td class="nobr"></td>
-        <td>-</td>
+        <td class="nobr"><a href="http://www.mynvsl.com/results/9852/?back=dt">228-186</a></td>
+        <td>W</td>
       </tr>
       <tr>
         <td>June 30</td>
         <td>B meet</td>
         <td><a href="https://www.google.com/maps/preview?gl=us&hq=highland+park+pool&daddr=6406+Telegraph+Rd,+Alexandria,+VA+22310&panel=1&f=d&fb=1&geocode=FRq4TwId_W5n-yn7PNa4BLK3iTEOt36Dvn9Hcw&cid=8306748493934802702">Highland Park</a></td>
         <td>AWAY</td>
-        <td></td>
+        <td><?php if(strtotime("2014-07-01") - time() > 0) { ?><a href="http://www.signupgenius.com/go/10c0c44a8a62aa57-virginia2">Volunteer</a><?php } ?></td>
         <td class="nobr">-</td>
         <td>-</td>
       </tr>
