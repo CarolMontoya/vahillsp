@@ -47,7 +47,7 @@ include_once "header.inc";
     <li><em>Friday, June 27 &amp; July 11, 7:00pm:</em> Pep Rally/ice cream</li>
     <li><em>Monday, June 30th:</em> Morning practice begins</li>
     <li><em>Friday, July 4:</em> Pancake breakfast<?php if(strtotime("2014-07-05") - time() > 0) { ?> <a href="http://www.signupgenius.com/go/10c0b45afaf29a57-july">Volunteer</a><?php } ?></li>
-    <li><em>Friday, July 5:</em> Campout and team pictures</li>
+    <li><em>Friday, July 5:</em> <a href="docs/2014TidalWaveCamp.pdf">Campout</a> and team pictures</li>
     <li><em>Tuesday, July 15:</em> Kings Dominion Day</li>
     <li><em>Saturday, July 26, 6:00 pm:</em> End of season banquet & awards</li>
   </ul>
@@ -170,7 +170,7 @@ include_once "header.inc";
         <td><a href="https://www.google.com/maps/preview?gl=us&hq=highland+park+pool&daddr=6406+Telegraph+Rd,+Alexandria,+VA+22310&panel=1&f=d&fb=1&geocode=FRq4TwId_W5n-yn7PNa4BLK3iTEOt36Dvn9Hcw&cid=8306748493934802702">Highland Park</a></td>
         <td>AWAY</td>
         <td><?php if(strtotime("2014-07-01") - time() > 0) { ?><a href="http://www.signupgenius.com/go/10c0c44a8a62aa57-virginia2">Volunteer</a><?php } ?></td>
-        <td class="nobr">-</td>
+        <td class="nobr"><a href="docs/swim-team-results/2014-06-30-HP-improvement.pdf">Improvements</a></td>
         <td>-</td>
       </tr>
       <tr>
