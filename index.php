@@ -219,7 +219,6 @@
   </div>
 </div>
 
-<!--
 <div class="rounded">
   <h2>Early Closings</h2>
   <p>Below is a list of the dates where the pool will close outside of
@@ -228,7 +227,7 @@
   <ul>
   <?php
     foreach ($closures as $closure => $time) {
-      if(date("Y", $time) == date("Y", time())) {
+      if(date("Y", strtotime($closure)) == date("Y", time())) {
         $closure = strtotime($closure);
         $datediff = $closure - $today;
         echo "<li>" . strftime("%A, %B %d, %Y", $closure) . ": $time</li>";
@@ -237,7 +236,6 @@
   ?>
   </ul>
 </div>
--->
 
 <!--
 <div class="rounded">
