@@ -227,7 +227,7 @@
   <ul>
   <?php
     foreach ($closures as $closure => $time) {
-      if(date("Y", strtotime($closure)) == date("Y", time())) {
+      if(strtotime($closure) - time() >= -86400) {
         $closure = strtotime($closure);
         $datediff = $closure - $today;
         echo "<li>" . strftime("%A, %B %d, %Y", $closure) . ": $time</li>";
