@@ -179,8 +179,8 @@ include_once "header.inc";
         <td>Fairfax Club</td>
         <td>HOME</td>
         <td></td>
-        <td class="nobr">-</td>
-        <td>-</td>
+        <td class="nobr"><a href="http://www.mynvsl.com/results/9883/?back=dt">198-220</a></td>
+        <td>L</td>
       </tr>
       <tr>
         <td>July 7</td>
