@@ -196,7 +196,7 @@ include_once "header.inc";
         <td>Relay Carnival</td>
         <td><a href="https://www.google.com/maps/dir//8201+Southrun+Rd,+Springfield,+VA+22153/@38.7352561,-77.225947,1448m/data=!3m1!1e3!4m13!1m4!3m3!1s0x89b6531ba633ec07:0x1ad7919cdfcce87c!2s8201+Southrun+Rd!3b1!4m7!1m0!1m5!1m1!1s0x89b6531ba633ec07:0x1ad7919cdfcce87c!2m2!1d-77.2259474!2d38.7352556?hl=en-US">Newington Forest</a></td>
         <td>AWAY</td>
-        <td><?php if(strtotime("2014-07-14") - time() > 0) { ?><a href="http://www.signupgenius.com/go/10c0c44a8a62aa57-relay1">Volunteer</a><?php } ?></td>
+        <td><?php if(strtotime("2014-07-09") - time() > 0) { ?><a href="http://www.signupgenius.com/go/10c0c44a8a62aa57-relay1">Volunteer</a><?php } ?></td>
         <td class="nobr">210</td>
         <td>1st</td>
       </tr>
