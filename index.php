@@ -205,9 +205,14 @@
           <a href="4th-july.php">Fourth of July Party</a>
         </li>
         <?php } ?>
-        <?php if(strtotime("2014-09-01") - time() > 0) { ?>
+        <?php if(strtotime("2014-07-15") - time() > 0) { ?>
         <li>
           <a href="record3.php">4 Tidal Wave records broken!</a>
+        </li>
+        <?php } ?>
+        <?php if(strtotime("2014-07-23") - time() > 0) { ?>
+        <li>
+          <a href="record4.php">4 more Tidal Wave relay records broken!</a>
         </li>
         <?php } ?>
       </ul>

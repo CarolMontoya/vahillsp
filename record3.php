@@ -1,6 +1,6 @@
 <?php
 global $siteTitle;
-$siteTitle = "Tidal Wave Records come a-tumbling down!";
+$siteTitle = "4 Tidal Wave Records broken!";
 include_once "header.inc";
 ?>
 <div class="rounded">
