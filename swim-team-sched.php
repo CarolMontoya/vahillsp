@@ -223,7 +223,7 @@ include_once "header.inc";
         <td>B Meet</td>
         <td>Hayfield</td>
         <td>HOME</td>
-        <td></td>
+        <td><?php if(strtotime("2014-07-15") - time() > 0) { ?><a href="http://www.signupgenius.com/go/10c0c44a8a62aa57-hayfield1">Volunteer</a><?php } ?></td>
         <td class="nobr">-</td>
         <td>-</td>
       </tr>
