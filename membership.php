@@ -68,7 +68,7 @@
             Application Fee (new members):
           </td>
           <td>
-            <strong>$50.00</strong>
+            <strong>$75.00</strong>
           </td>
         </tr>
         <tr>
@@ -76,7 +76,7 @@
             One Time Share Price:
           </td>
           <td>
-            <strong>$500.00</strong> (Single or Family)
+            <strong>$525.00</strong> (Single or Family)
           </td>
         </tr>
         <tr>
