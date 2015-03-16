@@ -1,4 +1,7 @@
 RewriteEngine on
+<IfModule headers_module>
+	header set X-Clacks-Overhead "GNU Terry Pratchett"
+</IfModule>
 # Use PHP5 as default
 # AddHandler application/x-httpd-php5 .php .htm .html .shtml
 ErrorDocument 404 /404.php
