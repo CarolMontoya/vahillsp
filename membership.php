@@ -182,12 +182,11 @@
                   <option value="Single Membership">Single Membership $295.00 USD</option>
                   <option value="Military Membership">Military Membership $550.00 USD</option>
                   <option value="Associate Membership">Associate Membership $790.00 USD</option>
-                  <option value="10 Guest Passes">10 Guest Passes $35.00 USD</option>
                   <option value="Share Purchase">Share Purchase $525.00 USD</option>
                   <option value="Application Fee or Late Fee">Application Fee or Late Fee $75.00 USD</option>
                   <option value="Nanny/Granny Pass">Nanny/Granny Pass $50.00 USD</option>
                 </select> </td></tr>
-                </table>
+              </table>
               <input type="hidden" name="currency_code" value="USD">
               <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
               <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
