@@ -1,0 +1,6 @@
+/* Sample config file for the website - place this in the folder ABOVE this one */
+<?php
+  $root = "";
+  $division = 13;
+  date_default_timezone_set('America/New_York')
+?>
