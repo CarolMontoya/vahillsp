@@ -1,0 +1,54 @@
+;; 
+;; Domain:     vahillspool.org
+;; Exported:   2015-05-08 00:13:08
+;; 
+;; This file is intended for use for informational and archival
+;; purposes ONLY and MUST be edited before use on a production
+;; DNS server.  In particular, you must:
+;;   -- update the SOA record with the correct authoritative name server
+;;   -- update the SOA record with the contact e-mail address information
+;;   -- update the NS record(s) with the authoritative name servers for this domain.
+;; 
+;; For further information, please consult the BIND documentation
+;; located on the following website:
+;; 
+;; http://www.isc.org/
+;; 
+;; And RFC 1035:
+;; 
+;; http://www.ietf.org/rfc/rfc1035.txt
+;; 
+;; Please note that we do NOT offer technical support for any use
+;; of this zone data, the BIND name server, or any other third-party
+;; DNS software.
+;; 
+;;     Use at your own risk.
+$ORIGIN .
+@	3600	IN	SOA	vahillspool.org.	root.vahillspool.org.	(
+		2018271058	; serial
+		7200		; refresh
+		3600		; retry
+		86400		; expire
+		3600)		; minimum
+
+
+
+;; NS Records (YOU MUST CHANGE THIS)
+vahillspool.org.	300	IN	NS	NS.SOMEWHERE.example.com.
+
+;; MX Records
+vahillspool.org.	300	IN	MX	0	vahillspool.org.
+
+;; TXT Records
+_dmarc.vahillspool.org.	300	IN	TXT	"v=DMARC1\; p=none\; pct=100\; rua=mailto:re+rb0vocykrg4@dmarc.postmarkapp.com\; sp=none\; aspf=r\;"
+vahillspool.org.	300	IN	TXT	"v=spf1 +a +mx +ip4:199.189.248.170 include:_spf.google.com ~all"
+default._domainkey.vahillspool.org.	300	IN	TXT	"v=DKIM1\; k=rsa\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCfdfWPZ12gifoWl5ZNZemeawL6DhC0xsANK/2RJuBowN/cR9c0HxyueBqnqaeOxS7srhu6LxZ+cb1j0snyKZz+47vAUpxkD3rntmQu1H197JwEL4nE1DM+NstfyKHddeyes0Y1fWvehMi6yTC6eD5CSY/1mK4JlruvvlBCezxscwIDAQAB\;"
+
+;; SPF Records (Sender Policy Framework)
+vahillspool.org.	300	IN	SPF	"v=spf1 +a +mx +ip4:199.189.248.170 include:_spf.google.com ~all"
+
+;; A Records (IPv4 addresses)
+*.vahillspool.org.	300	IN	A	199.189.248.171
+www.vahillspool.org.	300	IN	A	199.189.248.171
+direct.vahillspool.org.	300	IN	A	199.189.248.171
+vahillspool.org.	300	IN	A	199.189.248.171
