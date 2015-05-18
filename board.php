@@ -42,10 +42,11 @@
                 <em>Member-at-large:</em> Brenda Dreesbach<br>
                 <em>Member-at-large:</em> Lloyd Dugan<br>
                 <em>Member-at-large:</em> Jeff Govert<br>
+                <em>Member-at-large:</em> Pam Mahoney<br>
                 <em>Member-at-large:</em> Regina Mohr<br>
-                <em>Member-at-large:</em> Suzy Thompson<br>
-                <em>Member-at-large:</em> Niki Wanner<br>
                 <em>Member-at-large:</em> Carol Montoya<br>
+                <em>Member-at-large:</em> Courtney Stockman<br>
+                <em>Member-at-large:</em> Niki Wanner<br>
                 <em>Ex Officio/Swim Team:</em> Anne Govert
               </p>
             </div>
@@ -61,12 +62,13 @@
             Committees
           </h3>
           <p>
-            <em>Membership and Marketing</em>: Caitlin Irvin, Chair<br>
-            <em>Finance</em>: Kevin Lowry, Chair<br>
-            <em>Operations</em>: Brian Fiore, Chair<br>
-            <em>Facilities</em>: Jeff Govert, Chair<br>
-            <em>Social</em>: Regina Mohr, Chair<br>
-            <em>Swim Team</em>: Anne Govert<br>
+            <em>Facilities Chair</em>: Jeff Govert<br>
+            <em>Finance Chair</em>: Kevin Lowry<br>
+            <em>Marketing Chair</em>: Niki Wanner<br>
+            <em>Membership Chair</em>: Caitlin Irvin<br>
+            <em>Operations Chair</em>: Brian Fiore<br>
+            <em>Social Chair</em>: Regina Mohr<br>
+            <em>Swim Team Liaison</em>: Anne Govert<br>
           </p>
 </div>
 <?php include_once "footer.inc"; ?>
