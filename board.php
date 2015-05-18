@@ -37,7 +37,7 @@
                 <em>President:</em> Norman Speicher<br>
                 <em>Vice-President:</em> Brian Fiore<br>
                 <em>Secretary:</em> Caitlin Irvin<br>
-                <em>Treasurer:</em> Cindy Travia<br>
+                <em>Treasurer:</em> Kevin Lowry<br>
                 <em>Asst. Sec-Treasurer:</em> Norman Speicher<br>
                 <em>Member-at-large:</em> Brenda Dreesbach<br>
                 <em>Member-at-large:</em> Lloyd Dugan<br>
@@ -45,6 +45,7 @@
                 <em>Member-at-large:</em> Regina Mohr<br>
                 <em>Member-at-large:</em> Suzy Thompson<br>
                 <em>Member-at-large:</em> Niki Wanner<br>
+                <em>Member-at-large:</em> Carol Montoya<br>
                 <em>Ex Officio/Swim Team:</em> Anne Govert
               </p>
             </div>
@@ -61,8 +62,8 @@
           </h3>
           <p>
             <em>Membership and Marketing</em>: Caitlin Irvin, Chair<br>
-            <em>Finance</em>: Cindy Travia, Chair<br>
-            <em>Operations</em>: Suzy Thompson, Chair<br>
+            <em>Finance</em>: Kevin Lowry, Chair<br>
+            <em>Operations</em>: Brian Fiore, Chair<br>
             <em>Facilities</em>: Jeff Govert, Chair<br>
             <em>Social</em>: Regina Mohr, Chair<br>
             <em>Swim Team</em>: Anne Govert<br>
