@@ -12,25 +12,25 @@
       Hours of operation:
     </h4>
     <p>
-      <b>Opening Day <?php echo date('Y'); ?> is <?php echo "Saturday, May 24" # date('l, F j', strtotime("last Saturday", mktime(0, 0, 0, 6, 1, date('Y')))); ?>.</b>
+      <b>Opening Day <?php echo date('Y'); ?> is <?php echo "Saturday, May 23, 2015" # date('l, F j', strtotime("last Saturday", mktime(0, 0, 0, 6, 1, date('Y')))); ?>.</b>
     </p>
     <p>
       <table>
         <tr>
-          <td>May 25, 2013 – June 24</td>
+          <td>May 23, 2015 – June 19</td>
           <td>Weekends</td>
-          <td>11 a.m. to 8 p.m. daily (including Memorial Day)</td>
+          <td>11:00am to 8:00pm daily (including Memorial Day)</td>
         </tr>
         <tr>
           <td></td>
           <td>Weekdays</td>
-          <td>4 p.m. to 8 p.m.</td>
+          <td>4:00pm to 8:00pm</td>
         </tr>
         <tr>
-          <td>June 25 – September 1</td>
+          <td>June 20 – September 7</td>
           <td>Daily</td>
           <td>
-            11 a.m. – 8:30 p.m. (no break at 7:45 p.m.)
+            11:00am – 8:30pm (no break at 7:45pm)
           </td>
       </table>
     </p>
@@ -38,16 +38,16 @@
       Exceptions:
     </h4>
     <p>
-      Baby pool opens at 10:00 a.m. daily except Sunday
+      Baby pool opens at 10:00am daily except Sunday
     </p>
     <p>
-      Wednesdays in July & August Pool Closes at 9:00 p.m.
+      Wednesdays in July & August Pool Closes at 9:00pm.
     </p>
     <p>
       4th of July and Labor Day - close at 6:00pm
     </p>
     <p>
-      Closing time of 8:30 p.m. means the front gate will close at 8:30 p.m.
+      Closing time of 8:30pm means the front gate will close at 8:30pm.
     </p>
     <p>
       Pool operating hours are subject to change for weather or special events.
@@ -104,9 +104,8 @@
         <a name="open-house"></a><?php echo date('l, F jS, Y', strtotime('2012-06-03')); ?> &ndash;
       </th>
       <td>
-        Open House/Fun Fair - 12:00pm - 4:00pm<br/>
-        Rain date is <?php echo date('l, F jS, Y', strtotime('2012-06-10')); ?> also from 12:00pm - 4:00pm
-      </td>
+        Open House - 12:00pm - 4:00pm<br/>
+              </td>
     </tr>
     <?php } ?>
     <tr>
@@ -114,10 +113,9 @@
         <a name="raft-night"></a>Raft nights &ndash;
       </th>
       <td>
-        bring your inflatables and
+        Bring your inflatables and
         have fun in the water for an extra hour,
-        until 9 p.m., on Wednesdays in July and
-        August.
+        until 9:00pm, on Wednesdays in July and August.
       </td>
     </tr>
   </table>
