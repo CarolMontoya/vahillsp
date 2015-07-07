@@ -7,7 +7,7 @@
 <script src="js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
 <div class="rounded">
           <h2>
-            Virginia Hills <em>Tidal Wave</em>
+            Welcome to the Tidal Wave Swim Team
           </h2>
           <h3>
             Division <?php echo $division ?>, Northern Virginia Swimming League <img class="middle" src="images/swimteam/nvsl_logo.png">
@@ -17,8 +17,39 @@
                width="400"
                height="372"
                alt="Tidal Wave 50 year anniversary">
-          </p><br>
-          <h4>2009</h4>
+          </p>
+                            </div>
+          <p>
+            The Virginia Hills pool swim team, the
+            <em><strong>Tidal Wave</strong></em>, is one of the
+            oldest teams in the 102-team <a href=
+            "www.mynvsl.com">Northern Virginia Swimming
+            League</a> (NVSL). Swim Team is a fun-filled, jam-packed season beginning with our first practice on May 26, 2015 and ending with our final Banquet & Awards ceremony on July 26, 2015.
+          </p>
+          <p>
+  Swim Team, especially the <strong>Tidal Wave</strong>, is a one-of-a-kind summer experience that brings children (and parents) of all ages together to: have fun; improve skills, endurance, and confidence in the water; and enjoy each other’s company and the camaraderie of a great team sport.    
+</p>
+<p>The Tidal Wave swim team is open to every pool member age 4 to 18.  Young, old, rookie, and experienced swimmers all make up our team.  Every pool member is encouraged to join.  There are no try outs or waitlists.  Tell your friends!  
+</p>
+<p>After-school <strong>practices</strong> begin immediately after Memorial Day at the pool. Different times are set aside for each age group. Once school ends, practices switch to weekday mornings with Tuesday, Wednesday, and Thursday evenings still offered for kids in camps or daycare.
+</p>
+<p><strong>Swim meets</strong> begin on Saturday mornings in mid-June, and run through July. There are competitive meets (A meets) on Saturday mornings and developmental meets (B meets) Monday evenings. Other fun team activities to fill your summer include the annual spaghetti dinner, ice cream socials, donut (Fri)days, the team campout, Kings Dominion Day, pancake breakfast, Friday night pep rallies, and our end-of-season banquet and awards evening. 
+   </p>
+<h4>Additional Information</h4>
+
+<ul><li>Welcome to the Tidal Wave informational letter
+<li><a href=
+            "swim-team-101.php">Swim Team 101 basics</a> (use whatever existing link there is)
+<li>Practice and Meet schedule
+</ul>
+
+            <h4>Contact</h4>
+The Team Representative for the Tidal Wave is Anne Govert. She can be reached at <a href=
+              "mailto:swimteam@vahillspool.org">swimteam@vahillspool.org</a>. 
+Follow the team on Twitter: @VHtidalwave
+
+        </div>
+        <h4>2009</h4>
           <a href="images/swimteam/2009/swimteam-2009-1.jpg" rel="prettyPhoto[pp_gal]" title="Little girl freestyle"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-1.jpg" width="60" height="60" alt="Little girl freestyle" /></a>
           <a href="images/swimteam/2009/swimteam-2009-2.jpg" rel="prettyPhoto[pp_gal]" title="Tidal Wave Banner"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-2.jpg" width="60" height="60" alt="Tidal Wave Banner" /></a>
           <a href="images/swimteam/2009/swimteam-2009-3.jpg" rel="prettyPhoto[pp_gal]" title="Team area"><img src="images/swimteam/2009/thumbnails/t-swimteam-2009-3.jpg" width="60" height="60" alt="Team area" /></a>
@@ -255,64 +286,6 @@
             <h4>
               Go Tidal Wave!
             </h4>
-            <ul>
-              <li>
-                <a href="swim-team-101.php"><strong>Swim Team
-                101</strong></a>: learn the basics!
-              </li>
-
-              <li>2014 swim season <a href="swim-team-sched.php"><strong>
-                practice and meet schedule online</strong></a>
-              </li>
-              <li><strong><a href="docs/2014SwimTeamInformationLetter.pdf">Information Letter</a></strong></li>
-              <li><strong><a href="http://www.active.com/swimming-team/alexandria-va/virginia-hills-swim-team-summer-2014">Registration Form</a></strong></li>
-<!--               <li><strong><a href="docs/2011AvailabilityForm.pdf">Availability Form</a></strong></li>
-              <li><strong><a href="docs/2011VirginiaHillsTShirts.pdf">T-Shirt Form</a></strong></li>
- -->
-              <li>Contact <a href=
-              "mailto:swimteam@vahillspool.org">Anne Govert</a>,
-              Team Representative, with questions
-              </li>
-            </ul>
-          </div>
-          <p>
-            The Virginia Hills pool swim team, the
-            <em><strong>Tidal Wave</strong></em>, is one of the
-            oldest teams in the 98-team <a href=
-            "http://nvsl.nvblu.com">Northern Virginia Swimming
-            League</a> (NVSL). Children are welcome to join, even
-            if they are not strong swimmers now. Practices begin
-            immediately after Memorial Day after school hours at
-            the pool. Different times are set aside for each age
-            group. Once school ends, practices switch to weekday
-            mornings and Tuesday and Thursday evenings.
-          </p>
-          <p>
-            <strong>Swim meets</strong> begin on Saturday
-            mornings in mid-June, and run through July. There are
-            competitive meets (A meets) on Saturday mornings and
-            developmental meets (B meets) Monday evenings. This
-            is a fun activity that brings children of all ages
-            together to enjoy each others' company and the
-            camaraderie of a great team sport. <strong>Pep
-            rallies</strong> are held Friday evenings before A
-            meets. Other team
-            events include the <strong>team campout</strong>; a
-            trip to <strong>King's Dominion</strong>; and the
-            <strong>team banquet.</strong>
-          </p>
-          <p>
-            <a name="Registration"></a>Swimmers only need to be
-            able to swim one length of the pool. If you are not
-            sure about signing up for the team and you would like
-            to have your child try it out... then feel free to
-            join a practice and let your child "test the waters."
-            For more information, read <a href=
-            "swim-team-101.php">Swim Team 101</a>, or
-            <a href="mailto:swimteam@vahillspool.org">e-mail</a>
-            us.
-          </p>
-        </div>
   <script type="text/javascript" charset="utf-8">
     $(document).ready(function(){
       $("a[rel^='prettyPhoto']").prettyPhoto();
