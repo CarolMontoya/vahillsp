@@ -16,8 +16,11 @@
               <h3>Volunteers</h3>
               <p>
                 The Snack Bar needs volunteers! Please sign up
-                <a href="http://vols.pt/mE2kJ8">here</a>
+                <a href="http://www.signupgenius.com/go/60b0c4fa8a62e5-snack">here</a>
                 for time slots.
+              </p>
+              <p>
+                As a reminder, volunteers can choose to earn 2 guest passes for every hour worked, or one $6 snack bar card for every 2 hours worked. (Please note there was a typo in my earlier email regarding the snack bar cards; we do require 2 hours of work to earn each snack bar card.)
               </p>
               <a href="http://vols.pt/mE2kJ8" class="no-external">
                 <img src="images/volunteers.jpg">
@@ -32,22 +35,7 @@
               <p>&nbsp;</p>
             </div>
           </div>
-          <div class="yui-g">
-            <div class="yui-u">
-              <h3>Survey</h3>
-              <p>
-                Go <a href="http://www.surveymonkey.com/s/F3TXKCQ">here</a> to
-                <b>fill out our survey</b> (it won't take long, there are only
-                about 10 questions).
-              </p>
-            </div>
-            <div class="yui-u first">
-              <img src="images/survey.gif"
-                   alt="Survey clipart"
-                   width="250"
-                   height="187">
-            </div>
-          </div>
+              
           <div class="yui-g">
             <p>
               The Virginia Hills Pool Snack Bar will now have regular weekend
@@ -56,26 +44,22 @@
               and after those weekend shifts, so please consider signing up to
               help out!
             </p>
-            <p>
-              Check out our newly renovated snack bar space and our new magnetic
-              sign board with items organized by price!
-            </p>
-            <p>
-              <strong>New this year:</strong> HOT DOGS SERVED DAILY!!! We have a new hot dog
-              toaster that allows us to cook up to two hot dogs at a time, ready
+           <p>
+              HOT DOGS SERVED DAILY!!! We have a hot dog toaster that allows us to cook up to two hot dogs at a time, ready
               in 2-3 minutes!  Hot dogs can be ordered at any time the snack bar
-              is open, and condiments are available in the snack bar.  Other hot
+              is open, and condiments are available in the snack bar. Other hot
               food options offered in the snack bar daily include Macaroni and
               Cheese cups, Cup O' Soups, and our delicious nachos (nachos may
               not be served every day, but we will try to have them out most
               evenings and weekends.)
             </p>
             <p>
-              <strong>Also new:</strong> we have a new, industrial-grade snow cone machine!  Snow
+              We also have a new, industrial-grade snow cone machine!  Snow
               cones will be served on weekends and at home swim meets.
             </p>
             <p>
-              Thanks and we'll see you at the snack bar!
+              Thanks and we'll see you at the snack bar!,br/>
+              Theresa Talavera, Leah Beckett, and Sara King Snack Bar Managers, Virginia Hills Pool
             </p>
           </div>
         </div>
